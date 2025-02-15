@@ -1,0 +1,1 @@
+Mnemonic Scraper for Mammoth Memory. It takes as input a list of Mammoth Memory URLs and scrapes the page, returning word, definition, mnemonic, highlighted texts, and images. If the url is part of a larger list, then the scraper goes until the end of the list. Also included is the csv file generated on the current example inputs.
