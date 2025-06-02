@@ -1,0 +1,598 @@
+url,concept_and_mnemonic
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html,"```json
+[
+    { ""name"": ""Abbie"", ""mnemonic"": ""Abbie Birthday (happy birthday)"" },
+    { ""name"": ""Adam"", ""mnemonic"": ""Adam Bomb (atom bomb)"" },
+    { ""name"": ""Addison"", ""mnemonic"": ""Addison Sun (add a sun)"" },
+    { ""name"": ""Al"", ""mnemonic"": ""Al Bino (albino), Al Coholic (alcoholic), Ka Seltzer (Alka-Seltzer), Al Uminium (aluminium)"" },
+    { ""name"": ""Alec"", ""mnemonic"": ""Alec Tricity (electricity), Alec Of Paint (a lick of paint), Alec a Lick (a lick)"" },
+    { ""name"": ""Alf"", ""mnemonic"": ""Alf A Romeo (Alfa Romeo), Alf Abet (alphabet)"" },
+    { ""name"": ""Ali"", ""mnemonic"": ""Ali Gator (alligator), Ali Katt (alley cat)"" },
+    { ""name"": ""Alicia"", ""mnemonic"": ""Alicia Sober (at least you're sober), Alicia Leash (A Leash)"" },
+    { ""name"": ""Amanda"", ""mnemonic"": ""Amanda Panda (Amanda is a panda), Amanda Lay (Mandalay), Amanda Lynn (a mandolin)"" },
+    { ""name"": ""Amber"", ""mnemonic"": ""Amber Stop or Go (Amber as in traffic lights)"" },
+    { ""name"": ""Amelia"", ""mnemonic"": ""Amelia you ate (a meal you ate)"" },
+    { ""name"": ""Amy"", ""mnemonic"": ""Amy Stake (a mistake)"" },
+    { ""name"": ""Andy"", ""mnemonic"": ""Andy Friese (antifreeze)"" },
+    { ""name"": ""Anita"", ""mnemonic"": ""Anita Hanke (I need a hanky), Anita Shower (I need a shower)"" },
+    { ""name"": ""Ann"", ""mnemonic"": ""Ann Teak (antique), Ann Vill (anvil)"" },
+    { ""name"": ""Anna"", ""mnemonic"": ""Anna Prentice (an apprentice), Anna Rexic (anorexic), Anna Sassin (an assassin)"" },
+    { ""name"": ""Annette"", ""mnemonic"": ""Annette Curtain (a net curtain)"" },
+    { ""name"": ""Annie"", ""mnemonic"": ""Annie Oakley (Annie Oakley was a famous American sharpshooter), Annie Briated (inebriated - drunk), Annie Body (anybody), Annie Thing (anything)"" },
+    { ""name"": ""April"", ""mnemonic"": ""April Shower (April shower)"" },
+    { ""name"": ""Aria"", ""mnemonic"": ""Aria Opera Song (Aria a solo song for a singer in an opera)"" },
+    { ""name"": ""Art"", ""mnemonic"": ""Art Ist (artist)"" },
+    { ""name"": ""Arthur"", ""mnemonic"": ""Arthur Ritis (arthritis)"" },
+    { ""name"": ""Asher"", ""mnemonic"": ""Asher Ashtray (Asher always carries an ashtray on her)"" },
+    { ""name"": ""Ashley"", ""mnemonic"": ""Ashley Tray (ash tray)"" },
+    { ""name"": ""Audrey"", ""mnemonic"": ""Audrey Dry (all dry)"" },
+    { ""name"": ""Aurora"", ""mnemonic"": ""Aurora Roar (Aurora can roar)"" },
+    { ""name"": ""Ava"", ""mnemonic"": ""Ava Aviary (Ava lives in an aviary)"" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=2,"```json
+[
+    { ""name"": ""Barb"", ""mnemonic"": ""Barb Wire (barbed wire) Movement: See them try to touch barbed wire fencing."" },
+    { ""name"": ""Barbara"", ""mnemonic"": ""Barbara Wire (barbed wire) Movement: See them try to touch barbed wire fencing."" },
+    { ""name"": ""Barry"", ""mnemonic"": ""Barry R. Reef (barrier reef) Movement: See them pointing out lots of beautiful coral and fish."" },
+    { ""name"": ""Bea"", ""mnemonic"": ""Bee Keeper (beekeeper) Movement: Pretend been stung by a bee."" },
+    { ""name"": ""Bella"", ""mnemonic"": ""Bella Button (belly button) Movement: See them do a belly dance."" },
+    { ""name"": ""Ben"", ""mnemonic"": ""Ben Dover (bend over) Movement: See them bend over backwards."" },
+    { ""name"": ""Bess"", ""mnemonic"": ""Bess Eaton (best eaten before) Movement: See them pick up smelly food."" },
+    { ""name"": ""Bess"", ""mnemonic"": ""Bess Friend (best friend) Movement: Ask her if she is sitting next to her best friend."" },
+    { ""name"": ""Bev"", ""mnemonic"": ""Bev Erage (beverage) Movement: See them offer people drinks."" },
+    { ""name"": ""Biff"", ""mnemonic"": ""Biff Burger (beef burger) Movement: See them eat giant beef burger."" },
+    { ""name"": ""Bill"", ""mnemonic"": ""Bill Board (billboard)"" },
+    { ""name"": ""Bill"", ""mnemonic"": ""Bill Ding (building)"" },
+    { ""name"": ""Bill"", ""mnemonic"": ""Bill Der (builder) Movement: See them building something."" },
+    { ""name"": ""Billy"", ""mnemonic"": ""Billy goat (A male goat) Movement: See them act as a billy goat."" },
+    { ""name"": ""Bob"", ""mnemonic"": ""Bob Upandown (bob up and down) Movement: See them bob up and down."" },
+    { ""name"": ""Bonnie"", ""mnemonic"": ""Bonnie and Clyde (Bonnie and Clyde, famous robbers) Movement: See them take part in a heist."" },
+    { ""name"": ""Bonnie"", ""mnemonic"": ""Bonnie Car (car bonnet)"" },
+    { ""name"": ""Brandon"", ""mnemonic"": ""Brandon Cattell (branding cattle) Movement: See them trying to brand something."" },
+    { ""name"": ""Brenda"", ""mnemonic"": ""Brenda Bender (Brenda the bender) Movement: See her trying to bend something."" },
+    { ""name"": ""Brenda"", ""mnemonic"": ""Bren gun and surrenda Brenda will surrender"" },
+    { ""name"": ""Brian"", ""mnemonic"": ""Brian Surgeon (brain surgeon) Movement: See them trying out a brain operation."" },
+    { ""name"": ""Brian"", ""mnemonic"": ""Brian - Life of Brian (Brian in famous film Life of Brian) Movement: See someone stand by him and say, \""He is not the Messiah, he is a very naughty boy.\"""" },
+    { ""name"": ""Brice"", ""mnemonic"": ""Brice Tag (price tag) Movement: Using a price tag gun."" },
+    { ""name"": ""Brock"", ""mnemonic"": ""Brock Colley (broccoli) Movement: See them eat a raw broccoli stem."" },
+    { ""name"": ""Bud"", ""mnemonic"": ""Bud Weiser (Budweiser) Movement: See them drink and then say Wassup."" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=3,"```json
+[
+    { ""name"": ""Cal"", ""mnemonic"": ""Cal Culator (calculator)"" },
+    { ""name"": ""Camila"", ""mnemonic"": ""Camila Queen (Camila is the Queen of Britain)"" },
+    { ""name"": ""Candy"", ""mnemonic"": ""Candy Bar (candy bar)"" },
+    { ""name"": ""Cara"", ""mnemonic"": ""Cara Van (caravan)"" },
+    { ""name"": ""Carl"", ""mnemonic"": ""Carl Alarm (car alarm), Carl Breakdown (car will break down)"" },
+    { ""name"": ""Carrie"", ""mnemonic"": ""Carrie Abag (carrier bag), Carrie Cot (carrycot), Carrie Oaky (karaoke)"" },
+    { ""name"": ""Charlotte"", ""mnemonic"": ""Charlotte Lady (charlady), Charlotte Sharllot (shallot)"" },
+    { ""name"": ""Cher"", ""mnemonic"": ""Cher Ing (sharing)"" },
+    { ""name"": ""Chip"", ""mnemonic"": ""Chip Munk (chipmunk)"" },
+    { ""name"": ""Chloe"", ""mnemonic"": ""Chloe Clone (Chloe has a clone), Chloe Clover (Chloe is a clover)"" },
+    { ""name"": ""Chris"", ""mnemonic"": ""Chris Cross (criss-cross), Chris Crisp (Chris is a crisp), Chris P. Bacon (crispy bacon)"" },
+    { ""name"": ""Chuck"", ""mnemonic"": ""Chuck up (chuck up)"" },
+    { ""name"": ""Claire"", ""mnemonic"": ""Claire Annette (clarinet), Claire Voyant (clairvoyant)"" },
+    { ""name"": ""Colin"", ""mnemonic"": ""Colin Sick (call in sick)"" },
+    { ""name"": ""Constance"", ""mnemonic"": ""Constance Snoring (constant snoring)"" },
+    { ""name"": ""Corey"", ""mnemonic"": ""O'Graff (choreograph)"" },
+    { ""name"": ""Cosmo"", ""mnemonic"": ""Cosmo Naut (cosmonaut)"" },
+    { ""name"": ""Courtney"", ""mnemonic"": ""Courtney Fish (caught any fish)"" },
+    { ""name"": ""Crystal"", ""mnemonic"": ""Crystal Ball (crystal ball)"" },
+    { ""name"": ""Curt"", ""mnemonic"": ""Curt Ain (curtain), Curt Sy (curtsy)"" },
+    { ""name"": ""Cyril"", ""mnemonic"": ""Cyril Box (cereal box), Cyril Killer (serial killer)"" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=4,"```json
+[
+    { ""name"": ""Daisy"", ""mnemonic"": ""Daisy Picking"" },
+    { ""name"": ""Dale"", ""mnemonic"": ""Dale E. Paper (daily paper)"" },
+    { ""name"": ""Damien"", ""mnemonic"": ""Damien Hurst (Damien Hurst, famous artist)"" },
+    { ""name"": ""Dan"", ""mnemonic"": ""Dan D. Lions (dandelions), Dan Druff (dandruff), Dan Singh (dancing)"" },
+    { ""name"": ""Danielle"", ""mnemonic"": ""Danielle Lionsden (Danielle in the Lions' Den (Bible))"" },
+    { ""name"": ""Darren"", ""mnemonic"": ""Darren Runs (the runs), Darren Wrench (Darren the wrench), Darren Daz (Daz is a nickname for Darren)"" },
+    { ""name"": ""Debbie"", ""mnemonic"": ""Deb Bie (dead bee)"" },
+    { ""name"": ""Dee"", ""mnemonic"": ""Dee Kay (decay), Dee Capitate (decapitate)"" },
+    { ""name"": ""Dennis"", ""mnemonic"": ""Dennis Elbow (tennis elbow), Dennis Dentist (Dennis at the dentist)"" },
+    { ""name"": ""Des"", ""mnemonic"": ""Des Perate (desperate), Des Pickable Me (despicable me)"" },
+    { ""name"": ""Dia"", ""mnemonic"": ""Dia Ria (diarrhoea), Dia Per (diaper), Di Laughing (die laughing)"" },
+    { ""name"": ""Diane"", ""mnemonic"": ""Diane O'Saur (dinosaur)"" },
+    { ""name"": ""Dick"", ""mnemonic"": ""Dick Tator (dictator)"" },
+    { ""name"": ""Dinah"", ""mnemonic"": ""Dinah Saur (dinosaur)"" },
+    { ""name"": ""Dom"", ""mnemonic"": ""Dom Estickhelp (domestic help), Dom Minatrix (dominatrix)"" },
+    { ""name"": ""Don"", ""mnemonic"": ""Don Key (donkey)"" },
+    { ""name"": ""Donald"", ""mnemonic"": ""Donald Duck"" },
+    { ""name"": ""Doris"", ""mnemonic"": ""Doris Shut (door is shut)"" },
+    { ""name"": ""Dot"", ""mnemonic"": ""Dot Ty (dotty)"" },
+    { ""name"": ""Doug"", ""mnemonic"": ""Doug Up (dug up), Doug Graves (dug graves), Doug Hole (dug hole)"" },
+    { ""name"": ""Drew"", ""mnemonic"": ""Drew Blood (drew blood), Drew a'Picture (drew a picture)"" },
+    { ""name"": ""Duane"", ""mnemonic"": ""Duane Pipe (drainpipe)"" },
+    { ""name"": ""Duncan"", ""mnemonic"": ""Duncan Disorderly (drunk and disorderly), Duncan Donuts (Dunkin' Donuts)"" },
+    { ""name"": ""Dusty"", ""mnemonic"": ""Dusty Place (dusty place), Dusty Rhodes (dusty roads)"" },
+    { ""name"": ""Dwayne"", ""mnemonic"": ""Dwayne Pipe (drain pipe)"" },
+    { ""name"": ""Dwight"", ""mnemonic"": ""Dwight House (White House)"" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=5,"```json
+[
+    { ""name"": ""Earl"", ""mnemonic"": ""Earl Grey (Earl Grey tea). Movement: See them make a cup of tea using Earl Grey tea. Earl E. Bird (early bird gets the worm). Lee Riser (early riser)."" },
+    { ""name"": ""Ed"", ""mnemonic"": ""Ed Ducation (education). Ed Wardian (Edwardian). Ed Ortails (heads or tails). Movement: See them flick a coin for heads or tails. Ed Andshoulders (head and shoulders)."" },
+    { ""name"": ""Edward"", ""mnemonic"": ""Edward Scissorhands from the film. Movement: See him use his scissor hands."" },
+    { ""name"": ""Eileen"", ""mnemonic"": ""Eileen Over (I lean over). Movement: See them lean over."" },
+    { ""name"": ""Elaine"", ""mnemonic"": ""Elaine on Motorway. Elaine - should there be just a lane for E cars or electric cars? Movement: See them start an electric car."" },
+    { ""name"": ""Eleanor"", ""mnemonic"": ""Eleanor Rigby picks up the rice (Beatles song). Movement: See her pick up the rice."" },
+    { ""name"": ""Elias"", ""mnemonic"": ""Elias lies to us. Elias - he lies to us. Movement: Ask them to say a lie and have a snake tongue."" },
+    { ""name"": ""Elijah"", ""mnemonic"": ""Elijah just came from your mouth (a lie just came from your mouth). Movement: See them say a lie to everything and have a snake tongue."" },
+    { ""name"": ""Ella"", ""mnemonic"": ""Ella Cinder (Cinderella). Ella Vator (elevator). Ella Umb Ella (Ella umbrella). Movement: See Ella open an umbrella."" },
+    { ""name"": ""Elle"", ""mnemonic"": ""Elle Phant (elephant). Movement: See her make a noise like an elephant."" },
+    { ""name"": ""Ellis"", ""mnemonic"": ""Ellis Island, America's busiest inspection and processing centre. Movement: See them inspect someone and decide if they can enter the country."" },
+    { ""name"": ""Emma"", ""mnemonic"": ""Emma Royds (haemorrhoids). Movement: See her walk around painfully."" },
+    { ""name"": ""Erica"", ""mnemonic"": ""Erica America (Erica comes from America). Movement: See her speak with an American accent."" },
+    { ""name"": ""Estelle"", ""mnemonic"": ""Estelle Hertz (it still hurts). Movement: See her estimate how much it hurts from a chart 10 at top is 100% pain."" },
+    { ""name"": ""Ethan"", ""mnemonic"": ""Ethan thanks everyone. Ethan he thanked everyone. Movement: See him thank everyone."" },
+    { ""name"": ""Euan"", ""mnemonic"": ""Euan Hoosarmy (you and whose army?). Movement: See them trying to start a fight."" },
+    { ""name"": ""Eunice"", ""mnemonic"": ""Eunice Cycle (unicycle). Movement: See them try and ride a unicycle."" },
+    { ""name"": ""Evan"", ""mnemonic"": ""Evan Keel (even keel). Evan and Odds (Even and odds). Movement: See them flick a coin for heads or tails. Evan Above (heavens above). Movement: See an angel come down from heaven above."" },
+    { ""name"": ""Eve"", ""mnemonic"": ""Eve Angelical (evangelical). Eve and Adam (Adam and Eve). Movement: See her eat an apple. Eve Ho (heave ho). Eve Ningall (evening all)."" },
+    { ""name"": ""Evelyn"", ""mnemonic"": ""Eve Adam. Eve of Adam and Eve lingers. Movement: See Eve eat and apple."" },
+    { ""name"": ""Ewan"", ""mnemonic"": ""Ewan Mee (you and me). Movement: See her point at a chart 10 high 1 low how much she loves you. Ewan The Sheep (you and the sheep). Ewan Hoosarmy (you and whose army?)."" },
+    { ""name"": ""Ezra"", ""mnemonic"": ""Ezra the Fez (Ezra wears a fez and does a rap). Movement: Ask them to put on their fez and do a rap song."" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=6,"```json
+[
+    {
+        ""name"": ""Faye"",
+        ""mnemonic"": ""Faye Away (fade away), Faye Kingit (faking it), Faye Slift (facelift), Fay Sake (face ache), Faye Macadamy (fame academy)""
+    },
+    {
+        ""name"": ""Flo"",
+        ""mnemonic"": ""Flo Taway (float away with the fairies)""
+    },
+    {
+        ""name"": ""Frank"",
+        ""mnemonic"": ""Frank Enstein (Frankenstein)""
+    },
+    {
+        ""name"": ""Freda"",
+        ""mnemonic"": ""Freda Go (free to go)""
+    }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=7,"```json
+[
+    {
+        ""name"": ""Gabriel"",
+        ""mnemonic"": ""Gabriel Angel (Gabriel was the angel sent by God to tell Mary that she would become pregnant and give birth to Jesus.)""
+    },
+    {
+        ""name"": ""Gail"",
+        ""mnemonic"": ""Gail Force (gale force wind)""
+    },
+    {
+        ""name"": ""Gene"",
+        ""mnemonic"": ""Gene Poole (gene pool)""
+    },
+    {
+        ""name"": ""Greyson"",
+        ""mnemonic"": ""Greyson Sculpturist (Greyson is known for his ceramic vases and cross dressing.)""
+    },
+    {
+        ""name"": ""Guy"",
+        ""mnemonic"": ""Guy Forks (Guy Fawkes) / Guy Wire (guy wire)""
+    },
+    {
+        ""name"": ""Gwen"",
+        ""mnemonic"": ""Gwen Evere (Guinevere - Arthur's wife)""
+    }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=8,"```json
+[
+    { ""name"": ""Hal"", ""mnemonic"": ""Hal Itosis (halitosis - bad breath)"" },
+    { ""name"": ""Harper"", ""mnemonic"": ""Harp Poon (harpoon)"" },
+    { ""name"": ""Harry"", ""mnemonic"": ""Harry Potter (Harry Potter - wizard)"" },
+    { ""name"": ""Harry"", ""mnemonic"": ""Harry Kiri (harakiri)"" },
+    { ""name"": ""Harry"", ""mnemonic"": ""Harry Hairy (Harry is hairy)"" },
+    { ""name"": ""Hazel"", ""mnemonic"": ""Hazel Nut (hazelnut)"" },
+    { ""name"": ""Heather"", ""mnemonic"": ""Heather Feather (feather)"" },
+    { ""name"": ""Helen"", ""mnemonic"": ""Helen Troy (Helen of Troy, the most beautiful woman in the world)"" },
+    { ""name"": ""Helen"", ""mnemonic"": ""Helen Back (to hell and back)"" },
+    { ""name"": ""Helen"", ""mnemonic"": ""Helen Waite (go to hell and wait)"" },
+    { ""name"": ""Henry"", ""mnemonic"": ""Henry the 8th King of England"" },
+    { ""name"": ""Holly"", ""mnemonic"": ""Holly Bush (holly bush)"" },
+    { ""name"": ""Holly"", ""mnemonic"": ""Holly Day (holiday)"" },
+    { ""name"": ""Holly"", ""mnemonic"": ""Holly Wood (Hollywood)"" },
+    { ""name"": ""Honey"", ""mnemonic"": ""Honey Bee (honey bee)"" },
+    { ""name"": ""Hudson"", ""mnemonic"": ""Hudson Bay Company traded, initially in furs"" },
+    { ""name"": ""Hugh"", ""mnemonic"": ""Hugh Jass (huge ass)"" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=9,"```json
+[
+    { ""name"": ""Ian"", ""mnemonic"": ""I am nothing"" },
+    { ""name"": ""Imogen"", ""mnemonic"": ""Imogen Drinker (him a gin drinker), Im O Gen (I'm a gentleman)"" },
+    { ""name"": ""Iona"", ""mnemonic"": ""Iona Farm (I own a farm), Iona Frisbee (I own a frisbee)"" },
+    { ""name"": ""Ira"", ""mnemonic"": ""Ira I.R.A. (Ira the I.R.A.)"" },
+    { ""name"": ""Isabel"", ""mnemonic"": ""Isabel Ringing (is a bell ringing?)"" },
+    { ""name"": ""Iva"", ""mnemonic"": ""Iva Payne (I have a pain)"" },
+    { ""name"": ""Ivan"", ""mnemonic"": ""Ivan Odour (I have an odour)"" },
+    { ""name"": ""Ivy"", ""mnemonic"": ""Ivy League (Ivy League), Ivy Upthewall (Ivy grows up the wall), Ivy Poison (poison ivy)"" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=10,"```json
+[
+    { ""name"": ""Jack"", ""mnemonic"": ""Jack Pot (jackpot), Jack Hammer (jackhammer), Movement: See them use a jack hammer."" },
+    { ""name"": ""James"", ""mnemonic"": ""James Bond (James Bond 007), Movement: See them walk on and suddenly point a gun."" },
+    { ""name"": ""Jan"", ""mnemonic"": ""Jan Ittor (janitor), Movement: See them using a mop and bucket."" },
+    { ""name"": ""Jay"", ""mnemonic"": ""Jay Walker (jaywalker), Movement: See them putting up their hands to stop traffic. Jay - has lazy parents (Jay - has lazy parents who couldn't be bothered to choose a name other than pick a letter from the alphabet), Movement: See them have really lazy parents."" },
+    { ""name"": ""Jean"", ""mnemonic"": ""Jean Denim (denim jeans), Jean Poole (gene pool), Jean E (genie in a bottle), Movement: See them rub the side of a lamp."" },
+    { ""name"": ""Jeanette"", ""mnemonic"": ""Jeanette-ic Engineer (genetic engineer), Movement: See them act like a mad scientists shouting \""science!\""."" },
+    { ""name"": ""Jed"", ""mnemonic"": ""Jed Dye (Jedi), Movement: See them wave a lightsabre."" },
+    { ""name"": ""Jeff"", ""mnemonic"": ""Jeff Chef (Jeff is a chef), Movement: See the person act like a chef and throw pancakes up in the air."" },
+    { ""name"": ""Jenny"", ""mnemonic"": ""Jenny Flect (genuflect), Movement: See them genuflect to you as if you are the Queen or King."" },
+    { ""name"": ""Jerry"", ""mnemonic"": ""Jerry Attric (geriatric), Jerry Tom (Tom & Jerry), Movement: See them use a giant mallet to whack Tom Cats head as in the cartoon."" },
+    { ""name"": ""Jess"", ""mnemonic"": ""Jess Tate (gestate), Movement: See them being very pregnant. Jess-ee-James (Jesse James (gunslinger))"" },
+    { ""name"": ""Jessica"", ""mnemonic"": ""Jessica Rabbit (Jessica Rabbit is in Who Framed Roger Rabbit), Movement: Ask her why she always wears red."" },
+    { ""name"": ""Jim"", ""mnemonic"": ""Jim Nastic (gymnastic), Movement: See them do a handstand. Jim Cricket (Jiminy Cricket), Jim Shorts (gym shorts), Jim Shoe (gym shoe), Jim Nasium (gymnasium)"" },
+    { ""name"": ""Jo"", ""mnemonic"": ""Jo Ker (joker), Movement: See them do the best joker laugh."" },
+    { ""name"": ""Joanna"", ""mnemonic"": ""Joanna Pian'a' (Joanna is London slang for piano), Movement: See them playing piano."" },
+    { ""name"": ""Joe"", ""mnemonic"": ""Joe Kerr (joker)"" },
+    { ""name"": ""Joel"", ""mnemonic"": ""Joel Billy (Billy Joel), Movement: See them singing a famous Billy Joel song."" },
+    { ""name"": ""John"", ""mnemonic"": ""John Baptist (John the Baptist), Movement: See them baptise you."" },
+    { ""name"": ""Jordan"", ""mnemonic"": ""Jordan Michael (Jordan or Michael Jordan is the greatest basketball player of all time), Movement: See them shot an imaginary basketball."" },
+    { ""name"": ""Joy"", ""mnemonic"": ""Joy Rider (joyrider), Movement: See them ride a chopper motorbike."" },
+    { ""name"": ""Juan"", ""mnemonic"": ""Juan Man Band (one-man band), Movement: See them playing a number of instruments at once."" },
+    { ""name"": ""June"", ""mnemonic"": ""June Buggy (dune buggy), Movement: See them riding and bouncing over sand dunes."" },
+    { ""name"": ""Justin"", ""mnemonic"": ""Justin Case (just in case), Movement: See them opening loads of cases with lots of odd things in. Justin Hale (just inhale), Justin Time (just in time)"" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=11,"```json
+[
+    { ""name"": ""Kai"", ""mnemonic"": ""Kai flies like a kite."" },
+    { ""name"": ""Kandi"", ""mnemonic"": ""Kandi Apple (candy apple), Kandi Bar (candy bar)"" },
+    { ""name"": ""Karen"", ""mnemonic"": ""Karen Eater (carrion eater), Karen Carrot (Karen is a carrot), Karen Bag (carrier bag), Karen Carpenter (Karen Carpenter)"" },
+    { ""name"": ""Kate"", ""mnemonic"": ""Kate Erring (Kate does the catering)"" },
+    { ""name"": ""Katherine"", ""mnemonic"": ""Katherine Wheel (Catherine wheel)"" },
+    { ""name"": ""Kay"", ""mnemonic"": ""Kay Bull (cable), Kay Nine (canine)"" },
+    { ""name"": ""Kelly"", ""mnemonic"": ""Kelly Jelly (Kelly is full of jelly)"" },
+    { ""name"": ""Ken"", ""mnemonic"": ""Ken Opener (can opener), Ken Wood (Kenwood mixer), Ken and Barbie (Ken is Barbie's boyfriend)"" },
+    { ""name"": ""Kent"", ""mnemonic"": ""Kent C. Straight (can't see straight), Kent Clark (Clark Kent is Superman)"" },
+    { ""name"": ""Kerrie"", ""mnemonic"": ""Kerrie Seen (kerosene), Kerrie Okay (karaoke)"" },
+    { ""name"": ""Kerris"", ""mnemonic"": ""Kerris Seen (kerosene)"" },
+    { ""name"": ""Kitty"", ""mnemonic"": ""Kitty Litter (kitty litter)"" },
+    { ""name"": ""Klaus"", ""mnemonic"": ""Klaus Shave (close shave)"" },
+    { ""name"": ""Kristie"", ""mnemonic"": ""Kristie Anity (Christianity)"" },
+    { ""name"": ""Kurt"", ""mnemonic"": ""Kurt Tain (curtain)"" },
+    { ""name"": ""Kyle"", ""mnemonic"": ""Kyle-ee Minogue (Kyle of Kylie Minogue)"" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=12,"```json
+[
+    { ""name"": ""Lance"", ""mnemonic"": ""Lance Boyle (lance a boil)"" },
+    { ""name"": ""Laura"", ""mnemonic"": ""Laura Order (law and order), Laura and Hardy (Laurel & Hardy), Laura Croft (Laura Croft)"" },
+    { ""name"": ""Lauren"", ""mnemonic"": ""Lauren Bacall (classic Hollywood star: big moment in a film she taught Humphrey Bogart to whistle)"" },
+    { ""name"": ""Layla"", ""mnemonic"": ""Layla lays large eggs (Layla is a chicken that lays large eggs)"" },
+    { ""name"": ""Leah"", ""mnemonic"": ""Leah Tard (leotard)"" },
+    { ""name"": ""Lee"", ""mnemonic"": ""Lee Nover (lean over), Lee King (leaking), Lee Bruce (Bruce Lee)"" },
+    { ""name"": ""Leigh"", ""mnemonic"": ""Leigh King (leaking)"" },
+    { ""name"": ""Leo"", ""mnemonic"": ""Leo Tard (leotard), Leo Lion (Leo the lion)"" },
+    { ""name"": ""Les"", ""mnemonic"": ""Les Pack (let's pack), Les Bien (lesbian)"" },
+    { ""name"": ""Levi"", ""mnemonic"": ""Levi Jeans (Levi only wears jeans)"" },
+    { ""name"": ""Liam"", ""mnemonic"": ""Liam a Lone (leave 'em alone)"" },
+    { ""name"": ""Lily"", ""mnemonic"": ""Lily Pond (lily pond)"" },
+    { ""name"": ""Lindsay"", ""mnemonic"": ""Lindsay Oil (linseed oil)"" },
+    { ""name"": ""Lisa"", ""mnemonic"": ""Lisa Carr (lease a car), Mona Lisa (Mona Lisa)"" },
+    { ""name"": ""Liz"", ""mnemonic"": ""Liz Ard (lizard), Liz Queen (Elizabeth the Queen), Liz Bian (lesbian)"" },
+    { ""name"": ""Lois"", ""mnemonic"": ""Lois Price (lowest price), Lois Lane (Lois Lane)"" },
+    { ""name"": ""Lorraine"", ""mnemonic"": ""Lorraine Spain (the rain in Spain), Law Rain (law in this land is that it rains all the time)"" },
+    { ""name"": ""Lotte"", ""mnemonic"": ""Lotte Ree (lottery)"" },
+    { ""name"": ""Lou"", ""mnemonic"": ""Lou Behaviour (lewd behaviour), Lou Natick (lunatic), Lou Pole (loophole), Lou Zar (loser), Lou Brickant (lubricant)"" },
+    { ""name"": ""Louise"", ""mnemonic"": ""Louise IVF (Louise first child to be born by IVF)"" },
+    { ""name"": ""Luca"", ""mnemonic"": ""Luca Lucozade (Luca loves Lucozade)"" },
+    { ""name"": ""Lucas"", ""mnemonic"": ""Lucas George (George Lucas)"" },
+    { ""name"": ""Lucinda"", ""mnemonic"": ""Lucinda Head (loose in the head)"" },
+    { ""name"": ""Lucy"", ""mnemonic"": ""Lucy Fur (Lucifer)"" },
+    { ""name"": ""Luke"", ""mnemonic"": ""Luke Warm (lukewarm), Luke Skywalker (Luke Skywalker from Star Wars)"" },
+    { ""name"": ""Lynn"", ""mnemonic"": ""Lynn C. Doyle (linseed oil), Lynn Seed (linseed)"" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=13,"```json
+[
+    { ""name"": ""Mabel"", ""mnemonic"": ""Mabel Syrup (maple syrup)"" },
+    { ""name"": ""Mac"", ""mnemonic"": ""Mac Aroni (macaroni), Mac Donalds (McDonald's)"" },
+    { ""name"": ""Maddie"", ""mnemonic"": ""Maddie Gascar (Madagascar), Madd is Mad (mad as a hatter)"" },
+    { ""name"": ""Manny"", ""mnemonic"": ""Manny Kinn (mannequin)"" },
+    { ""name"": ""Manuel"", ""mnemonic"": ""Manuel Labour (manual labour)"" },
+    { ""name"": ""Marcus"", ""mnemonic"": ""Marcus Absent (mark as absent)"" },
+    { ""name"": ""Margaret"", ""mnemonic"": ""Margaret Thatcher (historic Prime Minister of Britain)"" },
+    { ""name"": ""Marilyn"", ""mnemonic"": ""Marilyn Monroe (Marilyn Monroe)"" },
+    { ""name"": ""Mark"", ""mnemonic"": ""Mark Up (mark up with a pen)"" },
+    { ""name"": ""Marsha"", ""mnemonic"": ""Marsha Mallow (marshmallow)"" },
+    { ""name"": ""Martin"", ""mnemonic"": ""Martin House (house martin)"" },
+    { ""name"": ""Mary"", ""mnemonic"": ""Mary Gold (marigold glove), Mary A. Richman (marry a rich man), Mary Christmas (merry Christmas), Mary Lamb (Mary had a little lamb)"" },
+    { ""name"": ""Mason"", ""mnemonic"": ""Mason Stone (stone mason)"" },
+    { ""name"": ""Mateo"", ""mnemonic"": ""Mat Ress and Video (mattress and video)"" },
+    { ""name"": ""Matt"", ""mnemonic"": ""Matt Tress (mattress), Matt Adore (matador)"" },
+    { ""name"": ""Matthew"", ""mnemonic"": ""Matthew Tax (Matthew the tax collector)"" },
+    { ""name"": ""Maura"", ""mnemonic"": ""Maura Plause (more applause)"" },
+    { ""name"": ""Maureen"", ""mnemonic"": ""Maureen Teresting (more interesting), Maureen Biologist (marine biologist), Maureen Marine (Maureen is a Marine)"" },
+    { ""name"": ""Maverick"", ""mnemonic"": ""Maverick Top Gun (played by Tom Cruise in Top Gun)"" },
+    { ""name"": ""Max"", ""mnemonic"": ""Max Headroom (maximum headroom), Max Power (maximum power)"" },
+    { ""name"": ""May"", ""mnemonic"": ""May Pole (maypole), May O'Nays (mayonnaise), May Day (radio distress signal)"" },
+    { ""name"": ""Megan"", ""mnemonic"": ""Megan Bacon (egg and bacon)"" },
+    { ""name"": ""Melissa"", ""mnemonic"": ""Melissa Up (me lift her up), Melissa Ard (me lizard), Murder List (murder list available)"" },
+    { ""name"": ""Melody"", ""mnemonic"": ""Melody Maker (melody making)"" },
+    { ""name"": ""Mia"", ""mnemonic"": ""Mia Meerkat (Mia is a meerkat)"" },
+    { ""name"": ""Michael"", ""mnemonic"": ""Michael Jackson (famous musician)"" },
+    { ""name"": ""Michelle"", ""mnemonic"": ""Michelle Shell (Michelle is a shell)"" },
+    { ""name"": ""Mike"", ""mnemonic"": ""Mike Rophone (microphone), Mike Rowave (microwave)"" },
+    { ""name"": ""Mila"", ""mnemonic"": ""Mila Laughs (me and her laugh)"" },
+    { ""name"": ""Miles"", ""mnemonic"": ""Miles Away (miles away), Miles Long (miles long)"" },
+    { ""name"": ""Missy"", ""mnemonic"": ""Missy (and her mum, Mrs Sippy) (Mississippi)"" },
+    { ""name"": ""Mona"", ""mnemonic"": ""Mona Lot (moan a lot), Mona Lisa (Mona Lisa)"" },
+    { ""name"": ""Myles"", ""mnemonic"": ""Myles Long (miles long)"" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=14,"```json
+[
+    { ""name"": ""Naomi"", ""mnemonic"": ""Naomi spelt backwards\nI moan\n(Naomi, I moan)\nMovement: Hear them and see them start moaning."" },
+    { ""name"": ""Natalie"", ""mnemonic"": ""Natalie\nNats won't leave\n(gnats everywhere)\nMovement: See gnats flying around her head."" },
+    { ""name"": ""Neil"", ""mnemonic"": ""Neil\nNeil Down\n(kneel down)\nMovement: See them kneel down and pray."" },
+    { ""name"": ""Nevaeh"", ""mnemonic"": ""Nevaeh\nPronounced nah-vay-ah\n(Heaven spelt backwards)\nMovement: See them in heaven."" },
+    { ""name"": ""Nick"", ""mnemonic"": ""Nick\nNick O'Time\n(nick of time)\n\nNick\nNick O'Tine\n(nicotine)\nMovement: See them smoke a cigarette.\nNick\nNick-er Elastic\n(knicker elastic)\nMovement: See their knicker elastic has gone."" },
+    { ""name"": ""Noah"", ""mnemonic"": ""Noah\nNoah Ark\n(Noah's ark)\nMovement: See them decide who can come on the ark or not."" },
+    { ""name"": ""Nora"", ""mnemonic"": ""Nora\nNora Bone\n(gnaw a bone)\nMovement: See them chew a bone like a dog."" },
+    { ""name"": ""Nova"", ""mnemonic"": ""Nova\nNova Super\nNova is a super Nova\nMovement: See them try to make an explosion like an exploding star."" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=15,"```json
+[
+    { ""name"": ""Ole"", ""mnemonic"": ""Ole Ver (Oliver - as in Oliver Twist)"" },
+    { ""name"": ""Olive"", ""mnemonic"": ""Olive Branch (olive branch)"" },
+    { ""name"": ""Oliver"", ""mnemonic"": ""Oliver Oil (olive oil)"" },
+    { ""name"": ""Olivia"", ""mnemonic"": ""Live long (live long)"" },
+    { ""name"": ""Ophelia"", ""mnemonic"": ""Ophelia Payne (I feel your pain)"" },
+    { ""name"": ""Orson"", ""mnemonic"": ""Orson Cart (horse and cart)"" },
+    { ""name"": ""Otto"", ""mnemonic"": ""Otto Graph (autograph)"" },
+    { ""name"": ""Owen"", ""mnemonic"": ""Owen Big (owing big)"" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=16,"```json
+[
+    { ""name"": ""Paige"", ""mnemonic"": ""Paige Turner (page turner)"" },
+    { ""name"": ""Pam"", ""mnemonic"": ""Pam Paired (pampered)"" },
+    { ""name"": ""Pat"", ""mnemonic"": ""Pat Downe (pat down)"" },
+    { ""name"": ""Paul"", ""mnemonic"": ""Paul Bearer (pallbearer), Paul Player (pool player)"" },
+    { ""name"": ""Pearl"", ""mnemonic"": ""Pearl Necklace (pearl necklace), Pearl Harbour (Pearl Harbour), Pearl E. Gates (pearly gates)"" },
+    { ""name"": ""Peg"", ""mnemonic"": ""Peg Legge (peg leg)"" },
+    { ""name"": ""Penny"", ""mnemonic"": ""Penny Farthing (penny farthing), Penny Less (penniless)"" },
+    { ""name"": ""Pepe"", ""mnemonic"": ""Pepe Roni (pepperoni)"" },
+    { ""name"": ""Phil"", ""mnemonic"": ""Phil Herup (fill her up), Phil Lips (Phillips Screwdriver), Phil Graves (fill graves)"" },
+    { ""name"": ""Philip"", ""mnemonic"": ""Philip de Bagg (fill the bag), Philip Screwdriver (Philips screwdriver)"" },
+    { ""name"": ""Poly"", ""mnemonic"": ""Poly Ester (polyester), Polly Parrot (Polly the parrot)"" },
+    { ""name"": ""Preston"", ""mnemonic"": ""Preston Cleaned (cleaned and pressed)"" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=17,"```json
+[]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=18,"```json
+[
+    { ""name"": ""Randy"", ""mnemonic"": ""Randy Guy (randy guy), Randy Dog (Randy the dog)"" },
+    { ""name"": ""Ray"", ""mnemonic"": ""Ray Dio (radio), Ray Gun (ray gun), Ray Diator (radiator)"" },
+    { ""name"": ""Rebel"", ""mnemonic"": ""Rebel Pebble (Rebel is a pebble)"" },
+    { ""name"": ""Rees"", ""mnemonic"": ""Rees Krispies (Rice Krispies)"" },
+    { ""name"": ""Rex"", ""mnemonic"": ""Rex Easily (wrecks easily), Rexs a Ship (ship wreck)"" },
+    { ""name"": ""Rich"", ""mnemonic"": ""Rich Man (rich man), Rich Fella (rich fellow)"" },
+    { ""name"": ""Rick"", ""mnemonic"": ""Rick O'Shea (ricochet), Rick Shaw (rickshaw)"" },
+    { ""name"": ""Robin"", ""mnemonic"": ""Robin Banks (robbing banks), Robin Hood (Robin Hood)"" },
+    { ""name"": ""Rod"", ""mnemonic"": ""Rod N. Reel (rod and reel)"" },
+    { ""name"": ""Ron"", ""mnemonic"": ""Ron Runs (Ron has the runs), Ron old McDonald (Ronald McDonald)"" },
+    { ""name"": ""Rose"", ""mnemonic"": ""Rose Bush (rose bush), Rose Garden (rose garden)"" },
+    { ""name"": ""Rowan"", ""mnemonic"": ""Rowan Boat (rowing boat)"" },
+    { ""name"": ""Rupert"", ""mnemonic"": ""Rupert is a bear, Rupert Bear"" },
+    { ""name"": ""Russel"", ""mnemonic"": ""Russel Sprout (Brussels sprout)"" },
+    { ""name"": ""Russell"", ""mnemonic"": ""Russel Leaves (rustle leaves)"" },
+    { ""name"": ""Rusty"", ""mnemonic"": ""Rusty Carr (rusty car), Rusty Nail (rusty nail)"" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=19,"```json
+[
+    {
+        ""name"": ""Sabrina"",
+        ""mnemonic"": ""Sabrina Witch (Sabrina the teenage witch) Movement: See them doing a witch thing.""
+    },
+    {
+        ""name"": ""Sal"",
+        ""mnemonic"": ""Sal Ami (salami) Sal Lad (salad) Movement: See someone just eating a giant salad. Sal Monella (salmonella)""
+    },
+    {
+        ""name"": ""Sally"",
+        ""mnemonic"": ""Sally Ann (Salvation Army) Sally forth (sally forth) Movement: See someone making the charge of the light brigade.""
+    },
+    {
+        ""name"": ""Sam"",
+        ""mnemonic"": ""Sam Monella (salmonella) S.A.M. (Surface to Air Missile) Movement: See them being a surface to air missile. Sam Frodo's Friend (Sam from the book series - The Lord of the Rings) Movement: Ask where's Frodo.""
+    },
+    {
+        ""name"": ""Sandy"",
+        ""mnemonic"": ""Sandy Beach (sandy beach) Sand Dee (sand deep in clothes) Movement: See them itching like mad because got sand in all your clothes.""
+    },
+    {
+        ""name"": ""Sarah"",
+        ""mnemonic"": ""Sarah Nade (serenade) Movement: See someone serenade her.""
+    },
+    {
+        ""name"": ""Scarlet"",
+        ""mnemonic"": ""Scarlet Pimpernel Scarlet Pimpernel from famous novel and leads a double life, first as a foppish and effete member of the upper-class and second as the heroic Scarlet Pimpernel rescuing people. Movement: See them be two people.""
+    },
+    {
+        ""name"": ""Sebastian"",
+        ""mnemonic"": ""Sebastian Coe Sebastian Coe set 12 world records for middle distance running. Movement: See them discuss their training that they took part in that morning.""
+    },
+    {
+        ""name"": ""Seth"",
+        ""mnemonic"": ""Seth Poole (cesspool) Movement: See them fall into a cesspool.""
+    },
+    {
+        ""name"": ""Shaun"",
+        ""mnemonic"": ""Shaun of the Dead (Shaun of the Dead) Shaun off Shotgun (sawn off shotgun) Movement: See him fire off a sawn off shotgun.""
+    },
+    {
+        ""name"": ""Sheri"",
+        ""mnemonic"": ""Sheri Cola (cherry cola) Sheri Drink (sherry drink) Movement: See her offer sherry to Father Christmas (the time of year to drink sherry).""
+    },
+    {
+        ""name"": ""Shirley"",
+        ""mnemonic"": ""Shirley Curly (Shirley is curly) Movement: See her grow long, curly hair.""
+    },
+    {
+        ""name"": ""Sid"",
+        ""mnemonic"": ""Sid Down (sit down) Sid Vicious (Sid Vicious) Movement: See them sing 'God Save the Queen'.""
+    },
+    {
+        ""name"": ""Siobhan"",
+        ""mnemonic"": ""Siobhan Lawn (shiver at the thought of mowing the lawn) Movement: See her mowing the lawn.""
+    },
+    {
+        ""name"": ""Skip"",
+        ""mnemonic"": ""Skip Rope (skipping rope) Movement: See him skip. Skip Stones (skipping stones)""
+    },
+    {
+        ""name"": ""Sonny"",
+        ""mnemonic"": ""Sonny Day (sunny day) Movement: See him pull back the curtains to expose a sunny day.""
+    },
+    {
+        ""name"": ""Sonya"",
+        ""mnemonic"": ""Son Net Ya Rd (sonnet in a yard) Movement: See them say a sonnet in a yard. Like, 'Shall I compare thee to a summers day,' but it's always raining in this yard.""
+    },
+    {
+        ""name"": ""Sophie"",
+        ""mnemonic"": ""Soph - a and feet (sofa and foot stall for your feet) Movement: See them reclining on a sofa with a foot stall. Sophie Chair (sofa and easy chair) Movement: See them lying on a sofa or easy chair.""
+    },
+    {
+        ""name"": ""Stan"",
+        ""mnemonic"": ""Stan Still (stand still) Movement: See them stand still and not move.""
+    },
+    {
+        ""name"": ""Stanley"",
+        ""mnemonic"": ""Stanley Blade (Stanley blade) Movement: See him pull out a Stanley blade.""
+    },
+    {
+        ""name"": ""Stephanie"",
+        ""mnemonic"": ""Stephanie Step On Me (step on me) Steph a Nee (step on knee) Movement: See them step on your knee if you go down on one knee.""
+    },
+    {
+        ""name"": ""Stew"",
+        ""mnemonic"": ""Stew Stupid (too stupid) Movement: See them act really stupid.""
+    },
+    {
+        ""name"": ""Sue"",
+        ""mnemonic"": ""Sue Tribe (Sioux Tribe) Movement: See them do a war cry like a Sioux Native American would. Sue Flay (souffle) Sue Ridge (sewerage) Sue Isside (suicide) Sue Yu (sue you)""
+    },
+    {
+        ""name"": ""Summer"",
+        ""mnemonic"": ""Summer Camp (summer camp) Summer Day (summer day) Summer Sault (somersault) Movement: See her attempt a somersault.""
+    }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=20,"```json
+[
+    { ""name"": ""Tanya"", ""mnemonic"": ""Tanya Hyde (tan your hide)"" },
+    { ""name"": ""Ted"", ""mnemonic"": ""Ted E. Bear (teddy bear)"" },
+    { ""name"": ""Teresa"", ""mnemonic"": ""Teresa Green (trees are green)"" },
+    { ""name"": ""Terry"", ""mnemonic"": ""Terry Bull (terrible)"" },
+    { ""name"": ""Theodore"", ""mnemonic"": ""Theodore adores theology"" },
+    { ""name"": ""Tilly"", ""mnemonic"": ""Till land (till the land)"" },
+    { ""name"": ""Tim"", ""mnemonic"": ""Tim Burr (timber)"" },
+    { ""name"": ""Tish"", ""mnemonic"": ""Tish Hughes (tissues)"" },
+    { ""name"": ""Tom"", ""mnemonic"": ""Tom Thumb (Tom Thumb)"" },
+    { ""name"": ""Tommy"", ""mnemonic"": ""Tommy Gun (Tommy gun)"" },
+    { ""name"": ""Tracy"", ""mnemonic"": ""Tracy Race (tray you use in a race)"" },
+    { ""name"": ""Trina"", ""mnemonic"": ""Trina Wood (tree in a wood)"" },
+    { ""name"": ""Ty"", ""mnemonic"": ""Ty Coon (tycoon)"" }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=21,"```json
+[]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=22,"```json
+[
+    {
+        ""name"": ""Val"",
+        ""mnemonic"": ""Val\nVal Crow\n(Velcro)\n\nVal\nVal Ley\n(valley)\nMovement: See her shout into a valley and there is an echo back.""
+    },
+    {
+        ""name"": ""Viola"",
+        ""mnemonic"": ""Viola\nViola Ent\n(violent)\nMovement: See them trying to be violent.""
+    },
+    {
+        ""name"": ""Violet"",
+        ""mnemonic"": ""Violet\nViolet Violence\nViolet is violent and she lets loose regularly.\nMovement: Don't let Violet go violent.""
+    }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=23,"```json
+[
+    {
+        ""name"": ""Walter"",
+        ""mnemonic"": ""Walter Melon (water melon) Movement: See them eating watermelon.""
+    },
+    {
+        ""name"": ""Wanda"",
+        ""mnemonic"": ""Wanda Round (wander around) Movement: See them wandering around.""
+    },
+    {
+        ""name"": ""Warren"",
+        ""mnemonic"": ""Warren Peace (War and Peace) Warren Tee (warrantee) Warren Rabbit (warren full of rabbits) Movement: See them be a rabbit in a warren.""
+    },
+    {
+        ""name"": ""Wayne"",
+        ""mnemonic"": ""Wayne Deer (reindeer) Wayne John (John Wayne) Movement: See them act like John Wayne.""
+    },
+    {
+        ""name"": ""Will"",
+        ""mnemonic"": ""Will U. Marryme (will you marry me) Will Power (willpower) Will Shakespeare (William Shakespeare) Movement: See them act a William Shakespeare play.""
+    },
+    {
+        ""name"": ""Willow"",
+        ""mnemonic"": ""Willow Tree Willow trees noted for their drooping branches. Movement: See them let kids swing from their lower branches.""
+    },
+    {
+        ""name"": ""Win"",
+        ""mnemonic"": ""Win de Day (windy day) Movement: See them be blown around on a very strong windy day.""
+    },
+    {
+        ""name"": ""Wyatt"",
+        ""mnemonic"": ""Wyatt Earp Wyatt Earp - lawman involved in the gunfight at the O.K. Corral. Movement: See them start a gun fight.""
+    },
+    {
+        ""name"": ""Wynne"",
+        ""mnemonic"": ""Win de Weather (windy weather) Wynne de Day (windy day) Movement: See them be blown around on a very strong windy day.""
+    }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=24,"```json
+[
+    {
+        ""name"": ""Xavier"",
+        ""mnemonic"": ""Xavier of the World (saviour of the world)""
+    }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=25,"```json
+[
+    {
+        ""name"": ""Yuri"",
+        ""mnemonic"": ""Yuri Nate (urinate) Movement: See them go off to the toilet.""
+    }
+]
+```"
+https://mammothmemory.net/memory/remembering-names/remembering-names/a-to-z-of-names.html?p=26,"```json
+[
+    { ""name"": ""Zack"", ""mnemonic"": ""Zack O'Potatoes (sack of potatoes)"" },
+    { ""name"": ""Zack"", ""mnemonic"": ""Zack Sack (Zack is a sack). Movement: See them do a sack race."" }
+]
+```"
