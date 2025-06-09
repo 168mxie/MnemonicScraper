@@ -1,0 +1,2021 @@
+[
+  {
+    "term": "Accelerando (or accel.)",
+    "definition": "Gradually getting faster",
+    "mnemonic": "Ready! Steady! Accelerate-and-go! (accelerando) The two boys start pedalling their go-carts and gradually get quicker.",
+    "image": "/images/user/base/music/vocab/accelerando-in-music-vocab.1eb4933.jpg",
+    "keywords": [
+      "Acceler",
+      "and",
+      "go"
+    ],
+    "question": "What does \"accelerando\" mean in music notation?"
+  },
+  {
+    "term": "Adagio",
+    "definition": "Very slow",
+    "mnemonic": "The adder, she goes (adagio) very slowly so we have to wait for her.",
+    "image": "/images/user/base/music/vocab/adagio-in-music-vocab.2d20445.jpg",
+    "keywords": [
+      "adder",
+      "she",
+      "go",
+      "very slow"
+    ],
+    "question": "What does \"adagio\" mean in music?"
+  },
+  {
+    "term": "Allegretto",
+    "definition": "Fairly quickly (but not as quick as allegro).",
+    "mnemonic": "Because there is no queue at the alley grotto (allegretto) you can see Santa fairly quickly.",
+    "image": "/images/user/base/music/vocab/allegretto-in-music-vocab.b580bdf.jpg",
+    "keywords": [
+      "alley",
+      "grotto"
+    ],
+    "question": "What does \"allegretto\" mean in musical terms?"
+  },
+  {
+    "term": "Allegro",
+    "definition": "Quick (literally 'cheerful')",
+    "mnemonic": "The athlete had a leg grow (allegro) and cheerfully ran quickly to win the race.",
+    "image": "/images/user/base/music/vocab/allegro-in-music-vocab.e784e22.jpg",
+    "keywords": [
+      "leg",
+      "grow",
+      "cheerfully",
+      "quickly"
+    ],
+    "question": "What does \"allegro\" mean in music?"
+  },
+  {
+    "term": "Andante",
+    "definition": "At a medium ('walking') speed, used to describe music with a relatively slow, moderate pace.",
+    "mnemonic": "I took my dog and auntie (andante) for a walk at a medium speed.",
+    "image": "/images/user/base/music/vocab/andante-in-music-vocabulary.03f90b0.jpg",
+    "keywords": [
+      "and auntie",
+      "medium"
+    ],
+    "question": "What does the term \"andante\" refer to in music?"
+  },
+  {
+    "term": "Cantabile",
+    "definition": "In a singing style. An Italian word meaning 'singable' or 'songlike'.",
+    "mnemonic": "Tonight they proved you can't table lay (cantabile) while singing opera.",
+    "image": "/images/user/base/music/vocab/cantabile-in-music-vocabulary.a57dd8e.jpg",
+    "keywords": [
+      "can't table lay",
+      "singing"
+    ],
+    "question": "What does \"cantabile\" mean in music?"
+  },
+  {
+    "term": "Crescendo",
+    "definition": "Gradually getting louder",
+    "mnemonic": "When the creche ends (crescendo) the noise gets gradually louder as children see their parents.",
+    "image": "/images/user/base/music/vocab/crescendo-in-music-vocabulary.712e60d.jpg",
+    "keywords": [
+      "creche end",
+      "gets gradually louder"
+    ],
+    "question": "What does the term \"crescendo\" mean in music?"
+  },
+  {
+    "term": "Da Capo (or D.C.)",
+    "definition": "Repeating from the beginning",
+    "mnemonic": "He'd dropped his cap - oh dear! (capo). It meant he had to repeat from the beginning.",
+    "image": "/images/user/base/music/vocab/da-capo-in-music-vocabulary.1ab019f.jpg",
+    "keywords": [
+      "cap",
+      "oh"
+    ],
+    "question": "What does the musical term \"Da Capo (or D.C.)\" instruct a musician to do?"
+  },
+  {
+    "term": "Dal Segno (or D.S.)",
+    "definition": "Repeat from the sign 𝄋",
+    "mnemonic": "The steward is worried they'll say no (dal segno), because they have to repeat from the sign and queue again tomorrow!",
+    "image": "/images/user/base/music/vocab/dal-segno-in-music-vocabulary.ca6de36.jpg",
+    "keywords": [
+      "they'll say no"
+    ],
+    "question": "What does Dal Segno (or D.S.) mean in music notation?"
+  },
+  {
+    "term": "Decrescendo",
+    "definition": "Gradually getting quieter",
+    "mnemonic": "The decrease in the noise after creche ended (decrescendo), as the parents drove away was a gradual decline but it was such a relief.",
+    "image": "/images/user/base/music/vocab/decrescendo-in-music-vocabulary.ab53857.jpg",
+    "keywords": [
+      "decrease",
+      "creche ended",
+      "gradual decline"
+    ],
+    "question": "What does \"decrescendo\" mean in music?"
+  },
+  {
+    "term": "Diminuendo",
+    "definition": "Gradually getting quieter and slowing down",
+    "mnemonic": "The sound of the foghorn will dim in the end (diminuendo): as you sail away from the shore it will gradually get quieter. Now the noise is less he can gradually slow down too.",
+    "image": "/images/user/base/music/vocab/diminuendo-in-music-vocabulary.7721c59.jpg",
+    "keywords": [
+      "dim",
+      "end"
+    ],
+    "question": "What does diminuendo mean in music?"
+  },
+  {
+    "term": "Dolce",
+    "definition": "Sweet",
+    "mnemonic": "\"That doll chair (dolce) would make such a sweet present for my daughter!\"",
+    "image": "/images/user/base/music/vocab/remember-dolce-in-music-vocabulary.f25407a.jpg",
+    "keywords": [
+      "doll chair",
+      "sweet"
+    ],
+    "question": "What does the term \"dolce\" mean in English?"
+  },
+  {
+    "term": "Fine",
+    "definition": "The end",
+    "mnemonic": "The shark had a fin shaped like an A (fine) at the end of its tail.",
+    "image": "/images/user/base/music/vocab/fine-in-music-vocabulary.4ba0ee3.jpg",
+    "keywords": [
+      "fin",
+      "A",
+      "the end"
+    ],
+    "question": "What does \"fine\" signify in film credits or Italian?"
+  },
+  {
+    "term": "Forte",
+    "definition": "Loud",
+    "mnemonic": "The battle at the fort was a (forte) loud one. The fort had a large ƒ above the drawbridge.",
+    "image": "/images/user/base/music/vocab/forte-in-music-vocabulary.502a38c.jpg",
+    "keywords": [
+      "fort",
+      "loud"
+    ],
+    "question": "What does \"forte\" in music notation indicate?"
+  },
+  {
+    "term": "Fortissimo",
+    "definition": "Very loud",
+    "mnemonic": "The forty sumo (fortissimo) wrestlers' shouts were very loud.",
+    "image": "/images/user/base/music/vocab/fortissimo-in-music-vocabulary.98b6edd.jpg",
+    "keywords": [
+      "forty",
+      "sumo"
+    ],
+    "question": "What does fortissimo mean in music?"
+  },
+  {
+    "term": "Legato",
+    "definition": "Smoothly",
+    "mnemonic": "To complete the tattoo leg art (legato), he needed a smooth leg.",
+    "image": "/images/user/base/music/vocab/legato-in-music-vocabulary.37ddbaa.jpg",
+    "keywords": [
+      "leg",
+      "smooth"
+    ],
+    "question": "What does \"legato\" mean in music?"
+  },
+  {
+    "term": "Lento",
+    "definition": "Slow",
+    "mnemonic": "He was so leant over (lento) on his stick that he was very slow.",
+    "image": "/images/user/base/music/vocab/lento-in-music-vocab.b3f7799.jpg",
+    "keywords": [
+      "leant",
+      "slow"
+    ],
+    "question": "What does \"lento\" mean in music?"
+  },
+  {
+    "term": "Mezzo",
+    "definition": "The Italian word for 'half', 'middle' or 'medium'.",
+    "mnemonic": "They met to sew (mezzo) exactly half way between their houses.",
+    "image": "/images/user/base/music/vocab/mezzo-in-music-vocab.583f52d.jpg",
+    "keywords": [
+      "met",
+      "sew",
+      "half"
+    ],
+    "question": "What does the term \"mezzo\" mean in Italian?"
+  },
+  {
+    "term": "Mezzo Forte",
+    "definition": "Literally 'half' loud; moderately loud",
+    "mnemonic": "They met to sew (mezzo) exactly half way between their houses.",
+    "image": "/images/user/base/music/vocab/mezzo-in-music-vocab.583f52d.jpg",
+    "keywords": [
+      "met",
+      "sew",
+      "half"
+    ],
+    "question": "What does \"mezzo forte\" mean in music dynamics?"
+  },
+  {
+    "term": "Forte",
+    "definition": "Loud",
+    "mnemonic": "The battle at the fort was a (forte) loud one. The fort had a large ƒ above the drawbridge.",
+    "image": "/images/user/base/music/vocab/forte-in-music-vocabulary.502a38c.jpg",
+    "keywords": [
+      "fort",
+      "a",
+      "loud"
+    ],
+    "question": "What does \"forte\" mean in music?"
+  },
+  {
+    "term": "Mezzo Piano (MP)",
+    "definition": "Literally 'half' quiet, moderately quiet",
+    "mnemonic": "They met to sew (mezzo) exactly half way between their houses. The tiny mouse played the piano so quietly so that she didn't wake anyone up.",
+    "image": "/images/user/base/music/vocab/mezzo-in-music-vocab.583f52d.jpg",
+    "keywords": [
+      "met",
+      "sew",
+      "half",
+      "piano",
+      "quietly"
+    ],
+    "question": "What does Mezzo Piano (MP) indicate in music dynamics?"
+  },
+  {
+    "term": "Piano (P.)",
+    "definition": "Quietly",
+    "mnemonic": "The tiny mouse played the piano so quietly so that she didn't wake anyone up.",
+    "image": "/images/user/base/music/vocab/piano-in-music-vocab.1037cd5.jpg",
+    "keywords": [
+      "piano",
+      "quietly"
+    ],
+    "question": "What does \"piano (P.)\" mean in musical notation?"
+  },
+  {
+    "term": "Pianissimo (PP.)",
+    "definition": "Very quiet",
+    "mnemonic": "Will she pee on this sumo (pianissimo)? The baby is very quiet, but she is full of surprises!",
+    "image": "/images/user/base/music/vocab/pianissimo-in-music-vocab.b7f3c9a.jpg",
+    "keywords": [
+      "pee",
+      "sumo"
+    ],
+    "question": "What does \"pianissimo (PP.)\" mean in music?"
+  },
+  {
+    "term": "Poco",
+    "definition": "A little",
+    "mnemonic": "Their Thursday night poker (poco) game was a little treat after a hard week's scavenging.",
+    "image": "/images/user/base/music/vocab/poco-in-music-vocab.91e14ad.jpg",
+    "keywords": [
+      "poker",
+      "little"
+    ],
+    "question": "What does \"poco\" mean?"
+  },
+  {
+    "term": "Rallentando",
+    "definition": "Gradually getting slower",
+    "mnemonic": "As Dad approached the rally on a tandem (rallentando) he got gradually slower.",
+    "image": "/images/user/base/music/vocab/rallentando-in-music-vocabulary2.638d89d.jpg",
+    "keywords": [
+      "rally",
+      "on",
+      "tandem"
+    ],
+    "question": "What does the term \"rallentando\" mean in music?"
+  },
+  {
+    "term": "Ritardando",
+    "definition": "Gradually getting slower",
+    "mnemonic": "The roadworkers re-tarred and do (ritardando) repairs on the road but got gradually slower as they become tired.",
+    "image": "/images/user/base/music/vocab/ritardando-in-music-vocab.b2114fd.jpg",
+    "keywords": [
+      "re-tarred",
+      "do"
+    ],
+    "question": "What does ritardando mean in music?"
+  },
+  {
+    "term": "Ritenuto",
+    "definition": "An immediate, or sudden, reduction in speed or tempo",
+    "mnemonic": "Please believe that I have written you too (ritenuto) but the postal service strike may suddenly slow down my letter.",
+    "image": "/images/user/base/music/vocab/ritenuto-in-music-vocab.0accd4d.jpg",
+    "keywords": [
+      "written",
+      "you",
+      "too"
+    ],
+    "question": "What does the musical term \"ritenuto\" mean?"
+  },
+  {
+    "term": "Ritenuto",
+    "definition": "An immediate, or sudden, reduction in speed or tempo",
+    "mnemonic": "She had written a new song with her toes (ritenuto), but it took ages; writing like this suddenly reduces the speed you can write.",
+    "image": "/images/user/base/Music/remember-ritenuto-in-music-vocabulary.59e0c7e.jpg",
+    "keywords": [
+      "written",
+      "a",
+      "new",
+      "toes"
+    ],
+    "question": "What does the musical term \"ritenuto\" mean?"
+  },
+  {
+    "term": "Staccato",
+    "definition": "Each note detached or separated from each other",
+    "mnemonic": "The stack of cards were oh (staccato) so high but then suddenly tumbled and the cards became detached.",
+    "image": "/images/user/base/music/vocab/staccato-in-music-vocab.2f9d697.jpg",
+    "keywords": [
+      "stack",
+      "card",
+      "oh",
+      "detached"
+    ],
+    "question": "What does staccato mean in music?"
+  },
+  {
+    "term": "Tempo",
+    "definition": "The rate of speed of a musical piece, indicated by directions like largo or allegro, and often by metronome markings.",
+    "mnemonic": "He was so naughty he lost his temper (tempo) all the time.",
+    "image": "/images/user/base/music/vocab/tempo-in-music-vocab.a773d76.jpg",
+    "keywords": [
+      "temper",
+      "time"
+    ],
+    "question": "What does tempo refer to in music?"
+  },
+  {
+    "term": "Tempo",
+    "definition": "The speed at which you tap your foot along to the music.",
+    "mnemonic": "You could see she had a temper going. Oh (tempo) this was going to be bad. Mum was at the front door, scowling, folded arms and tapping her foot.",
+    "image": "/images/user/base/music/vocab/remember-tempo-02-in-music.84ea263.jpg",
+    "keywords": [
+      "temper",
+      "tapping her foot",
+      "Oh"
+    ],
+    "question": "What is \"tempo\" in music?"
+  },
+  {
+    "term": "Alla Marcia",
+    "definition": "To be played in the style of a march",
+    "mnemonic": "A lamb archer (alla marcia) marched into battle.",
+    "image": "/images/user/base/music/remember-alla-marcia-in-music-vocabulary.cfa752d.jpg",
+    "keywords": [
+      "lamb",
+      "archer",
+      "march"
+    ],
+    "question": "What does \"Alla Marcia\" mean in music?"
+  },
+  {
+    "term": "Allargando",
+    "definition": "Becoming gradually slower",
+    "mnemonic": "A large Gandalf outfit became overly (allargando) heavy in the rain and gradually slowed me down.",
+    "image": "/images/user/base/music/remember-allargrando-in-music-vocabulary.487d943.jpg",
+    "keywords": [
+      "large",
+      "Gandalf",
+      "overly"
+    ],
+    "question": "What does the musical term \"allargando\" mean?"
+  },
+  {
+    "term": "Col or Con",
+    "definition": "With",
+    "mnemonic": "The theatre had columns made with concrete.",
+    "image": "/images/user/base/Music/remember-col-or-con-in-music-vocabulary.c09e46d.jpg",
+    "keywords": [
+      "col",
+      "con"
+    ],
+    "question": "What does \"Col\" or \"Con\" mean in English?"
+  },
+  {
+    "term": "Con Moto",
+    "definition": "(to be performed) in a brisk or lively manner",
+    "mnemonic": "I was conned. They took my motor and towed (con moto) it away briskly.",
+    "image": "/images/user/base/music/vocab/remember-con-moto-in-music.888f266.jpg",
+    "keywords": [
+      "con",
+      "mot",
+      "tow",
+      "briskly"
+    ],
+    "question": "What does \"con moto\" mean in musical terminology?"
+  },
+  {
+    "term": "Con Sordino",
+    "definition": "Played with a mute on the instrument",
+    "mnemonic": "The concert I saw was deemed inaudible. No (con sordino) one could hear at the back because they were playing with mutes.",
+    "image": "/images/user/base/music/vocab/remember-con-sordino-01-in-music.8b71db7.jpg",
+    "keywords": [
+      "con",
+      "saw",
+      "dee",
+      "No"
+    ],
+    "question": "What does \"con sordino\" mean in music?"
+  },
+  {
+    "term": "E or Ed",
+    "definition": "And",
+    "mnemonic": "He (e) was supposed to use his head (ed), but the god of football, Maradona, used his hand (and) instead.",
+    "image": "/images/user/base/Music/remember-e-or-ed-in-music-vocabulary.2cab062.jpg",
+    "keywords": [
+      "He",
+      "head",
+      "hand"
+    ],
+    "question": "What is the Italian word for \"and\"?"
+  },
+  {
+    "term": "Espressivo",
+    "definition": "To be performed expressively",
+    "mnemonic": "I gave the huge espresso a heave-ho (espressivo) because I needed the room to perform expressively.",
+    "image": "/images/user/base/music/vocab/remember-espressivo-in-music-vocabulary.df183a0.jpg",
+    "keywords": [
+      "espresso",
+      "heave-ho",
+      "expressively"
+    ],
+    "question": "What does \"espressivo\" mean in music?"
+  },
+  {
+    "term": "Fortepiano",
+    "definition": "Loud, then immediately quiet.",
+    "mnemonic": "The battle at the fort was a (forte) loud one. The tiny mouse played the piano so quietly so that she didn't wake anyone up.",
+    "image": "/images/user/base/music/vocab/forte-in-music-vocabulary.502a38c.jpg",
+    "keywords": [
+      "fort",
+      "piano"
+    ],
+    "question": "What does fortepiano mean in musical terms?"
+  },
+  {
+    "term": "Grave",
+    "definition": "Very slow",
+    "mnemonic": "My grandad couldn't evade (grave) the police because he could only move very slowly.",
+    "image": "/images/user/base/music/vocab/remember-grave-in-music.978e3dc.jpg",
+    "keywords": [
+      "grave",
+      "gra",
+      "eva"
+    ],
+    "question": "What does the musical term \"grave\" mean?"
+  },
+  {
+    "term": "Grazioso",
+    "definition": "To be performed in a graceful, smooth or elegant style",
+    "mnemonic": "The crowd was full of gratitude after seeing my oh-so (grazioso) graceful and elegant routine.",
+    "image": "/images/user/base/music/vocab/remember-grazioso-in-music.5319cdb.jpg",
+    "keywords": [
+      "gratitude",
+      "see",
+      "oh",
+      "so",
+      "graceful",
+      "elegant"
+    ],
+    "question": "What does \"grazioso\" mean in music?"
+  },
+  {
+    "term": "Largo",
+    "definition": "Slow, steady",
+    "mnemonic": "I drank so much lager that when I had to go (largo) home, I could only move slowly.",
+    "image": "/images/user/base/music/remember-largo-in-music-vocabulary.b33b7d4.jpg",
+    "keywords": [
+      "lager",
+      "go",
+      "slow"
+    ],
+    "question": "What does \"largo\" mean in musical terms?"
+  },
+  {
+    "term": "Ma",
+    "definition": "Used in an instruction, meaning 'but' (e.g., 'largo ma non trappo' means slowly but not too slowly).",
+    "mnemonic": "Ma (ma) read a bedtime story but fell asleep halfway through.",
+    "image": "/images/user/base/music/remember-ma-but-in-music-vocabulary.819b497.jpg",
+    "keywords": [
+      "Ma",
+      "but"
+    ],
+    "question": "What does \"ma\" mean in musical instructions?"
+  },
+  {
+    "term": "Meno",
+    "definition": "Less (proceeding another term to make the instruction clear)",
+    "mnemonic": "The men over (meno) there are doing less than the others.",
+    "image": "/images/user/base/music/remember-meno-in-music-vocabulary.1eec32e.jpg",
+    "keywords": [
+      "men",
+      "less"
+    ],
+    "question": "What does \"meno\" mean in musical terms?"
+  },
+  {
+    "term": "Meno Mosso",
+    "definition": "less movement (less quickly)",
+    "mnemonic": "They are men made of moss over (meno mosso) there, no wonder there is less movement.",
+    "image": "/images/user/base/music/vocab/remember-meno-mosso-in-music.2223850.jpg",
+    "keywords": [
+      "men",
+      "o",
+      "moss"
+    ],
+    "question": "What does \"meno mosso\" mean in music?"
+  },
+  {
+    "term": "Molto",
+    "definition": "Very, much",
+    "mnemonic": "I have a mole on my toe (molto) that I'd very much like to get rid of.",
+    "image": "/images/user/base/music/vocab/remember-molto-in-music.cb65557.jpg",
+    "keywords": [
+      "mole",
+      "toe"
+    ],
+    "question": "What does \"molto\" mean?"
+  },
+  {
+    "term": "Non-Troppo",
+    "definition": "Not too much (when following an instruction)",
+    "mnemonic": "Although we were offered nonstop tropical cocktails over (non-troppo) our stay, I knew I should not drink too much.",
+    "image": "/images/user/base/Music/remember-non-troppo-in-music-vocabulary.af886e9.jpg",
+    "keywords": [
+      "non",
+      "tro",
+      "o",
+      "not",
+      "too much"
+    ],
+    "question": "What does \"non-troppo\" mean in music?"
+  },
+  {
+    "term": "Piu",
+    "definition": "More",
+    "mnemonic": "The church pew (piu) was far more uncomfortable.",
+    "image": "/images/user/base/Music/remember-piu-in-music-vocabulary.fff797a.jpg",
+    "keywords": [
+      "pew",
+      "more"
+    ],
+    "question": "What does \"piu\" mean in music terms?"
+  },
+  {
+    "term": "piu-mosso",
+    "definition": "more quickly",
+    "mnemonic": "There was only one pew (piu) in the church, and the new priest demanded more.",
+    "image": "/images/user/base/Music/remember-piu-mosso-in-music-vocabulary.69020e5.jpg",
+    "keywords": [
+      "pew",
+      "more"
+    ],
+    "question": "What does \"piu-mosso\" mean in music?"
+  },
+  {
+    "term": "mosso",
+    "definition": "quickly",
+    "mnemonic": "The moss is growing over (mosso) the lawn. Watch its movement and how quickly it spreads.",
+    "image": "/images/user/base/Music/remember-piu-mosso-in-music-vocabulary-a.abd85d0.jpg",
+    "keywords": [
+      "moss",
+      "over"
+    ],
+    "question": "What does \"mosso\" mean in music?"
+  },
+  {
+    "term": "Poco a Poco",
+    "definition": "little by little",
+    "mnemonic": "A is for apple and you should buy (by) one every day to keep healthy.",
+    "image": "/images/user/base/Music/remember-poco-a-poco-in-music-vocabulary.7cfb9ee.jpg",
+    "keywords": [
+      "poco",
+      "poka",
+      "buy"
+    ],
+    "question": "What does \"poco a poco\" mean?"
+  },
+  {
+    "term": "Presto",
+    "definition": "Fast (quicker than allegro)",
+    "mnemonic": "After I felt something heavy press on my toe (presto), I jumped up fast.",
+    "image": "/images/user/base/Music/remember-presto-in-music-vocabulary.7ab1eb4.jpg",
+    "keywords": [
+      "press",
+      "toe",
+      "fast"
+    ],
+    "question": "What does the musical term \"presto\" mean?"
+  },
+  {
+    "term": "Senza",
+    "definition": "Without (to be performed without), used before another term to indicate that music should be performed without it.",
+    "mnemonic": "I was sent sandwiches (senza) without any filling.",
+    "image": "/images/user/base/music/vocab/remember-senza-in-music.9b64d10.jpg",
+    "keywords": [
+      "sent",
+      "without"
+    ],
+    "question": "What does \"senza\" mean in musical terms?"
+  },
+  {
+    "term": "Vivace",
+    "definition": "Lively (quickly)",
+    "mnemonic": "I wouldn't eat the vividly green cheese (vivace). It looked too lively, so I ran away quickly.",
+    "image": "/images/user/base/Music/remember-vivace-in-music-vocabulary.bae592b.jpg",
+    "keywords": [
+      "vividly",
+      "cheese",
+      "lively",
+      "quickly"
+    ],
+    "question": "What does \"vivace\" mean in music?"
+  },
+  {
+    "term": "Vivo",
+    "definition": "Lively (Quick)",
+    "mnemonic": "I'm a vegan, so if they only serve meat I'll vote (vivo) with my feet and get out quick.",
+    "image": "/images/user/base/music/vocab/remember-vivo-in-music.9641133.jpg",
+    "keywords": [
+      "ve",
+      "vo",
+      "quick"
+    ],
+    "question": "What does \"vivo\" mean in a lively context?"
+  },
+  {
+    "term": "A cappella",
+    "definition": "The performance by a singer or a singing group without instrumental accompaniment",
+    "mnemonic": "All I need is a cap and an umbrella (a cappella) I don't need an instrument, I just need my voice.",
+    "image": "/images/user/base/Music/remember-acappella-in-music-vocabulary.e602de6.jpg",
+    "keywords": [
+      "a cap",
+      "umbrella"
+    ],
+    "question": "What is the term for singing performed without instrumental accompaniment?"
+  },
+  {
+    "term": "Anacrusis",
+    "definition": "A note or sequence of notes which precede the first strong beat of a musical phrase, particularly at the start of a piece.",
+    "mnemonic": "I have a knack for ruining my sisters (anacrusis) performances by playing a strange sequence of notes at the start of the songs.",
+    "image": "/images/user/base/music/vocab/remember-anacrusis-in-music-vocabulary.7f2365f.jpg",
+    "keywords": [
+      "knack",
+      "ru",
+      "sis"
+    ],
+    "question": "What is an anacrusis in music?"
+  },
+  {
+    "term": "Annotation",
+    "definition": "Written notes and instructions within sheet music to assist the performer",
+    "mnemonic": "A note stationed (annotation) over the notes of the sheet music gives extra instruction.",
+    "image": "/images/user/base/music/vocab/remember-annotation-in-music.674ee0e.jpg",
+    "keywords": [
+      "note",
+      "station"
+    ],
+    "question": "What is the purpose of annotation in sheet music?"
+  },
+  {
+    "term": "Anthem",
+    "definition": "A vocal piece that has a special importance for a particular group of people or country, often performed on a special occasion",
+    "mnemonic": "Annually, the thumbs (anthem) will sing a vocal piece that is special to them.",
+    "image": "/images/user/base/Music/remember-anthem-in-music-vocabulary.542a272.jpg",
+    "keywords": [
+      "an",
+      "thum"
+    ],
+    "question": "What is an anthem?"
+  },
+  {
+    "term": "Antiphony",
+    "definition": "Alternate call and response between different groups of singers or instruments",
+    "mnemonic": "The ants in the symphony (antiphony) used alternating call and response between different instruments.",
+    "image": "/images/user/base/Music/remember-antiphony-in-music-vocabulary.4dfed47.jpg",
+    "keywords": [
+      "ant",
+      "symphony"
+    ],
+    "question": "What is antiphony?"
+  },
+  {
+    "term": "Arco",
+    "definition": "An instruction given to string players to use the bow",
+    "mnemonic": "For this section, arc over (arco) the strings using the bow.",
+    "image": "/images/user/base/music/vocab/remember-arco-in-music.449ff9b.jpg",
+    "keywords": [
+      "arc",
+      "arco"
+    ],
+    "question": "What does the term \"arco\" instruct string players to do?"
+  },
+  {
+    "term": "Aria",
+    "definition": "A song for solo voice with an instrumental accompaniment, typically one in an opera or large piece of musical work",
+    "mnemonic": "Are sounds going to reach up (aria) into the highest balcony of the opera house? Will one person singing overcome the orchestra and the distance? Yes is the answer.",
+    "image": "/images/user/base/music/remember-aria-in-music.592b39c.jpg",
+    "keywords": [
+      "are",
+      "re",
+      "opera",
+      "one person singing",
+      "orchestra"
+    ],
+    "question": "What is an aria?"
+  },
+  {
+    "term": "Atonal",
+    "definition": "Music that is not written or played in any key or system of scales",
+    "mnemonic": "The ape was tone-deaf and always (atonal) performed out of key.",
+    "image": "/images/user/base/Music/remember-atonal-in-music-vocabulary.0379abf.jpg",
+    "keywords": [
+      "a",
+      "tone",
+      "al"
+    ],
+    "question": "What does \"atonal\" describe in music?"
+  },
+  {
+    "term": "Baritone",
+    "definition": "An adult male singing voice between tenor and bass",
+    "mnemonic": "The bar had one tone (baritone) coming from the middle.",
+    "image": "/images/user/base/English/vocab/remember-baritone-english-vocabulary-recovered.7aaa665.jpg",
+    "keywords": [
+      "bar",
+      "tone",
+      "middle"
+    ],
+    "question": "What is a baritone?"
+  },
+  {
+    "term": "Beat Boxing",
+    "definition": "Using the voice to produce musical and rhythmic sounds (e.g., drum beats, hi-hat or cymbal noises)",
+    "mnemonic": "As I beat my opponent with my boxing (beat boxing) skills, he made a sound with his voice. It was quite rhythmic.",
+    "image": "/images/user/base/music/remember-beat-boxing-in-music.0618e41.jpg",
+    "keywords": [
+      "beat",
+      "boxing",
+      "sound",
+      "rhythmic"
+    ],
+    "question": "What is beat boxing?"
+  },
+  {
+    "term": "Beats Per Minute",
+    "definition": "Unit of measurement used to measure the tempo of a piece of music",
+    "mnemonic": "She beat her foot on the floor for a few minutes (beats per minute) and we used that beat as our tempo for the music.",
+    "image": "/images/user/base/music/vocab/remember-beats-per-minute-in-music.d53d168.jpg",
+    "keywords": [
+      "beat",
+      "minutes",
+      "tempo"
+    ],
+    "question": "What does \"beats per minute\" measure in music?"
+  },
+  {
+    "term": "Binary",
+    "definition": "The structure of a piece of music which is divided into two different sections",
+    "mnemonic": "Don't buy this ordinary (binary) song, it only has two sections.",
+    "image": "/images/user/base/music/vocab/remember-binary-01-in-music.6374cc1.jpg",
+    "keywords": [
+      "buy",
+      "ordinary"
+    ],
+    "question": "What is binary in music?"
+  },
+  {
+    "term": "Break (Music)",
+    "definition": "A short instrumental solo, often improvised and used in pop, jazz or funk.",
+    "mnemonic": "The rest of the musicians took a break (break) while the drummer did a short instrumental solo.",
+    "image": "/images/user/base/music/vocab/remember-break-(music)-in-music.1107ff2.jpg",
+    "keywords": [
+      "break"
+    ],
+    "question": "What is a break in music?"
+  },
+  {
+    "term": "Cadenza",
+    "definition": "A passage usually towards the end of a song where a soloist plays an elaborate and showy flourish.",
+    "mnemonic": "The cadet has influenza (cadenza). She had to perform solo because no one would go near her, but at least she did it with a flourish.",
+    "image": "/images/user/base/music/vocab/remember-cadenza-in-music-vocabulary.bcee2c7.jpg",
+    "keywords": [
+      "cad",
+      "influenza",
+      "solo",
+      "flourish"
+    ],
+    "question": "What is a cadenza in music?"
+  },
+  {
+    "term": "Call and Response",
+    "definition": "A feature of instrumental and vocal music where the leader plays or sings a melody and the rest of the group plays or sings in response",
+    "mnemonic": "The call of the songbird led to a response (call and response) from the others.",
+    "image": "/images/user/base/Music/remember-call-and-response-in-music-vocabulary.1b570ae.jpg",
+    "keywords": [
+      "call",
+      "response"
+    ],
+    "question": "What is \"call and response\" in music?"
+  },
+  {
+    "term": "Canon",
+    "definition": "A musical piece in which a melody is imitated by one or more parts after a delay",
+    "mnemonic": "The cannon (canon) was imitated by the drums after a short delay.",
+    "image": "/images/user/base/Music/remember-canon-in-music-vocabulary.b4de2c3.jpg",
+    "keywords": [
+      "cannon",
+      "imitated",
+      "delay"
+    ],
+    "question": "What is the definition of a canon in music?"
+  },
+  {
+    "term": "Ceilidh",
+    "definition": "A social gathering with music and dancing that is associated with Scottish and Irish folk music.",
+    "mnemonic": "Everyone came to leap (ceilidh) and dance to Scottish and Irish folk music at the social gathering.",
+    "image": "/images/user/base/Music/remember-ceilidh-in-music-vocabulary.d23262f.jpg",
+    "keywords": [
+      "ca",
+      "le"
+    ],
+    "question": "What is a ceilidh?"
+  },
+  {
+    "term": "Chorus",
+    "definition": "A part of a song that is repeated after each verse",
+    "mnemonic": "There was only a core of us (chorus) that sang after each verse.",
+    "image": "/images/user/base/Music/remember-chorus-in-music-vocabulary.86c835e.jpg",
+    "keywords": [
+      "core",
+      "us"
+    ],
+    "question": "What is the chorus in a song?"
+  },
+  {
+    "term": "Chromatic Notes",
+    "definition": "Musical notes which do not belong to the key of the piece they are played in",
+    "mnemonic": "The chrome-plated notes were automatically (chromatic notes) removed, as they did not match the key of the music.",
+    "image": "/images/user/base/music/vocab/remember-chromatic-notes-in-music.e933136.jpg",
+    "keywords": [
+      "chrome",
+      "automatic"
+    ],
+    "question": "What are chromatic notes in music?"
+  },
+  {
+    "term": "Compose",
+    "definition": "To write or make a piece of music",
+    "mnemonic": "My teacher was completely opposed (compose) to me writing music during class.",
+    "image": "/images/user/base/Music/remember-compose-in-music-vocabulary.081292e.jpg",
+    "keywords": [
+      "completely",
+      "opposed"
+    ],
+    "question": "What does it mean to compose?"
+  },
+  {
+    "term": "Countermelody",
+    "definition": "A secondary melody that is sung or played simultaneously with the main melody",
+    "mnemonic": "From the counter top they picked two different melodies (countermelody) by accident. They played the melodies at the same time and they sounded great.",
+    "image": "/images/user/base/Music/remember-countermelody-in-music-vocabulary.2b8b1a9.jpg",
+    "keywords": [
+      "counter",
+      "melodies",
+      "played the melodies at the same time"
+    ],
+    "question": "What is a countermelody?"
+  },
+  {
+    "term": "Cross Rhythm",
+    "definition": "The effect produced when two conflicting rhythms are heard together",
+    "mnemonic": "The singer was cross because the rhythms (cross rhythm) that the drummers were playing were conflicting.",
+    "image": "/images/user/base/Music/remember-cross-rhythm-in-music-vocabulary.be78a00.jpg",
+    "keywords": [
+      "cross",
+      "rhythms",
+      "conflicting"
+    ],
+    "question": "What is cross rhythm?"
+  },
+  {
+    "term": "Diatonic",
+    "definition": "Chords or notes which exist within a given key",
+    "mnemonic": "While on a diet of gin and tonics (diatonic), the musician struggled to play chords and notes within a given key.",
+    "image": "/images/user/base/Music/remember-diatonic-in-music-vocabulary.e8ecb2f.jpg",
+    "keywords": [
+      "diet",
+      "tonic"
+    ],
+    "question": "What does diatonic refer to in music theory?"
+  },
+  {
+    "term": "Dissonant",
+    "definition": "Notes that sound harsh or unpleasant when played together and at the same time; unpleasant sound",
+    "mnemonic": "It was a disturbing and resonant (dissonant) sound that I found unpleasant.",
+    "image": "/images/user/base/Music/remember-dissonant-in-music-vocabulary.2223fb6.jpg",
+    "keywords": [
+      "dis",
+      "resonant",
+      "unpleasant"
+    ],
+    "question": "What does \"dissonant\" mean in music?"
+  },
+  {
+    "term": "Distortion",
+    "definition": "The alteration of an audio signal to create a fuzzy, gritty sound; most commonly applied to heavy metal rock guitars",
+    "mnemonic": "I disturbed a large portion (distortion) of the neighbours while making a loud fuzzy sound with an amplified guitar.",
+    "image": "/images/user/base/music/vocab/remember-distortion-in-music.c78263f.jpg",
+    "keywords": [
+      "dist",
+      "portion"
+    ],
+    "question": "What is distortion in the context of audio signals and heavy metal rock guitars?"
+  },
+  {
+    "term": "Drone",
+    "definition": "A harmonic effect or accompaniment where two notes are continuously sounded through most of a piece",
+    "mnemonic": "The drones (drone) emit a harmonic effect continuously throughout the piece of music.",
+    "image": "/images/user/base/Music/remember-drone-in-music-vocabulary.b701923.jpg",
+    "keywords": [
+      "drone"
+    ],
+    "question": "What is a drone in music?"
+  },
+  {
+    "term": "Dynamics",
+    "definition": "Used to describe the volume changes in a piece of music.",
+    "mnemonic": "The sound of dynamite was mixed (dynamics) into the song. It added huge changes in volume.",
+    "image": "/images/user/base/music/vocab/remember-dynamics-in-music.ee268d3.jpg",
+    "keywords": [
+      "dynamite",
+      "mix"
+    ],
+    "question": "What are dynamics in music?"
+  },
+  {
+    "term": "Ensemble",
+    "definition": "A group performance of two or more musicians",
+    "mnemonic": "After putting on sombreros, the bulls (ensemble) performed as a group, playing instruments.",
+    "image": "/images/user/base/music/vocab/remember-ensemble-in-music.c96e392.jpg",
+    "keywords": [
+      "on",
+      "som",
+      "bull"
+    ],
+    "question": "What is an ensemble?"
+  },
+  {
+    "term": "EQ",
+    "definition": "Short for equalisation, it's the lessening or boosting of different frequencies to add more bass or treble to a musical track.",
+    "mnemonic": "Each queue (EQ) of people represents a different frequency. Lessening or boosting their size affects bass or treble.",
+    "image": "/images/user/base/music/vocab/remember-eq-in-music.de5fdc1.jpg",
+    "keywords": [
+      "queue",
+      "frequency",
+      "bass",
+      "treble"
+    ],
+    "question": "What is EQ in the context of music production?"
+  },
+  {
+    "term": "Falsetto",
+    "definition": "A method of singing used by males to sing higher notes than their highest normal singing voice.",
+    "mnemonic": "Wearing false hair and stiletto (falsetto) heels, the man joined a girl group and sang higher than the normal male vocal register.",
+    "image": "/images/user/base/Music/remember-falsetto-in-music-vocabulary.76aeacd.jpg",
+    "keywords": [
+      "false",
+      "stiletto"
+    ],
+    "question": "What is falsetto in singing?"
+  },
+  {
+    "term": "Fusion",
+    "definition": "A fusion genre is music that combines two or more styles.",
+    "mnemonic": "The band did a few versions (fusion) in different styles and combined them.",
+    "image": "/images/user/base/Music/remember-fusion-in-music-vocabulary.e93eccb.jpg",
+    "keywords": [
+      "few",
+      "version",
+      "different styles",
+      "combined"
+    ],
+    "question": "What is a fusion genre in music?"
+  },
+  {
+    "term": "Glissando",
+    "definition": "A pitch sliding from one note to another seamlessly",
+    "mnemonic": "The dew glistened over (glissando) the pitch, making it very slippery. People were sliding from one side to another seamlessly.",
+    "image": "/images/user/base/music/vocab/remember-glissando-in-music-vocabulary.aa9a997.jpg",
+    "keywords": [
+      "glistened",
+      "sliding",
+      "seamlessly"
+    ],
+    "question": "What is a glissando in music?"
+  },
+  {
+    "term": "Groove",
+    "definition": "Refers to a rhythm that deviates from the straight beat of the music.",
+    "mnemonic": "When carving a groove (groove) into the wood, I deviated from the straight line.",
+    "image": "/images/user/base/music/remember-groove-in-music-vocabulary.225efa1.jpg",
+    "keywords": [
+      "groove",
+      "deviated"
+    ],
+    "question": "What does the term \"groove\" refer to in music?"
+  },
+  {
+    "term": "Ground Bass",
+    "definition": "A repeated bass pattern that occurs throughout a composition, used by composers as a foundation for more complex work.",
+    "mnemonic": "On the ground was a bass (ground bass) painted with a repeating pattern.",
+    "image": "/images/user/base/Music/remember-ground-bass-in-music-vocabulary.693f144.jpg",
+    "keywords": [
+      "ground",
+      "bass",
+      "repeating"
+    ],
+    "question": "What is ground bass?"
+  },
+  {
+    "term": "Guitar Hammer On",
+    "definition": "An already ringing note is changed by placing down hard on another fret.",
+    "mnemonic": "You don't have to use a hammer on (hammer on) the guitar; just press your finger onto the fretboard to cause a note to sound.",
+    "image": "/images/user/base/Music/remember-guitar-hammer-on-in-music-vocabulary.22a24ae.jpg",
+    "keywords": [
+      "hammer",
+      "on"
+    ],
+    "question": "What is a guitar hammer on?"
+  },
+  {
+    "term": "Guitar Pull Off",
+    "definition": "An already ringing note is released by the player's finger to play a lower note on the same string.",
+    "mnemonic": "Pull off a note you are holding down.",
+    "image": "/images/user/base/Music/remember-guitar-pull-off-in-music-vocabulary.45a1ca2.jpg",
+    "keywords": [
+      "pull",
+      "off"
+    ],
+    "question": "What is a guitar pull off?"
+  },
+  {
+    "term": "Harmony",
+    "definition": "The combination of simultaneously sounded musical notes to produce a pleasing effect",
+    "mnemonic": "When busking, they didn't find it hard to earn money (harmony). They combined to produce a pleasing sound.",
+    "image": "/images/user/base/music/vocab/remember-harmony-in-music.ebe83fa.jpg",
+    "keywords": [
+      "har",
+      "money"
+    ]
+  },
+  {
+    "term": "Hook",
+    "definition": "A short melodic phrase used to catch the listener's attention and make a song memorable",
+    "mnemonic": "Captain Hook (hook) got up on stage and did a short melodic phrase. The way he looked made the song memorable.",
+    "image": "/images/user/base/music/vocab/remember-hook-in-music.80d3179.jpg",
+    "keywords": [
+      "Hook"
+    ],
+    "question": "What is a hook in music?"
+  },
+  {
+    "term": "Improvisation",
+    "definition": "The spontaneous and creative performance of musical ideas",
+    "mnemonic": "She improved the songs with her ideas. It was sensational (improvisation) to watch her spontaneous and creative performance.",
+    "image": "/images/user/base/Music/remember-improvisation-in-music-vocabulary.bd3e963.jpg",
+    "keywords": [
+      "improv",
+      "i",
+      "sensation"
+    ],
+    "question": "What is improvisation in music?"
+  },
+  {
+    "term": "Intonation",
+    "definition": "The degree to which the notes of a piece of music are played or sung exactly in tune.",
+    "mnemonic": "This international singing contest had one nation (intonation) which brought their own tuning forks. You just know they were going to be in tune.",
+    "image": "/images/user/base/music/vocab/remember-intonation-in-music.008e724.jpg",
+    "keywords": [
+      "international",
+      "nation",
+      "in tune"
+    ],
+    "question": "What is intonation in music?"
+  },
+  {
+    "term": "Jam Session",
+    "definition": "Informal musical activity where musicians improvise together",
+    "mnemonic": "The different musicians were all stuck in a traffic jam (jam) so decided to get out of their cars and improvise together.",
+    "image": "/images/user/base/music/vocab/remember-jam-session-in-music.51b7d72.jpg",
+    "keywords": [
+      "jam",
+      "improvise"
+    ],
+    "question": "What is a jam session?"
+  },
+  {
+    "term": "Key",
+    "definition": "The scale on which the piece is based",
+    "mnemonic": "On the keychain (key) were some scales.",
+    "image": "/images/user/base/Music/remember-key-in-music-vocabulary.4e08d21.jpg",
+    "keywords": [
+      "key",
+      "scale"
+    ],
+    "question": "What is the key in music?"
+  },
+  {
+    "term": "Middle Eight",
+    "definition": "A short contrasting section in the middle of a pop song, usually eight bars in length.",
+    "mnemonic": "The middle eight (middle eight) bars of the jail cell were a contrasting section.",
+    "image": "/images/user/base/Music/remember-middle-eight-in-music-vocabulary.93e4d84.jpg",
+    "keywords": [
+      "middle",
+      "eight",
+      "bars",
+      "contrasting"
+    ],
+    "question": "What is the middle eight in a pop song?"
+  },
+  {
+    "term": "Modulation",
+    "definition": "The move from one key to another",
+    "mnemonic": "The model was told 'congratulations' (modulation) after leaping from one key to another.",
+    "image": "/images/user/base/music/vocab/remember-modulation-in-music.f3dcf94.jpg",
+    "keywords": [
+      "mod",
+      "ulations"
+    ],
+    "question": "What does modulation refer to in music?"
+  },
+  {
+    "term": "Musical Language",
+    "definition": "Musical symbols, notations and terminology",
+    "mnemonic": "She spoke in a musical language (musical language) of only symbols and terminology.",
+    "image": "/images/user/base/music/vocab/remember-musical-language-in-music-vocabulary.07a1a72.jpg",
+    "keywords": [
+      "musical",
+      "language",
+      "symbols",
+      "terminology"
+    ],
+    "question": "What does \"musical language\" refer to?"
+  },
+  {
+    "term": "Mute",
+    "definition": "A device attached to a musical instrument which changes the instrument's tone quality or lowers its volume.",
+    "mnemonic": "The mutant (mute) stuffed things into his trumpet to reduce the volume and change the tone.",
+    "image": "/images/user/base/Music/remember-mute-in-music-vocabulary.60c236a.jpg",
+    "keywords": [
+      "mutant"
+    ],
+    "question": "What is a mute in music?"
+  },
+  {
+    "term": "Ornaments",
+    "definition": "The embellishments of a melody, either by adding notes or modifying rhythms",
+    "mnemonic": "The shiny ornaments (ornaments) were hung on the music to embellish the melody.",
+    "image": "/images/user/base/music/vocab/remember-ornaments-in-music-vocabulary.99e49ea.jpg",
+    "keywords": [
+      "ornaments",
+      "embellish"
+    ],
+    "question": "What are ornaments in music?"
+  },
+  {
+    "term": "Overdub",
+    "definition": "The process of adding additional tracks or sounds to a recording",
+    "mnemonic": "Her trainset was over double (overdub) the size of mine, and she's still adding additional tracks.",
+    "image": "/images/user/base/Music/remember-overdub-in-music-vocabulary.d04075f.jpg",
+    "keywords": [
+      "over",
+      "double"
+    ],
+    "question": "What is the process called when you add additional tracks or sounds to a recording?"
+  },
+  {
+    "term": "Palm Muting",
+    "definition": "A guitar technique where the sound of the guitar is muted by resting the back of the picking hand across the strings while playing",
+    "mnemonic": "To remember what palm muting is, it's essentially in the name: Rest the side of your palm on the strings you are picking to create a muted sound",
+    "image": "/images/user/base/Music/remember-palm-muting-in-music-vocabulary.9f9d55b.jpg",
+    "keywords": [
+      "parm",
+      "myoo-ting"
+    ],
+    "question": "What is palm muting in guitar playing?"
+  },
+  {
+    "term": "Pitch",
+    "definition": "The lowness or highness of a note, such as bass (low) and treble (high)",
+    "mnemonic": "Where to pitch the tent? High up or low down? Look at the notes in the guide.",
+    "image": "/images/user/base/Music/remember-pitch-in-music-vocabulary.250d9a9.jpg",
+    "keywords": [
+      "pitch",
+      "high",
+      "low",
+      "notes"
+    ],
+    "question": "What is pitch in music?"
+  },
+  {
+    "term": "Polyrhythm",
+    "definition": "A combination of two or more rhythms played simultaneously while moving at the same tempo/pulse/beat",
+    "mnemonic": "We know what poly means and we know what rhythm means. Poly - Many And Rhythm - A pattern of sounds of different lengths. So Polyrhythm must be two or more rhythms (played simultaneously).",
+    "image": "/images/user/base/music/vocab/remember-polyrhythm-in-music.5c8f307.jpg",
+    "keywords": [
+      "poly",
+      "rhythm",
+      "pol-lee-rith-uhm"
+    ],
+    "question": "What is polyrhythm?"
+  },
+  {
+    "term": "Poly",
+    "definition": "Many",
+    "mnemonic": "Polly (poly) the parrot had many friends.",
+    "image": "/images/user/base/music/vocab/remember-poly-in-music.97cfb55.jpg",
+    "keywords": [
+      "Polly",
+      "many"
+    ],
+    "question": "What does the prefix \"poly\" mean?"
+  },
+  {
+    "term": "Power Chord",
+    "definition": "A simple chord played on a guitar, typically at loud volumes with high levels of distortion",
+    "mnemonic": "The amp's power cord (power chord) was enormous which allowed me to play a simple cord at a very loud volume.",
+    "image": "/images/user/base/music/vocab/remember-power-chord-in-music.703cae5.jpg",
+    "keywords": [
+      "power cord"
+    ],
+    "question": "What is a power chord in guitar playing?"
+  },
+  {
+    "term": "Rap",
+    "definition": "Rhythmic spoken word",
+    "mnemonic": "She rapped (rap) on the door and decided the rhythm was so excellent she would recite words rapidly and rhythmically in time to it.",
+    "image": "/images/user/base/Music/remember-rap-in-music-vocabulary.25f7ccb.jpg",
+    "keywords": [
+      "rap",
+      "recite",
+      "rhythmically"
+    ],
+    "question": "What is rap known for?"
+  },
+  {
+    "term": "Rhythm",
+    "definition": "Beats that are repeated a particular number of times within a tempo/beat/pulse; a pattern of sounds of different lengths.",
+    "mnemonic": "Repeat 'What is rhythm' or 'A pattern of sounds of different lengths' three times at a set beat to create a rhythm.",
+    "image": null,
+    "keywords": [
+      "rith-uhm"
+    ],
+    "question": "What is rhythm?"
+  },
+  {
+    "term": "Riff",
+    "definition": "A short, repeated musical pattern used in popular music; short melodic phrase",
+    "mnemonic": "\"No riff-raff (riff) allowed\" I was told after playing a short melodic phrase, and then I was thrown out.",
+    "image": "/images/user/base/Music/remember-riff-in-music-vocabulary.a343a0f.jpg",
+    "keywords": [
+      "riff-raff"
+    ],
+    "question": "What is a riff in music?"
+  },
+  {
+    "term": "Rubato",
+    "definition": "The temporary abandonment of strict tempo, allowing the performer to be more flexible with their pace.",
+    "mnemonic": "He rues the day he threw the baton over (rubato) to him, because the orchestra then kept going away from the strict tempo.",
+    "image": "/images/user/base/music/vocab/remember-rubato-in-music-vocabulary.132d42f.jpg",
+    "keywords": [
+      "rue",
+      "baton",
+      "o"
+    ],
+    "question": "What does rubato mean in musical performance?"
+  },
+  {
+    "term": "Scale",
+    "definition": "A number of notes arranged in a specific order of their pitch (frequency).",
+    "mnemonic": "I scaled (scale) the wall using the notes arranged in a specific order.",
+    "image": "/images/user/base/music/vocab/remember-scale-in-music.6d3b4bd.jpg",
+    "keywords": [
+      "scale"
+    ],
+    "question": "What is a scale in music?"
+  },
+  {
+    "term": "Scat",
+    "definition": "The singing of nonsense sounds and syllables instead of words",
+    "mnemonic": "Everyone scattered (scat) when she started singing nonsense sounds and syllables.",
+    "image": "/images/user/base/Music/remember-scat-in-music-vocabulary.9692848.jpg",
+    "keywords": [
+      "scat",
+      "scattered"
+    ],
+    "question": "What is scat in music?"
+  },
+  {
+    "term": "Score",
+    "definition": "A piece of music that has been written specifically for a film or theatrical production.",
+    "mnemonic": "The silent movie showed someone scoring (score) a goal, and the live orchestra accompanied this with a musical composition written specifically for the film.",
+    "image": "/images/user/base/Music/remember-score-in-music-vocabulary-b.be3c26e.jpg",
+    "keywords": [
+      "scor"
+    ],
+    "question": "What is a score in the context of film or theatrical production?"
+  },
+  {
+    "term": "Scotch Snap",
+    "definition": "A rhythm consisting of a short note followed by a long one.",
+    "mnemonic": "He asked for more scotch and snapped (scotch snap) his fingers. He wanted a short glass followed by a long glass.",
+    "image": "/images/user/base/Music/remember-scotch-snap-in-music-vocabulary.4293ada.jpg",
+    "keywords": [
+      "scotch",
+      "snap",
+      "short",
+      "long"
+    ],
+    "question": "What is a Scotch Snap in music?"
+  },
+  {
+    "term": "Scratching",
+    "definition": "A DJing technique where two decks are required. One deck plays a track whilst on the other, rhythmic patterns are produced by pushing the record forwards and backwards.",
+    "mnemonic": "The cat was scratching (scratching) the record in a rhythmic pattern.",
+    "image": "/images/user/base/Music/remember-scratching-in-music-vocabulary.2af3424.jpg",
+    "keywords": [
+      "scratching",
+      "rhythmic pattern"
+    ],
+    "question": "What is the DJing technique called where two decks are used, one for playing a track and the other for creating rhythmic patterns by moving the record?"
+  },
+  {
+    "term": "Sequence",
+    "definition": "Where a passage of music is repeated at a higher or lower pitch.",
+    "mnemonic": "I can see the different frequencies (sequence) of the repeated passage of music, one higher and one lower, even in the British National Anthem.",
+    "image": "/images/user/base/Music/remember-sequence-in-music-vocabulary.6c9d947.jpg",
+    "keywords": [
+      "see",
+      "quenc",
+      "repeated passage of music",
+      "higher",
+      "lower"
+    ],
+    "question": "What is a sequence in music?"
+  },
+  {
+    "term": "Sitar",
+    "definition": "A stringed instrument used in Indian music that has a long neck, a round body and moveable frets",
+    "mnemonic": "You must sit down to play this guitar-like (sitar) instrument, just like these Indian musicians with long necks and round bodies.",
+    "image": "/images/user/base/music/vocab/remember-sitar-in-music.9418719.jpg",
+    "keywords": [
+      "sit",
+      "tar",
+      "Indian",
+      "long neck",
+      "round bodies"
+    ],
+    "question": "What is a sitar?"
+  },
+  {
+    "term": "Slap Bass",
+    "definition": "A bass guitar playing technique which involves both pulling up and off with the fingers, while 'slapping' the strings, with the thumb to create a musical, percussive sound.",
+    "mnemonic": "To remember what slap bass is, it's essentially in the name: Slapping the string with your thumb and then pulling the string with your index finger creates a percussive sound along with the note that is fretted further down the neck.",
+    "image": "/images/user/base/Music/remember-slap-bass-in-music-vocabulary.1ae1bd9.jpg",
+    "keywords": [
+      "slap",
+      "bays"
+    ],
+    "question": "What is slap bass?"
+  },
+  {
+    "term": "Slide Guitar",
+    "definition": "A guitar technique in which a metal or glass tube placed on the finger is slid across the strings to create a glissando effect.",
+    "mnemonic": "To remember what slide guitar is, it's essentially in the name: Sliding a metal or glass tube along the guitar strings while plucking them creates a sound that can continually shift between notes.",
+    "image": "/images/user/base/music/vocab/remember-slide-guitar-in-music-vocabulary.218dd51.jpg",
+    "keywords": [
+      "slide",
+      "guitar"
+    ],
+    "question": "What is slide guitar?"
+  },
+  {
+    "term": "Solo",
+    "definition": "A musical piece played or sung by one person, with or without accompaniment.",
+    "mnemonic": "The bridge was so low (solo), it was a good job he was on his own.",
+    "image": "/images/user/base/Music/remember-solo-in-music-vocabulary-a.f81b9c3.jpg",
+    "keywords": [
+      "so",
+      "own"
+    ],
+    "question": "What is a solo in music?"
+  },
+  {
+    "term": "Soprano",
+    "definition": "Highest singing voice for a young boy or woman",
+    "mnemonic": "The soap ran out. 'No!'(soprano) she screamed as high as she could.",
+    "image": "/images/user/base/English/vocab/remember-soprano-in-english-vocabulary.736f0e1.jpg",
+    "keywords": [
+      "soap",
+      "ran",
+      "No",
+      "high"
+    ],
+    "question": "What is a soprano?"
+  },
+  {
+    "term": "Strophic",
+    "definition": "Refers to music in which every verse and every chorus is the same tune. The tune is repeated throughout the song.",
+    "mnemonic": "She had a strop that was horrific (strophic). Every time I tried to put other music on she just wanted the same tune again and again for every verse and chorus.",
+    "image": "/images/user/base/Music/remember-strophic-in-music-vocabulary.6b8b089.jpg",
+    "keywords": [
+      "stro",
+      "fic"
+    ],
+    "question": "What does \"strophic\" mean in music?"
+  },
+  {
+    "term": "Swing",
+    "definition": "A rhythm style where a single straight beat is relaxed into a more triplet feel.",
+    "mnemonic": "On the swing (swing) the triplets feel full of joy.",
+    "image": "/images/user/base/Music/remember-swing-in-music-vocabulary.86b411b.jpg",
+    "keywords": [
+      "swing",
+      "triplets"
+    ],
+    "question": "What is the rhythm style in music where a single straight beat is relaxed into a more triplet feel called?"
+  },
+  {
+    "term": "Tabla",
+    "definition": "A pair of small different sized hand drums used in Indian music",
+    "mnemonic": "The stories in the tabloids say that I love (tabla) to play Indian music with small hand drums.",
+    "image": "/images/user/base/music/vocab/remember-tabla-in-music.53341d6.v2.jpg",
+    "keywords": [
+      "tab",
+      "lo",
+      "Indian",
+      "small hand drums"
+    ],
+    "question": "What is a tabla?"
+  },
+  {
+    "term": "Tenor",
+    "definition": "Highest adult male voice",
+    "mnemonic": "Ten or (tenor) 100% was the highest score and he wouldn't accept anything less.",
+    "image": "/images/user/base/English/vocab/remember-tenor-in-english-vocabulary.475269c.jpg",
+    "keywords": [
+      "Tenor",
+      "highest"
+    ],
+    "question": "What is the highest adult male voice known as?"
+  },
+  {
+    "term": "Ternary",
+    "definition": "The structure of a piece of music which is divided into three sections",
+    "mnemonic": "Turn a really (ternary) complex song into a simple one by using a structure of three sections.",
+    "image": "/images/user/base/music/vocab/remember-ternary-in-music.94dfddd.jpg",
+    "keywords": [
+      "turn",
+      "really"
+    ],
+    "question": "What is a ternary structure in music?"
+  },
+  {
+    "term": "Timbre",
+    "definition": "The perceived sound quality of a musical note from a voice or instrument",
+    "mnemonic": "This tambourine (timbre) has an odd sound quality.",
+    "image": "/images/user/base/Music/remember-timbre-in-music-vocabulary.76900e8.jpg",
+    "keywords": [
+      "tambour",
+      "sound quality"
+    ],
+    "question": "What is timbre?"
+  },
+  {
+    "term": "Triad",
+    "definition": "A chord of three different notes",
+    "mnemonic": "The tricycle had (triad) three different wheels.",
+    "image": "/images/user/base/music/vocab/remember-triad-in-music.30f3385.jpg",
+    "keywords": [
+      "tri",
+      "ad"
+    ],
+    "question": "What is a triad in music?"
+  },
+  {
+    "term": "Trill",
+    "definition": "Two adjacent notes that are played rapidly one after another a few times.",
+    "mnemonic": "The trilby (trill) went back and forth between the two notes a few times rapidly. They each wanted to wear the hat.",
+    "image": "/images/user/base/music/remember-trill-in-music-vocabulary.5ca04f1.gif",
+    "keywords": [
+      "tril"
+    ],
+    "question": "What is a trill?"
+  },
+  {
+    "term": "Unison",
+    "definition": "Playing two or more musical parts which are either identical or separated by an octave simultaneously.",
+    "mnemonic": "While on unicycles, the two identical sons (unison) sang the same tunes.",
+    "image": "/images/user/base/music/vocab/remember-unison-in-music-vocabulary.5798cc6.jpg",
+    "keywords": [
+      "uni",
+      "son",
+      "same tunes"
+    ],
+    "question": "What does unison mean in music?"
+  },
+  {
+    "term": "Vamping",
+    "definition": "Repeating a musical pattern as accompaniment",
+    "mnemonic": "The vampire bat kept pinging (vamping) off the window pane. He just kept repeating this pattern.",
+    "image": "/images/user/base/music/vocab/remember-vamping-in-music-vocabulary.1eaf81d.jpg",
+    "keywords": [
+      "vampire",
+      "ping"
+    ],
+    "question": "What does the term vamping mean in music?"
+  },
+  {
+    "term": "Vibrato",
+    "definition": "A rapid and slight back and forth variation in pitch when singing or playing an instrument; a vibration of pitch.",
+    "mnemonic": "I know it's vulgar, but if a bra that's stretch is plucked, it makes a wonderful tone (vibrato). You can see it vibrate.",
+    "image": "/images/user/base/Sports Science/remember-vibrato-in-music-vocabulary.936a541.jpg",
+    "keywords": [
+      "vulgar",
+      "bra",
+      "tone",
+      "vibrate"
+    ],
+    "question": "What is vibrato?"
+  },
+  {
+    "term": "Walking Bass",
+    "definition": "A set of notes of a lower register played on each beat of the bar, usually with a repetitive melodic pattern",
+    "mnemonic": "The walking bass (walking bass) made a sound every time it took a step. Which made it a very repetitive beat and being a bass very deep sound.",
+    "image": "/images/user/base/music/vocab/remember-walking-bass-in-music-vocabulary.096a3ea.jpg",
+    "keywords": [
+      "walking",
+      "beys",
+      "repetitive",
+      "deep"
+    ],
+    "question": "What is a walking bass?"
+  },
+  {
+    "term": "Reverb",
+    "definition": "An effect that simulates the sensation of sound bouncing off the surfaces in a confined environment. It creates a dense collection of echoes that blend together, adding depth and warmth to a sound.",
+    "mnemonic": "Think of reverb as reversing and bouncing (reverb) around a room.",
+    "image": "/images/user/base/music/vocab/remember-reverb-in-music.8c98a7f.jpg",
+    "keywords": [
+      "reversing",
+      "bouncing"
+    ],
+    "question": "What is reverb in audio production?"
+  },
+  {
+    "term": "Octave",
+    "definition": "A musical interval consisting of 8 notes. The eighth note in the scale is considered a repetition of the first but in a higher register.",
+    "mnemonic": "One of the eight tentacles of the octopus waved (octave) while the others held up the seven letters, A to G.",
+    "image": "/images/user/base/Music/reading-notes-on-sheet-music-2.74778fd.jpg",
+    "keywords": [
+      "oct",
+      "A to G"
+    ],
+    "question": "What is an octave in music?"
+  },
+  {
+    "term": "C Key on a Piano",
+    "definition": "On a piano, the C key is located to the left of the D key. Notes are organized using the letters A B C D E F G.",
+    "mnemonic": "If we can imagine the big set of three black notes is Grandma's house and the smaller set of two black notes is the dog house. Inside the dog house is the dog and 'D' is for dog. Inside Grandma's house is Grandma's famous apple pies just freshly baked, 'G' for Grandma and 'A' for apple pies.",
+    "image": "/images/user/base/music/notes/where-is-the-c-key-on-a-piano-in-mammoth-memory-music-1.be9c4bd.jpg",
+    "keywords": [
+      "Grandma",
+      "dog"
+    ],
+    "question": "Where is the C key located on a piano?"
+  },
+  {
+    "term": "Staves",
+    "definition": "A set of five horizontal lines used in music notation, where each line and space represents a different musical pitch.",
+    "mnemonic": "\"Please stay!\" – But she just gave them a wave (stave), even the staff couldn't get her down as she climbed up the 5 horizontal fencing lines.",
+    "image": "/images/user/base/Music/staves-on-sheet-music-3.16e1062.jpg",
+    "keywords": [
+      "stay",
+      "wave",
+      "staff",
+      "5 lines"
+    ],
+    "question": "What is the term for the set of five horizontal lines used in music notation?"
+  },
+  {
+    "term": "Treble Clef",
+    "definition": "Also known as the G-clef, it is used to indicate the pitch of written notes.",
+    "mnemonic": "Think of treble (treble clef) trouble. Treble the trouble to draw than the bass clef. Treble the amount of curves than the bass clef. Imagine 'three (treble) wise gorillas' for G clef.",
+    "image": "/images/user/base/music/clef/clef-on-sheet-music-6.656daf4.jpg",
+    "keywords": [
+      "treble",
+      "three",
+      "G",
+      "gorillas"
+    ],
+    "question": "What is the treble clef?"
+  },
+  {
+    "term": "Bass Clef (F clef)",
+    "definition": "The bass clef is also known as the F clef.",
+    "mnemonic": "Think of the double bass (bass clef) being played by a frog (F clef).",
+    "image": "/images/user/base/music/clef/clef-on-sheet-music-12.d833ff0.jpg",
+    "keywords": [
+      "bass",
+      "frog"
+    ],
+    "question": "What is another name for the bass clef?"
+  },
+  {
+    "term": "Treble Clef Lines",
+    "definition": "The notes on the lines of the treble clef staff are EGBDF.",
+    "mnemonic": "Every Good Boy Deserves Football.",
+    "image": "/images/user/base/music/clef/how-to-remember-notes-on-treble-and-bass-clef-on-sheet-music-1.792fbb4.jpg",
+    "keywords": [
+      "good",
+      "football"
+    ],
+    "question": "What are the notes on the lines of the treble clef staff?"
+  },
+  {
+    "term": "Treble Clef Spaces",
+    "definition": "The notes in the spaces of the treble clef staff are FACE.",
+    "mnemonic": "FACE.",
+    "image": "/images/user/base/music/clef/how-to-remember-notes-on-treble-and-bass-clef-on-sheet-music-2.fdac720.jpg",
+    "keywords": [
+      "face"
+    ],
+    "question": "What notes are represented by the spaces in the treble clef?"
+  },
+  {
+    "term": "Bass Clef Lines",
+    "definition": "The notes on the lines of the bass clef staff are DBDFA.",
+    "mnemonic": "Green Buses Drive Fast Always.",
+    "image": "/images/user/base/music/clef/how-to-remember-notes-on-treble-and-bass-clef-on-sheet-music-3.15ddbfd.jpg",
+    "keywords": [
+      "green"
+    ],
+    "question": "What are the notes on the lines of the bass clef staff?"
+  },
+  {
+    "term": "Bass Clef Spaces",
+    "definition": "The notes in the spaces of the bass clef staff are ACEG.",
+    "mnemonic": "All Cows Eat Grass.",
+    "image": "/images/user/base/music/clef/how-to-remember-notes-on-treble-and-bass-clef-on-sheet-music-4.365e40f.jpg",
+    "keywords": [
+      "cows",
+      "grass"
+    ],
+    "question": "What are the notes in the bass clef spaces?"
+  },
+  {
+    "term": "Semibreve",
+    "definition": "(USA: whole note)",
+    "mnemonic": "Dragged out of the hole (whole note) is a lady who has just finished her freediving session but she is only semi breathing (semibreve).",
+    "image": "/images/user/base/music/notes/how-to-remember-what-a-semibreve-minim-etc-is-in-mammoth-music-1.754a7d8.jpg",
+    "keywords": [
+      "hole"
+    ],
+    "question": "What is the American term for semibreve?"
+  },
+  {
+    "term": "Minim",
+    "definition": "(USA: half note)",
+    "mnemonic": "But imagine that the 'd' for dog is half dog and half Minnie Mouse (minim).",
+    "image": "/images/user/base/music/notes/how-to-remember-what-a-semibreve-minim-etc-is-in-mammoth-music-3.8d3b5b7.jpg",
+    "keywords": [
+      "half",
+      "Minnie M"
+    ],
+    "question": "What is the American term for a half note in music?"
+  },
+  {
+    "term": "Crotchet ",
+    "definition": "(USA quarter note)",
+    "mnemonic": "But a quarter of the golf club players (one of the players) has been using a croquet (crotchety) mallet instead of a club.",
+    "image": "/images/user/base/music/notes/how-to-remember-what-a-semibreve-minim-etc-is-in-mammoth-music-5.472d20f.jpg",
+    "keywords": [
+      "quarter",
+      "croquet"
+    ],
+    "question": "What is the musical term for a quarter note in the USA?"
+  },
+  {
+    "term": "Quaver ",
+    "definition": "(USA: eighth note)",
+    "mnemonic": "Imagine the bird landing and grabbing an 8-ball (eighth note) from a pool table but the bird is so big it causes an earthquake (quaver).",
+    "image": "/images/user/base/music/notes/how-to-remember-what-a-semibreve-minim-etc-is-in-mammoth-music-7.93e2eb3.jpg",
+    "keywords": [
+      "8",
+      "quake"
+    ],
+    "question": "What is a quaver called in the USA?"
+  },
+  {
+    "term": "Semiquaver (USA sixteenth note)",
+    "definition": "(USA: eighth note)",
+    "mnemonic": "If we can remember a quaver then a semiquaver is not quite a quaver, so it is the next one down on the musical note tree.",
+    "image": "/images/user/base/music/notes/how-to-remember-what-a-semibreve-minim-etc-is-in-mammoth-music-9.fa97a22.jpg",
+    "keywords": [],
+    "question": "What is a semiquaver (USA sixteenth note) in relation to a quaver (USA eighth note)?"
+  },
+  {
+    "term": "Time Signatures",
+    "definition": "Musical time signatures are the fractions at the beginning of each stave just after the treble clef and bass clef.",
+    "mnemonic": "It's such a beautiful fraction. It's about time you put your signature (time signature) on the painting.",
+    "image": "/images/user/base/music/notes/what-are-time-signatures-in-music-1.7a9178d.jpg",
+    "keywords": [
+      "fraction",
+      "time",
+      "signature"
+    ],
+    "question": "What are musical time signatures?"
+  },
+  {
+    "term": "Common Time",
+    "definition": "The most common time signature in music, represented as 4/4.",
+    "mnemonic": "The 𝄴 symbol stands for the 'c' in common time (the most common time signature).",
+    "image": "/images/user/base/music/notes/common-time-in-time-signatures-music-2.f49e089.jpg",
+    "keywords": [
+      "common"
+    ],
+    "question": "What is common time in music?"
+  },
+  {
+    "term": "Half Time",
+    "definition": "Half the common time, half of the 4/4 time signature.",
+    "mnemonic": "The 𝄴 symbol cut in half stands for half the common time (half the most common time signature).",
+    "image": "/images/user/base/music/notes/half-time-in-time-signatures-music-2.54c8cb5.jpg",
+    "keywords": [
+      "half"
+    ],
+    "question": "What is the meaning of half time in music?"
+  },
+  {
+    "term": "metronome",
+    "definition": "A mechanical or digital device used by musicians to keep a consistent tempo, typically marked by a ticking sound.",
+    "mnemonic": "I met a gnome (metronome) swinging on a metronome.",
+    "image": "/images/user/base/music/notes/what-is-a-metronome-in-sheet-music-1.af9086b.jpg",
+    "keywords": [
+      "met",
+      "gnome"
+    ],
+    "question": "What is a metronome used for in music?"
+  },
+  {
+    "term": "Accidentals",
+    "definition": "An accidental modifies the pitch of a musical note. The three most common accidentals are the flat, sharp, and natural.",
+    "mnemonic": "I accidentally (accidental) hit a naturally sharp Rock and got a flat tyre.",
+    "image": "/images/user/base/music/notes/what-are-accidentals-in-sheet-music-2.f738dc2.jpg",
+    "keywords": [
+      "accidental",
+      "natural",
+      "sharp",
+      "flat"
+    ],
+    "question": "What are accidentals in music?"
+  },
+  {
+    "term": "sharp sign",
+    "definition": "A symbol that indicates you should play the note one step up from the indicated note.",
+    "mnemonic": "The sharp sign (which is very similar to a hashtag sign) looks like a ladder that you can climb up i.e. go up one.",
+    "image": "/images/user/base/music/notes/what-is-the-sharp-sign-in-sheet-music-3.b13dd38.jpg",
+    "keywords": [
+      "sharp",
+      "ladder",
+      "up"
+    ],
+    "question": "What does the sharp sign indicate in music notation?"
+  },
+  {
+    "term": "Flat Sign",
+    "definition": "A symbol in music notation indicating that the note should be played one semitone lower.",
+    "mnemonic": "The b (♭) stands for back i.e go back one.",
+    "image": "/images/user/base/music/notes/what-is-the-flat-sign-in-sheet-music-3.b7641d5.jpg",
+    "keywords": [
+      "back"
+    ],
+    "question": "What does a flat sign indicate in music notation?"
+  },
+  {
+    "term": "natural sign",
+    "definition": "It indicates that you should play the note without any sharps or flats. It cancels out any previous accidentals.",
+    "mnemonic": "The natural sign can be split into a b and a q which stands for 'ban and quit' the last flat or sharp.",
+    "image": "/images/user/base/music/notes/what-is-the-natural-sign-in-sheet-music-3.1dff5c6.jpg",
+    "keywords": [
+      "ban",
+      "quit"
+    ],
+    "question": "What does a natural sign indicate in music notation?"
+  },
+  {
+    "term": "key signature",
+    "definition": "A key signature is a set of sharp (♯) and flat (♭) symbols, placed immediately after the clef sign.",
+    "mnemonic": "All of these keys are sharp and fit into the locks of flats.",
+    "image": "/images/user/base/music/notes/what-is-a-key-signature-in-sheet-music-3.82e1c34.jpg",
+    "keywords": [
+      "key",
+      "sharp",
+      "flats"
+    ],
+    "question": "What is a key signature in music notation?"
+  },
+  {
+    "term": "Order of the key signatures – sharps",
+    "definition": "The order of the key signatures for sharps is F C G D A E B.",
+    "mnemonic": "Fat Cats Go Down Alleys Eating Bacon.",
+    "image": "/images/user/base/music/notes/how-to-remember-the-order-of-the-key-signature-sharp-in-sheet-music.7e09121.jpg",
+    "keywords": [
+      "Fat",
+      "Cats",
+      "Go",
+      "Down",
+      "Alleys",
+      "Eating",
+      "Bacon"
+    ],
+    "question": "What is the order of the key signatures for sharps?"
+  },
+  {
+    "term": "Order of Sharps",
+    "definition": "The order of the sharps are always F C G D A E B.",
+    "mnemonic": "Fat Cats Go Down Alleys Eating Bacon.",
+    "image": "/images/user/base/music/notes/given-the-major-key-what-are-the-sharps-method-2-on-sheet-music-1.5c332a7.jpg",
+    "keywords": [
+      "Fat",
+      "Cats",
+      "Go",
+      "Down",
+      "Alleys",
+      "Eating",
+      "Bacon"
+    ],
+    "question": "What is the order of sharps in music notation?"
+  },
+  {
+    "term": "Minor Key",
+    "definition": "A minor key is determined by going down a minor third from the major key.",
+    "mnemonic": "\"Which way?\" said the miner. \"Down the 3rd,\" said the other miner (go down a minor third).",
+    "image": "/images/user/base/music/notes/where-are-the-minor-keys-in-sheet-music.c2c70ed.jpg",
+    "keywords": [
+      "Down",
+      "3rd",
+      "miner"
+    ],
+    "question": "What determines the structure of a minor key in music?"
+  },
+  {
+    "term": "Sharps and Flats for Grade 1",
+    "definition": "The necessary sharps and flats to know for a grade 1 music exam.",
+    "mnemonic": "'Cars Going Downhill Fast'",
+    "image": "/images/user/base/music/notes/the-sharps-and-flats-for-grade-1-in-sheet-music-2.23d52d0.jpg",
+    "keywords": [
+      "Cars",
+      "Going",
+      "Downhill",
+      "Fast"
+    ],
+    "question": "What are the sharps and flats for a Grade 1 music exam?"
+  },
+  {
+    "term": "Tonic",
+    "definition": "The first note of the scale. Whatever the scale is called, that is the first note of the scale, and therefore the tonic.",
+    "mnemonic": "Give yourself a tonic and you will feel better for the first time in ages.",
+    "image": "/images/user/base/music/notes/tonic-in-using-key-signatures-in-sheet-music-1.546a473.jpg",
+    "keywords": [
+      "tonic",
+      "first"
+    ],
+    "question": "What is the tonic in music theory?"
+  },
+  {
+    "term": "Chord",
+    "definition": "Any combination of two or more notes together",
+    "mnemonic": "Quasimodo, pull those two cords together at the same time.",
+    "image": "/images/user/base/music/notes/chord-in-using-key-signatures-in-sheet-music-1.50a9491.jpg",
+    "keywords": [
+      "cords"
+    ],
+    "question": "What is a chord in music?"
+  },
+  {
+    "term": "Triad",
+    "definition": "A group of three notes that form a chord.",
+    "mnemonic": "A triangle – add (triad) them up and there are three corners.",
+    "image": "/images/user/base/music/notes/triad-in-using-key-signatures-in-sheet-music-1.28258dd.jpg",
+    "keywords": [
+      "tri",
+      "add",
+      "three"
+    ],
+    "question": "What is a triad in music?"
+  },
+  {
+    "term": "Tonic Triad",
+    "definition": "A group of three notes starting on the tonic, composed of the first (tonic), third, and fifth notes of a given scale played simultaneously.",
+    "mnemonic": "To remember this, recall the following: Tonic triad starts on the tonic note.",
+    "image": "/images/user/base/music/notes/tonic-triad-in-using-key-signatures-in-sheet-music-1.aba52a4.jpg",
+    "keywords": [
+      "Tonic",
+      "Triad"
+    ],
+    "question": "What is a tonic triad?"
+  },
+  {
+    "term": "fret",
+    "definition": "The metal strip on the fingerboard of a guitar; the area behind it towards the headstock is known as that fret.",
+    "mnemonic": "Imagine your fingers when bored (fingerboard) threatening (fret) you.",
+    "image": "/images/user/base/music/guitar/fingerboard--in-guitar-music.db45154.jpg",
+    "keywords": [
+      "finger",
+      "bored",
+      "threat"
+    ],
+    "question": "What is a fret on a guitar?"
+  },
+  {
+    "term": "Pickguard",
+    "definition": "A pickguard is a shield for your guitar. It prevents scratches and wear from aggressive strumming.",
+    "mnemonic": "If you use the pick too hard (pickguard) you can get a hole in the guitar so you should have a pickguard.",
+    "image": "/images/user/base/music/guitar/pickguard-in-guitar-music.bdda5cd.jpg",
+    "keywords": [
+      "pick",
+      "hard"
+    ],
+    "question": "What is the purpose of a pickguard on a guitar?"
+  },
+  {
+    "term": "The bridge and saddle",
+    "definition": "The bridge attaches the strings to the body of a guitar using bridge pins, while the saddle is the strip of hard material that lifts the strings off the top of the guitar face.",
+    "mnemonic": "From this vantage point on the bridge we can now saddle up the six horses (six saddles).",
+    "image": "/images/user/base/music/guitar/bridge-and-saddle-3-in-guitar-music.1a73795.jpg",
+    "keywords": [
+      "bridge",
+      "saddle"
+    ],
+    "question": "What role do the bridge and saddle play on a guitar?"
+  },
+  {
+    "term": "The guitar nut",
+    "definition": "A small piece of material that lifts the strings off the top of the guitar face, fitting between the headstock and the frets, at the end of the fingerboard.",
+    "mnemonic": "The nut was at the end of her finger and was stuck because she screwed it on when she was bored. (Nut at the end of the fingerboard).",
+    "image": "/images/user/base/music/guitar/nut-2-in-guitar-music.84b0fad.jpg",
+    "keywords": [
+      "nut",
+      "end",
+      "finger",
+      "bored"
+    ],
+    "question": "What is the guitar nut?"
+  },
+  {
+    "term": "Order of the strings on a guitar",
+    "definition": "The order of the strings from a guitarist's point of view is E B G D A E.",
+    "mnemonic": "Every Body Gets Dinner At Eight",
+    "image": "/images/user/base/music/guitar/how-do-you-remember-the-order-of-the-strings-2-in-mammoth-memory-music-guitar.3ea6c35.jpg",
+    "keywords": [
+      "Every",
+      "Body",
+      "Gets",
+      "Dinner",
+      "At",
+      "Eight"
+    ],
+    "question": "What is the order of the strings on a guitar from a guitarist's point of view?"
+  },
+  {
+    "term": "Guitar String Order",
+    "definition": "The order of strings on a guitar tuned to standard tuning.",
+    "mnemonic": "Every Body Gets Dinner At Eight (E B G D A E).",
+    "image": "/images/user/base/music/guitar/take-away-all-the-sharps-and-flats-2-in-mammoth-music-guitars.bf11ca9.jpg",
+    "keywords": [
+      "Every",
+      "Body",
+      "Gets",
+      "Dinner",
+      "At",
+      "Eight"
+    ],
+    "question": "What is the guitar string order in standard tuning?"
+  },
+  {
+    "term": "Transposing",
+    "definition": "To change the pitch of a musical piece up or down while keeping the space between the notes the same",
+    "mnemonic": "Transport your posies (transpose) to the window display you can move them up or down, but keep the space between them the same.",
+    "image": "/images/user/base/Music/remember-transposing-in-music-vocabulary-1.92d3f13.jpg",
+    "keywords": [
+      "Trans",
+      "pos"
+    ],
+    "question": "What is transposing in music?"
+  }
+]

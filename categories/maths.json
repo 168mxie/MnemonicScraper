@@ -1,0 +1,1889 @@
+[
+  {
+    "term": "4 x 4",
+    "definition": "16",
+    "mnemonic": "This 4x4 is a big machine I’m going to get one when I’m 16.",
+    "image": "/images/user/base/Maths/Maths Basics/3.1.12 4X4 memory aid.jpg",
+    "keywords": "4x4, sixteen",
+    "question": "What is the product of 4 x 4?"
+  },
+  {
+    "term": "5 x 5",
+    "definition": "25",
+    "mnemonic": "Multiply by 10 and half the result.",
+    "image": "/images/user/base/Maths/Maths Basics/3.1.13 5X5 memory aid.jpg",
+    "keywords": "five times five, twenty five",
+    "question": "What is the product of 5 x 5?"
+  },
+  {
+    "term": "6 x 6",
+    "definition": "36",
+    "mnemonic": "Chicks, chicks, dirty chicks, six times six is thirty six.",
+    "image": "/images/user/base/Maths/Maths Basics/3.1.14 6X6 learning aid.jpg",
+    "keywords": "thirty six, dirty chicks",
+    "question": "What is the product of 6 x 6?"
+  },
+  {
+    "term": "7 x 7",
+    "definition": "49",
+    "mnemonic": "Seven times seven commit a crime when they rob the number forty nine.",
+    "image": "/images/user/base/Maths/Maths Basics/3.1.15 7X7 mnemonic.jpg",
+    "keywords": "seven times seven, forty nine",
+    "question": "What is the product of 7 x 7?"
+  },
+  {
+    "term": "8 x 8",
+    "definition": "64",
+    "mnemonic": "I ate and I ate until I was sick on the floor equals sixty four.",
+    "image": "/images/user/base/Maths/Maths Basics/3.1.16 8X8 64 memory aid.jpg",
+    "keywords": "ate, sick on the floor",
+    "question": "What is the result of 8 x 8?"
+  },
+  {
+    "term": "9 x 9",
+    "definition": "81",
+    "mnemonic": "He stood in line and ate one ton.",
+    "image": "/images/user/base/Maths/Maths Basics/3.1.17 9X9 mnemonic.jpg",
+    "keywords": "nine, ate one ton",
+    "question": "What is 9 times 9?"
+  },
+  {
+    "term": "10 x 10",
+    "definition": "100",
+    "mnemonic": "Just put a zero on the end.",
+    "image": "/images/user/base/Maths/Maths Basics/3.1.18 10X10 memory aid.jpg",
+    "keywords": "zero",
+    "question": "What is the product of 10 x 10?"
+  },
+  {
+    "term": "11 x 11",
+    "definition": "121",
+    "mnemonic": "The 11 players of the soccer team were told to mark the opposing 11 players one to one.",
+    "image": "/images/user/base/Maths/Maths Basics/3.1.19 11X11 learning aid.jpg",
+    "keywords": "one to one, 121",
+    "question": "What is the result of 11 x 11?"
+  },
+  {
+    "term": "12 x 12",
+    "definition": "144",
+    "mnemonic": "12 times 12 is 144, There is no more!",
+    "image": "/images/user/base/Maths/Maths Basics/3.1.20 12X12 image.jpg",
+    "keywords": "twelve times twelve, no more",
+    "question": "What is 12 times 12?"
+  },
+  {
+    "term": "6 x 8",
+    "definition": "Multiplication operation of 6 times 8",
+    "mnemonic": "Six and eight went on a date and didn't come back until they were 48.",
+    "image": "/images/user/base/Maths/Maths Basics/3.1.21 Six times eight mnemonic.jpg",
+    "keywords": [
+      "Six",
+      "eight",
+      "date"
+    ],
+    "question": "What is the product of 6 x 8?"
+  },
+  {
+    "term": "Multiplying and dividing Negatives",
+    "definition": "Rules for multiplying and dividing positive and negative numbers.",
+    "mnemonic": "My friend's friend is my friend (positive x positive = positive). My friend's enemy is my enemy (positive x negative = negative). My enemy's friend is my enemy (negative x positive = negative). My enemy's enemy is my friend (negative x negative = positive).",
+    "image": null,
+    "keywords": [
+      "friend",
+      "enemy"
+    ],
+    "question": "What are the rules for multiplying and dividing negatives?"
+  },
+  {
+    "term": "Negative multiplied by a negative",
+    "definition": "A negative times a negative equals a positive.",
+    "mnemonic": "My enemy’s enemy is my friend.",
+    "image": null,
+    "keywords": [
+      "enemy",
+      "friend"
+    ],
+    "question": "What happens when you multiply a negative by another negative?"
+  },
+  {
+    "term": "Long Division",
+    "definition": "The process of calculating the number of times one number is contained in another.",
+    "mnemonic": "Does McDonald's sell burgers raw? (Divide Multiply Subtract Bring Down Repeat)",
+    "image": "/images/user/base/Maths/Maths Basics/Common Core/035_page-35-division.15b4c7a.jpg",
+    "keywords": [
+      "Does",
+      "McDonald's",
+      "sell",
+      "burgers",
+      "raw"
+    ],
+    "question": "What is long division?"
+  },
+  {
+    "term": "BIDMAS",
+    "definition": "A mnemonic for the order of operations in mathematical calculations: Brackets, Indices, Division, Multiplication, Addition, Subtraction.",
+    "mnemonic": "Bidmas is the memory aid used to work out which order mathematical calculations should be completed in.",
+    "image": "/images/user/base/Maths/Maths Basics/BIDMAS/bidmas-general.735a24e.jpg",
+    "keywords": [
+      "Bidmas"
+    ],
+    "question": "What does BIDMAS represent in the order of operations?"
+  },
+  {
+    "term": "Parentheses",
+    "definition": "The bracket symbols ( ). One bracket is a parenthesis.",
+    "mnemonic": "The parents did this (parenthesis) – they hung their naughty kids from brackets in the living room.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/the-parents-did-this-(parenthesis).013509c.jpg",
+    "keywords": [
+      "parents",
+      "parenthesis"
+    ],
+    "question": "What are parentheses?"
+  },
+  {
+    "term": "Algebra",
+    "definition": "Substitutes letters for numbers. It deals with symbols and the rules.",
+    "mnemonic": "The owl with a bra (algebra) was the substitute for one of the footballers with a letter on their shirt.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/an-owl-with-a-bra-represents-algebra.650feeb.jpg",
+    "keywords": [
+      "owl with a bra",
+      "substitute",
+      "letter"
+    ],
+    "question": "What is algebra?"
+  },
+  {
+    "term": "Variable",
+    "definition": "A symbol for a number we don’t know yet. It's the letters in an equation.",
+    "mnemonic": "The variable nature of letters' sizes makes them very difficult to manage.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/variable-size-of-letters.327aa94.jpg",
+    "keywords": [
+      "variable",
+      "letters"
+    ],
+    "question": "What is a variable in mathematics?"
+  },
+  {
+    "term": "Term",
+    "definition": "Terms are separated by positive and negative signs. They can be numbers, letters, brackets, indices, multiplication, and division.",
+    "mnemonic": "A term at school has the good (+ve) and the bad (-ve).",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/a term at-school-has-the-good-(+ve)-and-the-bad-(-ve).30997df.jpg",
+    "keywords": [
+      "term"
+    ],
+    "question": "What are terms in mathematics?"
+  },
+  {
+    "term": "Coefficient",
+    "definition": "A number used to multiply a variable. Example: Four is the coefficient in the term 4X.",
+    "mnemonic": "The company thought it would be a lot more efficient (coefficient) if everybody was called a number. The numbers were the internal office number.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/a-coefficient-is-a-number-used-to-multiply-a-variable.7bc5ae0.jpg",
+    "keywords": [
+      "co",
+      "efficient"
+    ],
+    "question": "What is a coefficient in a mathematical expression?"
+  },
+  {
+    "term": "Binomial",
+    "definition": "A mathematical expression with two terms.",
+    "mnemonic": "Binomial – Is a mathematical expression with two terms. Bi = two, as in bicycle (two wheels). Nomial = term.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/monomial,-binomial-and-trinomial-equations.f4d7897.jpg",
+    "keywords": [
+      "Bi",
+      "two",
+      "Nomial",
+      "term",
+      "bicycle"
+    ],
+    "question": "What is a binomial?"
+  },
+  {
+    "term": "Nomial",
+    "definition": "term",
+    "mnemonic": "The gnome tries to get a meal (nomial) with her friend the termite (term).",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/gnome-and-termite-fishing-for-a-meal.a4af9b0.jpg",
+    "keywords": [
+      "gnome",
+      "meal",
+      "nomial",
+      "term",
+      "termite"
+    ],
+    "question": "What does the term \"nomial\" refer to?"
+  },
+  {
+    "term": "Reciprocal",
+    "definition": "What to multiply a value by to get 1 (how to get ONE).",
+    "mnemonic": "At the log cutting competition, one person used a Reciprocating (reciprocal) saw and WON (1).",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/the-reciprocal-saw-won-the-log-cutting-competition.1092c86.jpg",
+    "keywords": [
+      "Reciproca",
+      "reciprocal",
+      "WON",
+      "1"
+    ],
+    "question": "What do you call the value you multiply a number by to get 1?"
+  },
+  {
+    "term": "Polygon",
+    "definition": "Any shape made of straight edges/sides – many sides",
+    "mnemonic": "Polly the parrots were many and everywhere.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/polly-the-parrots-help-you-remember-polygons.1a686f3.jpg",
+    "keywords": [
+      "Polly",
+      "many"
+    ],
+    "question": "What is a polygon?"
+  },
+  {
+    "term": "Gon",
+    "definition": "Sides",
+    "mnemonic": "Gone are the sideburns he’d had for years.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/gone-are-his-sideburns.5ee6a44.jpg",
+    "keywords": [
+      "Gone",
+      "side"
+    ],
+    "question": "What does \"gon\" refer to in geometry?"
+  },
+  {
+    "term": "Equilateral",
+    "definition": "Equilateral triangle is one in which all three sides have the same length.",
+    "mnemonic": "Equilateral starts with the word equal (or the starts have similar sounds) to remind you that all sides of the triangle are equal.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/examples-of-equilateral-triangles.e4c6882.jpg",
+    "keywords": [
+      "Equal"
+    ],
+    "question": "What is an equilateral triangle?"
+  },
+  {
+    "term": "Isosceles",
+    "definition": "A triangle in which two sides have the same length.",
+    "mnemonic": "\"I so love these (isosceles) socks\" can be used to remind you that two sides or two lengths of socks are equal.",
+    "image": "/images/user/base/maths/isosceles-triangle-socks.1f106c9.jpg",
+    "keywords": "I so love these",
+    "question": "What is an isosceles triangle?"
+  },
+  {
+    "term": "Scalene",
+    "definition": "A scalene triangle is one in which all three sides are different and no angles are equal.",
+    "mnemonic": "Scales (scalene) on lots of fish in the sea but every scale is different.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/scalene-fish-with-lots-of-different-scales.987981c.jpg",
+    "keywords": "Scales, scalene",
+    "question": "What is a scalene triangle?"
+  },
+  {
+    "term": "Tetrahedron",
+    "definition": "A solid shape of 4 triangles.",
+    "mnemonic": "Tetchy about head room (tetrahedron) wouldn’t you be if you had a ceiling like this.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/techy-about-head-room-due-to-tetrahedrons-on-the-ceiling.a74c2ba.jpg",
+    "keywords": [
+      "Tetchy",
+      "head room",
+      "tetrahedron"
+    ],
+    "question": "What shape is a tetrahedron?"
+  },
+  {
+    "term": "Symmetric",
+    "definition": "Identical parts facing each other. The simplest type is a mirror.",
+    "mnemonic": "See metal tick (symmetric) with a mirror. (Mirrors always provide a symmetrical view in reflection.)",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/1.5b92e92.jpg",
+    "keywords": "See metal tick",
+    "question": "What does it mean when something is symmetric?"
+  },
+  {
+    "term": "Asymmetrical",
+    "definition": "Not identical on both sides of a central line.",
+    "mnemonic": "The letter ‘A’ joined to a word means not. Tying a knot (A = knot).",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/66.d6372a3.jpg",
+    "keywords": [
+      "A",
+      "knot"
+    ],
+    "question": "What does asymmetrical mean?"
+  },
+  {
+    "term": "Hypotenuse",
+    "definition": "The longest side of a right angle triangle, opposite the right angle.",
+    "mnemonic": "Our high pot (hypotenuse) is the longest one. This high pot in use (hypotenuse) for the longest length.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/3.17.7f9a70e-new.0b9834c.jpg",
+    "keywords": [
+      "high pot",
+      "hypotenuse"
+    ],
+    "question": "What is the hypotenuse in a right angle triangle?"
+  },
+  {
+    "term": "Subject of a formula",
+    "definition": "It is the variable everything is equal to; the letter on its own.",
+    "mnemonic": "Todays subject will be how to write a letter.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/teacher-explaing-the-subject-of-a-formula.70288e5.jpg",
+    "keywords": [
+      "subject",
+      "letter"
+    ],
+    "question": "What is the subject of a formula?"
+  },
+  {
+    "term": "Indices (or index)",
+    "definition": "Indices say how many times to use the number in a multiplication, called a power.",
+    "mnemonic": "In the seas, (indices) remember who has the POWER.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/sea-power-in-world-war-two.0dcf98d.jpg",
+    "keywords": [
+      "seas",
+      "POWER"
+    ],
+    "question": "What do indices indicate in mathematics?"
+  },
+  {
+    "term": "Exponent",
+    "definition": "Another word for indices and power.",
+    "mnemonic": "In the seas (indices) remember who has the power, until “It’s your ex phoning (exponent) sir.”",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/its-your-ex-phoning-for-you-sir-sea-power-ww2.6882db0.jpg",
+    "keywords": [
+      "In the seas",
+      "ex phoning"
+    ],
+    "question": "What is another word for indices and power?"
+  },
+  {
+    "term": "Roman Numerals",
+    "definition": "Seven basic symbols used in Ancient Roman times to count and communicate values and numbers.",
+    "mnemonic": "I Value Xylophones Like Cows Do Milk",
+    "image": "/images/user/base/Maths/Roman Numerals/order-of-roman-numerals-in-roman-numerals-maths.ce8bd63.jpg",
+    "keywords": [
+      "I",
+      "Value",
+      "Xylophones",
+      "Like",
+      "Cows",
+      "Do",
+      "Milk"
+    ],
+    "question": "What are Roman numerals?"
+  },
+  {
+    "term": "I",
+    "definition": "One unit or finger (the number one).",
+    "mnemonic": "A single line or I referred to one unit or finger (the number one).",
+    "image": "/images/user/base/Maths/Roman Numerals/i-means-1-in-roman-numerals-maths.71a7df3.jpg",
+    "keywords": "I",
+    "question": "What does \"I\" represent in terms of counting or numerics?"
+  },
+  {
+    "term": "V",
+    "definition": "Five fingers (the number five).",
+    "mnemonic": "The V-shape made by the thumb and forefinger represented five fingers (the number five).",
+    "image": "/images/user/base/Maths/Roman Numerals/v-means-5-in-roman-numerals-maths.49e68db.jpg",
+    "keywords": "V",
+    "question": "What does the Roman numeral \"V\" represent?"
+  },
+  {
+    "term": "X",
+    "definition": "Two hands, representing ten fingers (the number ten).",
+    "mnemonic": "X equals two hands, representing ten fingers (the number ten).",
+    "image": "/images/user/base/Maths/Roman Numerals/x-means-10-in-roman-numerals-maths.f3cc8e2.jpg",
+    "keywords": "X",
+    "question": "What does X represent when using it as a number?"
+  },
+  {
+    "term": "L",
+    "definition": "Fifty",
+    "mnemonic": "L shape with five fingers next to an open mouth reminds you that an L means fifty.",
+    "image": "/images/user/base/Maths/Roman Numerals/l-means-50-in-roman-numerals-maths.28606b1.jpg",
+    "keywords": "L",
+    "question": "What Roman numeral does \"L\" represent?"
+  },
+  {
+    "term": "C",
+    "definition": "One hundred",
+    "mnemonic": "C stands for 'centum' – the Latin word for a hundred, which we often call a century (one hundred).",
+    "image": "/images/user/base/Maths/Roman Numerals/c-means-100-in-roman-numerals-maths.c1e8558.jpg",
+    "keywords": "C",
+    "question": "What does the letter \"C\" represent in Roman numerals?"
+  },
+  {
+    "term": "D",
+    "definition": "Five hundred",
+    "mnemonic": "D stands for the Daytona 500 (five hundred).",
+    "image": "/images/user/base/Maths/Roman Numerals/d-means-500-in-roman-numerals-maths.f6a9a09.jpg",
+    "keywords": "D",
+    "question": "What is the Roman numeral D?"
+  },
+  {
+    "term": "M",
+    "definition": "One thousand",
+    "mnemonic": "M stands for metre and there are 1000 (one thousand) millimetres in a metre.",
+    "image": "/images/user/base/Maths/Roman Numerals/m-means-1000-in-roman-numerals-maths.957031c.jpg",
+    "keywords": "M",
+    "question": "What does the letter \"M\" represent in Roman numerals?"
+  },
+  {
+    "term": "Roman Numerals",
+    "definition": "Rules for using Roman numerals: no symbol is repeated more than three times in a row, if a smaller or equal symbol appears after a larger symbol it is added, and if a smaller symbol appears before a larger one it is subtracted.",
+    "mnemonic": "'I Value Xylophones Like Cows Do Milk' to remember: I=1, V=5, X=10, L=50, C=100, D=500, M=1000.",
+    "image": null,
+    "keywords": [
+      "Value",
+      "Xylophones"
+    ],
+    "question": "What are the rules for using Roman Numerals?"
+  },
+  {
+    "term": "Roman numerals",
+    "definition": "A numeral system of ancient Rome, using combinations of letters from the Latin alphabet.",
+    "mnemonic": "'I Value Xylophones Like Cows Do Milk'. I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000",
+    "image": "https://example.com/images/user/base/Maths/Roman Numerals/numerals-to-numbers-example-1-in-roman-numerals-maths.c0e3932.jpg",
+    "keywords": "I Value Xylophones Like Cows Do Milk",
+    "question": "What are Roman numerals?"
+  },
+  {
+    "term": "Roman Numerals",
+    "definition": "Numerical system used in ancient Rome, employing combinations of letters from the Latin alphabet (I, V, X, L, C, D, M).",
+    "mnemonic": "'I Value Xylophones Like Cows Do Milk' for 'I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000'.",
+    "image": null,
+    "keywords": [
+      "I",
+      "V",
+      "X",
+      "L",
+      "C",
+      "D",
+      "M"
+    ],
+    "question": "What is the numerical system used in ancient Rome that uses combinations of letters like I, V, X, L, C, D, and M?"
+  },
+  {
+    "term": "Pi",
+    "definition": "3.1415926",
+    "mnemonic": "May I have a large container of coffee?",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/sumo-with-a-very-large-cup-of-coffee.6fa61d8.jpg",
+    "keywords": [
+      "pies"
+    ],
+    "question": "What is the value of Pi to seven decimal places?"
+  },
+  {
+    "term": "Cardinal numbers",
+    "definition": "Indicate counting (1, 2, 3, 4, 5 etc)",
+    "mnemonic": "Cardinal is counting.",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/examples-of-cardinal-numbers-22-cars-2-puppies-and-6-friends.d9031b1.jpg",
+    "keywords": "Cardinal, counting",
+    "question": "What are cardinal numbers?"
+  },
+  {
+    "term": "Ordinal numbers",
+    "definition": "The order of something (1st, 2nd, 3rd, 4th, 5th etc)",
+    "mnemonic": "Ordinal nearly says order.",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/ordinal-numbers-mnemonic-shows-orderly-line-of-people.9c985a9.jpg",
+    "keywords": "Ordinal, order",
+    "question": "What are ordinal numbers used to represent?"
+  },
+  {
+    "term": "Nominal numbers",
+    "definition": "Names something (shirt number7, number 48 bus etc)",
+    "mnemonic": "Nominal nearly says name.",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/nominal-numbers-mnmonic-shows-shirt-number-7.0ce801b.jpg",
+    "keywords": "Nominal, name",
+    "question": "What are nominal numbers?"
+  },
+  {
+    "term": "Rational Number",
+    "definition": "A rational number is any number that can be written as a simple fraction.",
+    "mnemonic": "Rational = Ratio OR Rational = Fractional",
+    "image": null,
+    "keywords": [
+      "Rational",
+      "Ratio",
+      "Fractional"
+    ],
+    "question": "What is a rational number?"
+  },
+  {
+    "term": "Irrational Number",
+    "definition": "Irrational numbers when written as decimals, do not terminate (nor do they repeat). The number goes on, indefinitely.",
+    "mnemonic": "I have got a rash on (irrational) my body. I’ve even got ear rash (irrational) and the spots go on and on (the number goes on and on).",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/having-a-rash-at-the-doctors-mnemonic-for-irrational-number.2eacdeb.jpg",
+    "keywords": [
+      "a rash on",
+      "ear rash",
+      "on and on"
+    ],
+    "question": "What is an irrational number?"
+  },
+  {
+    "term": "Integer",
+    "definition": "A number which is not a fraction; a whole number.",
+    "mnemonic": "She was into German (integer) but she could only say the first 10 numbers.",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/into-german-mnemonic-for-integer.8671237.jpg",
+    "keywords": [
+      "into German",
+      "integer",
+      "numbers"
+    ],
+    "question": "What is an integer?"
+  },
+  {
+    "term": "Square root",
+    "definition": "The square root of a number is the value that is multiplied by itself to give you that number.",
+    "mnemonic": "To help you remember what the square root of a number is think of a ROOT OF A TREE covered in ticks (bugs).",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/square-root-tree-of-ticks.e7ac11e.jpg",
+    "keywords": [
+      "ROOT"
+    ],
+    "question": "What is the square root?"
+  },
+  {
+    "term": "Radical",
+    "definition": "Any mathematical expression containing a root symbol, which can describe a square root, a cube root, or higher.",
+    "mnemonic": "A radio calls (radical) for more roots.",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/a-radio-covered-in-plant-roots-as-radicals-contain-roots.4c2f8a8.jpg",
+    "keywords": [
+      "radio calls",
+      "roots"
+    ],
+    "question": "What is a radical in mathematics?"
+  },
+  {
+    "term": "Surd",
+    "definition": "A surd is a number that can’t be simplified to remove a square root.",
+    "mnemonic": "“That’s absurd! (surd) Surely you can remove a square beetroot.” But they couldn’t remove it (can’t remove).",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/tractor-trying-to-pull-out-a-square-beetroot-from-the-ground.ef09e36.jpg",
+    "keywords": [
+      "surd",
+      "square",
+      "root",
+      "absurd"
+    ],
+    "question": "What is a surd?"
+  },
+  {
+    "term": "Prime number",
+    "definition": "Numbers greater than 1 that can not be divided except by itself and 1.",
+    "mnemonic": "The Prime minister wouldn’t be divided.",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/the-prime-minister-wouldn't-be-divided.4ab9a1f.jpg",
+    "keywords": [
+      "Prime"
+    ],
+    "question": "What is a prime number?"
+  },
+  {
+    "term": "Prime numbers",
+    "definition": "A number that cannot be divided except by itself.",
+    "mnemonic": "Prime suspect because “My dog bites several KGB men.”",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/dog-biting-kgb-men-mnemonic-for-the-first-six-prime-numbers.8b4ac9e.jpg",
+    "keywords": [
+      "My (2)",
+      "dog (3)",
+      "bites (5)",
+      "several (7)",
+      "K (1)",
+      "G (1)",
+      "B (1)",
+      "men (3)"
+    ],
+    "question": "What is the definition of prime numbers?"
+  },
+  {
+    "term": "Fractions - Numerator and Denominator",
+    "definition": "The numerator is the top part of the fraction, while the denominator is the bottom part of the fraction.",
+    "mnemonic": "Numerator = Up (U for up). Denominator = Down (D for Down).",
+    "image": "/images/user/base/Maths/Numbers/Fractions/numerator-dominating-denominator-in-a-fraction.c18cdc8.jpg",
+    "keywords": [
+      "U",
+      "D"
+    ],
+    "question": "What are the numerator and denominator in fractions?"
+  },
+  {
+    "term": "Improper Fraction",
+    "definition": "A fraction where there is a bigger number on the top than the bottom.",
+    "mnemonic": "It's improper for the small child to hold up the large person.",
+    "image": "/images/user/base/Maths/Numbers/Fractions/improper-fraction-has-a-bigger-number-on-top-than-below.1f7500a.jpg",
+    "keywords": [
+      "improper"
+    ],
+    "question": "What is an improper fraction?"
+  },
+  {
+    "term": "Vulgar Fraction",
+    "definition": "A vulgar fraction is a horizontal line with one number above it and one below it (i.e. not a decimal). It can be a proper fraction and an improper fraction.",
+    "mnemonic": "I will not let you leave this house looking so vulgar young lady. You're only three quarter dressed.",
+    "image": "/images/user/base/Maths/Numbers/Fractions/vulgar-fraction-mnemonic-.a682752.jpg",
+    "keywords": [
+      "vulgar",
+      "quarter"
+    ],
+    "question": "What is a vulgar fraction?"
+  },
+  {
+    "term": "Multiplication of Fractions",
+    "definition": "The process of multiplying two fractions together.",
+    "mnemonic": "The fractured (fraction) rock was split in half (1/2).",
+    "image": "/images/user/base/Maths/Numbers/Fraction Multiplication/round-rock-in-the-sea-fractured-and-split-in-half.159f8ad.jpg",
+    "keywords": [
+      "fractured",
+      "half"
+    ],
+    "question": "What is the multiplication of fractions?"
+  },
+  {
+    "term": "Dividing Fractions",
+    "definition": "The process of dividing one fraction by another.",
+    "mnemonic": "The fractured (fraction) rock was split in half (1/2).",
+    "image": "/images/user/base/Maths/Numbers/Fraction Multiplication/round-rock-in-the-sea-fractured-and-split-in-half.159f8ad.jpg",
+    "keywords": [
+      "fractured",
+      "half"
+    ],
+    "question": "What is dividing fractions?"
+  },
+  {
+    "term": "Dividing Fractions",
+    "definition": "A method to divide one fraction by another.",
+    "mnemonic": "When dividing fractions, remember KCF: K – Keep (the first fraction), C – Change (the sign from divide to multiply), F – Flip (the last fraction).",
+    "image": "/images/user/base/Maths/Numbers/Fraction Multiplication/kentucky-chicken-fried-kcf-chicken-bucket-mnemonic.9b34e76.jpg",
+    "keywords": [
+      "Kentucky Chicken Fried",
+      "KCF"
+    ],
+    "question": "What is dividing fractions?"
+  },
+  {
+    "term": "Adding Fractions",
+    "definition": "When adding or subtracting fractions, the denominators must be the same.",
+    "mnemonic": "If adding or subtracting is your aim, the bottom numbers must be the same.",
+    "image": null,
+    "keywords": [
+      "aim",
+      "same"
+    ],
+    "question": "What must be true about the denominators when adding fractions?"
+  },
+  {
+    "term": "Adding or Subtracting Fractions",
+    "definition": "When adding or subtracting fractions, the denominators must be the same.",
+    "mnemonic": "If adding or subtracting is your aim, the bottom numbers must be the same.",
+    "image": null,
+    "keywords": "aim, same",
+    "question": "How do you add or subtract fractions correctly?"
+  },
+  {
+    "term": "Compound interest",
+    "definition": "A method of calculating interest where the interest amount is added to the principal, and then future interest is calculated on the new principal amount.",
+    "mnemonic": "For compound interest, remember: 'All (A) equals the Principal (P) times (1 plus rate (r) as a decimal) to the power of time (t)'.",
+    "image": "/images/user/base/Maths/Numbers/Compound Interest/compound-interest-formula-also-known-as-annual-interest.e82eccc.jpg",
+    "keywords": [
+      "interest rate (expressed as a decimal)",
+      "annual"
+    ],
+    "question": "What is compound interest?"
+  },
+  {
+    "term": "Rounding",
+    "definition": "The process of simplifying numbers to make estimates easier.",
+    "mnemonic": "Rounded up cattle are simpler (simplify) and easier to count.",
+    "image": "/images/user/base/Maths/Numbers/Rounding Numbers/rounding-up-cattle-and-counting-them.e30379d.jpg",
+    "keywords": [],
+    "question": "What is rounding?"
+  },
+  {
+    "term": "Rounding",
+    "definition": "The process of adjusting the digits of a number to make it simpler, usually to a specific degree of precision.",
+    "mnemonic": "Underline the digit Look next door Five or more raise the score Four or less just ignore",
+    "image": null,
+    "keywords": [
+      "raise the score",
+      "ignore"
+    ],
+    "question": "What is the process called that adjusts the digits of a number to make it simpler, usually to a specific degree of precision?"
+  },
+  {
+    "term": "Significant figures",
+    "definition": "Significant figures are the important numbers that contribute to the value of a number.",
+    "mnemonic": "The museum exhibited pictures of significant female figures who had contributed to our way of life over the last 100 years.",
+    "image": "/images/user/base/Maths/Numbers/Significant Figures/portraits-of-significant-figures-who-contributed-to-history.a04f3ea.jpg",
+    "keywords": [
+      "significant",
+      "figures",
+      "contributed"
+    ],
+    "question": "What are significant figures in mathematics or science?"
+  },
+  {
+    "term": "Standard Form",
+    "definition": "Standard (index) form is expressing large or small numbers into indices, written as A x 10^n.",
+    "mnemonic": "It was standard for the class form (standard form) to write down one number and hold it up.",
+    "image": "/images/user/base/maths/remember-standard-form-in-maths-mammoth-memory-4-copy.30e1a67.png",
+    "keywords": [
+      "standard",
+      "form",
+      "write down one number"
+    ],
+    "question": "What is standard form in mathematics?"
+  },
+  {
+    "term": "Standard form and moving decimal places",
+    "definition": "Moving the decimal place to the left or right and adjusting the power of 10 accordingly.",
+    "mnemonic": "The Queens right hand woman (Right) was only small (Small) but you wouldn't mess with her.",
+    "image": "/images/user/base/Maths/Numbers/Standard Form/right-hand-woman-to-queen-small-v2.e26a5e9.jpg",
+    "keywords": [
+      "right",
+      "small"
+    ],
+    "question": "How do you convert numbers by using standard form and moving decimal places?"
+  },
+  {
+    "term": "Number Bases",
+    "definition": "A system where numbers are built on multiples of the chosen base number, starting with 1 and multiplying by the base.",
+    "mnemonic": "The bass (base) must be multiplied to hear it. You start with one bass (one base) guitar.",
+    "image": "/images/user/base/Maths/Maths Basics/Number Bases/3.2.1 Number base memory aid.jpg",
+    "keywords": [
+      "bass",
+      "base"
+    ],
+    "question": "What are number bases?"
+  },
+  {
+    "term": "Hypotenuse",
+    "definition": "The longest side of a right angle triangle, opposite the right angle.",
+    "mnemonic": "Our high pot (hypotenuse) is the longest one.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/3.17.7f9a70e-new.0b9834c.jpg",
+    "keywords": [
+      "high pot",
+      "hypotenuse"
+    ],
+    "question": "What is the hypotenuse in a right angle triangle?"
+  },
+  {
+    "term": "Hypotenuse",
+    "definition": "The longest side of a right angle triangle, opposite the right angle.",
+    "mnemonic": "This high pot in use (hypotenuse) for the longest length.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/3.17.a5db181.jpg",
+    "keywords": [
+      "high pot in use",
+      "hypotenuse",
+      "longest"
+    ],
+    "question": "What is the hypotenuse of a right angle triangle?"
+  },
+  {
+    "term": "Trigonometry (SOH CAH TOA)",
+    "definition": "A branch of mathematics dealing with the relationships between the angles and sides of triangles.",
+    "mnemonic": "Use SOH CAH TOA for sine, cosine, and tangent: Sine = Opposite/Hypotenuse, Cosine = Adjacent/Hypotenuse, Tangent = Opposite/Adjacent.",
+    "image": "/images/user/base/Maths/Pythagoras and Trigonometry/Sine and cosine rule/example-1-of-not-using-sine-rule.c7af5ec.jpg",
+    "keywords": "SOH, CAH, TOA",
+    "question": "What is trigonometry, often remembered by the mnemonic SOH CAH TOA?"
+  },
+  {
+    "term": "Thales' Intercept Theorem",
+    "definition": "Also known as the triangular proportionality theorem, it states that the ratios of the lengths of two sides of a triangle are equal to the ratios of the lengths of the corresponding altitudes or other corresponding line segments.",
+    "mnemonic": "He had a strange tail (Thales) and raked up hay and leaves (Thales) with it into separate (intercept) piles.",
+    "image": "/images/user/base/Maths/Pythagoras and Trigonometry/Intercept and midpoint theorem/thales-raking-up-leaves-and-hay-mnemonic.8dc0ee7.jpg",
+    "keywords": [
+      "tail",
+      "hay and leaves"
+    ],
+    "question": "What is Thales' Intercept Theorem?"
+  },
+  {
+    "term": "Cheops Pyramid",
+    "definition": "The oldest and largest pyramid in Egypt, pronounced chee-ops.",
+    "mnemonic": "Now if he could have chopped (Cheops) the pyramid in half it would have been very easy for him to measure the pyramid.",
+    "image": "/images/user/base/Maths/Pythagoras and Trigonometry/Intercept and midpoint theorem/thales-thinking-of-choping-the-pyramid-in-half.80e9571.jpg",
+    "keywords": [
+      "chopped"
+    ],
+    "question": "What is the Cheops Pyramid?"
+  },
+  {
+    "term": "Thales' Intercept Theorem",
+    "definition": "A theorem in geometry stating that if two lines are cut by a pair of parallel lines, then the segments on one line are proportional to the segments on the other line.",
+    "mnemonic": "If you hear the words Thales' Intercept Theorem, think Pyramids, Rivers, and Range out to sea. Everything is proportional.",
+    "image": [
+      "/images/user/base/Maths/Pythagoras and Trigonometry/Intercept and midpoint theorem/intercept-theorem-think-pyramids.13a5576.jpg",
+      "/images/user/base/Maths/Pythagoras and Trigonometry/Intercept and midpoint theorem/intercept-theorem-think-rivers.5f632df.jpg",
+      "/images/user/base/Maths/Pythagoras and Trigonometry/Intercept and midpoint theorem/intercept-theorem-think-range-out-to-sea.d548931.jpg"
+    ],
+    "keywords": [
+      "Pyramids",
+      "Rivers",
+      "Range out to sea"
+    ],
+    "question": "What is Thales' Intercept Theorem?"
+  },
+  {
+    "term": "Thales' midpoint theorem",
+    "definition": "If the midpoints of a triangle's sides are marked, the line connecting these midpoints is parallel to the third side and is half its length.",
+    "mnemonic": "The magician chopped his assistant through her midpoint (in half).",
+    "image": "/images/user/base/Maths/Pythagoras and Trigonometry/Intercept and midpoint theorem/magician-cutting-assistant-in-half.5753c9b.jpg",
+    "keywords": [
+      "midpoint",
+      "in half"
+    ],
+    "question": "What does Thales' midpoint theorem state?"
+  },
+  {
+    "term": "Trigonometry",
+    "definition": "The relationship between the sides and angles of triangles.",
+    "mnemonic": "<strong>Sohcahtoa</strong> the great Native American war chief was very <strong>trig</strong>ger-happy (trigonometry).",
+    "image": "/images/user/base/Maths/Pythagoras and Trigonometry/Trigonometry/trigger-happy-indian-war-chief.0b2ddb3.jpg",
+    "keywords": [
+      "Sohcahtoa",
+      "trig"
+    ],
+    "question": "What does trigonometry study?"
+  },
+  {
+    "term": "SOH CAH TOA",
+    "definition": "Mnemonic for trigonometric functions: Sine = Opposite/Hypotenuse, Cosine = Adjacent/Hypotenuse, Tangent = Opposite/Adjacent",
+    "mnemonic": "Start by writing down the name of the great trigger-happy Indian war chief: SOH CAH TOA",
+    "image": "/images/user/base/Maths/Pythagoras and Trigonometry/Trigonometry/example-1-of-of-trigonometry-practicle-uses.9df034e.jpg",
+    "keywords": [],
+    "question": "What is SOH CAH TOA used for in trigonometry?"
+  },
+  {
+    "term": "Scalar",
+    "definition": "A quantity having only magnitude, not direction. It's only a number.",
+    "mnemonic": "The scales (scalar) only give you a number.",
+    "image": "/images/user/base/Maths/Pythagoras and Trigonometry/Vectors/scales-only-give-you-a-number.47b6d45.jpg",
+    "keywords": [
+      "scales",
+      "scalar"
+    ],
+    "question": "What is a scalar?"
+  },
+  {
+    "term": "Vector",
+    "definition": "A line which has magnitude and direction.",
+    "mnemonic": "They drove the convector for a long period of time (how long) northwards (and direction).",
+    "image": "/images/user/base/Maths/Pythagoras and Trigonometry/Vectors/a-convector-heading-north-has-a-direction.b33cbdb.jpg",
+    "keywords": [
+      "convector"
+    ],
+    "question": "What is a vector?"
+  },
+  {
+    "term": "Column vectors",
+    "definition": "A vector represented by a line with magnitude and direction, represented graphically or as a column vector.",
+    "mnemonic": "Remember X becomes before Y in the alphabet so the X axis above Y on the bottom.",
+    "image": "/images/user/base/Maths/Pythagoras and Trigonometry/Vectors/in-column-vectors-x-comes-before-y.b3f1ee1.jpg",
+    "keywords": [
+      "X",
+      "Y"
+    ],
+    "question": "What are column vectors?"
+  },
+  {
+    "term": "Coefficient",
+    "definition": "A number used to multiply a variable.",
+    "mnemonic": "The company thought it would be a lot more efficient (coefficient) if everybody was called a number.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/a-coefficient-is-a-number-used-to-multiply-a-variable.7bc5ae0.jpg",
+    "keywords": [
+      "co",
+      "efficient"
+    ],
+    "question": "What is a coefficient in mathematics?"
+  },
+  {
+    "term": "Rational Number",
+    "definition": "A rational number is any number that can be written as a simple fraction.",
+    "mnemonic": "Rational = Ratio OR Rational = Fractional",
+    "image": null,
+    "keywords": [
+      "Rational",
+      "Ratio",
+      "Fractional"
+    ],
+    "question": "What is a rational number?"
+  },
+  {
+    "term": "Rationalise",
+    "definition": "Turning a number into a fraction.",
+    "mnemonic": "Rations can be shared half each (rations can be fractions).",
+    "image": "/images/user/base/Maths/Algebra/Manipulating Surds/jesus-sharing-bread-by-breaking-it-in-half.765228e.jpg",
+    "keywords": [
+      "Rations"
+    ],
+    "question": "What does it mean to rationalise a number?"
+  },
+  {
+    "term": "Irrational Number",
+    "definition": "Numbers that, when written as decimals, do not terminate and do not repeat, going on indefinitely.",
+    "mnemonic": "I have got a rash on (irrational) my body. I’ve even got ear rash (irrational) and the spots go on and on (the number goes on and on).",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/having-a-rash-at-the-doctors-mnemonic-for-irrational-number.2eacdeb.jpg",
+    "keywords": [
+      "a rash on",
+      "ear rash",
+      "on and on"
+    ],
+    "question": "What is an irrational number?"
+  },
+  {
+    "term": "Radical",
+    "definition": "A radical is a mathematical expression containing a √ symbol. This can describe a square root, a cube root, or higher.",
+    "mnemonic": "A radio calls (radical) for more roots.",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/a-radio-covered-in-plant-roots-as-radicals-contain-roots.4c2f8a8.jpg",
+    "keywords": [
+      "radio calls",
+      "roots"
+    ],
+    "question": "What is a radical in mathematics?"
+  },
+  {
+    "term": "Surd",
+    "definition": "A surd is a number that can’t be simplified to remove a square root.",
+    "mnemonic": "“That’s absurd! (surd) Surely you can remove a square beetroot.” (Square root). But they couldn’t remove it (can’t remove).",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/tractor-trying-to-pull-out-a-square-beetroot-from-the-ground.ef09e36.jpg",
+    "keywords": [
+      "absurd",
+      "square",
+      "root"
+    ],
+    "question": "What is a surd?"
+  },
+  {
+    "term": "Surd",
+    "definition": "A surd is an expression containing a square root symbol that cannot be simplified to remove the square root.",
+    "mnemonic": "“That’s absurd!” (surd) Surely you can remove a square beetroot.” But they couldn’t remove it (cant remove). “We need more lines, perhaps nine.”",
+    "image": "/images/user/base/Maths/Algebra/Manipulating Surds/absurd-tractors-can't-pull-square-beetroot-out-of-the-ground.77b0841.jpg",
+    "keywords": [
+      "absurd",
+      "surd"
+    ],
+    "question": "What is a surd in mathematics?"
+  },
+  {
+    "term": "Quadratic Equation",
+    "definition": "An equation which contains a term with a single variable of degree 2 with no higher power.",
+    "mnemonic": "A quad bike with a rat (quadratic) driving, pulling an X-ray (X) of a fish in a square (²) fish tank.",
+    "image": "/images/user/base/Maths/Algebra/Quadratic Equation and Parabolas Read 1/1.de5d653.jpg",
+    "keywords": [
+      "quad",
+      "rat",
+      "X",
+      "square"
+    ],
+    "question": "What is a quadratic equation?"
+  },
+  {
+    "term": "Factor",
+    "definition": "Factors are what we multiply to get a number. Factoring is taking a number apart.",
+    "mnemonic": "The FACTORY (factor) was set up to tear numbers apart.",
+    "image": "/images/user/base/Maths/Algebra/Quadratic Equation and Parabolas Read 1/factory-producing-numbers-by-tearing-them-apart.a99c834.jpg",
+    "keywords": [
+      "FACTORY",
+      "tear numbers apart"
+    ],
+    "question": "What are factors in mathematics?"
+  },
+  {
+    "term": "Parabola",
+    "definition": "A simple curve shaped like an arch",
+    "mnemonic": "There is an old parable (parabola) that says, what goes up must come down.",
+    "image": "/images/user/base/Maths/Algebra/Quadratic Equation and Parabolas Read 1/parabola-old-parable-mnemonic.6f22852.jpg",
+    "keywords": [
+      "parable",
+      "parabola"
+    ],
+    "question": "What is a parabola?"
+  },
+  {
+    "term": "Complete the square",
+    "definition": "A method to solve (find the roots) of quadratic equations by transforming them into a perfect square trinomial.",
+    "mnemonic": "Completely get rid of the square",
+    "image": "/images/user/base/Maths/Algebra/Completing the Square Read 2/getting-rid-of-the-square-(easy)---complete-the-square.7adb8eb.jpg",
+    "keywords": [
+      "get rid",
+      "square"
+    ],
+    "question": "What is the method called that transforms quadratic equations into a perfect square trinomial to find their roots?"
+  },
+  {
+    "term": "Quadratic formula solver",
+    "definition": "A method to find the roots of quadratic equations.",
+    "mnemonic": "A negative boy couldn't decide whether to go to a radical party but being square he decided not to go. He missed out on four amazing chicks. The party was not over until 2am.",
+    "image": "/images/user/base/Maths/Algebra/Quadratics Formula Solver read 3/negative-boy-story-of-the-quadratic-formula.9438d25.jpg",
+    "keywords": [
+      "negative boy (-b)",
+      "decide (±)",
+      "radical party (sqrt)",
+      "square (b^2)",
+      "four (4)",
+      "amazing (a)",
+      "chicks (c)",
+      "over (0)",
+      "2am (2a)"
+    ],
+    "question": "What is the quadratic formula solver used for?"
+  },
+  {
+    "term": "Prime number",
+    "definition": "Numbers (greater than 1) that can not be divided except by itself and 1.",
+    "mnemonic": "The Prime minister wouldn’t be divided.",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/the-prime-minister-wouldn't-be-divided.4ab9a1f.jpg",
+    "keywords": [
+      "Prime"
+    ],
+    "question": "What is a prime number?"
+  },
+  {
+    "term": "Prime numbers",
+    "definition": "A number that can not be divided except by itself.",
+    "mnemonic": "My dog bites several KGB men. And 2, 3, 5, 7, 11, and 13 are the first six prime numbers.",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/dog-biting-kgb-men-mnemonic-for-the-first-six-prime-numbers.8b4ac9e.jpg",
+    "keywords": [
+      "Prime suspect",
+      "My (2)",
+      "dog (3)",
+      "bites (5)",
+      "several (7)",
+      "K (1)",
+      "G (1)",
+      "B (1)",
+      "men (3)"
+    ],
+    "question": "What are prime numbers?"
+  },
+  {
+    "term": "Prime numbers",
+    "definition": "Numbers greater than 1 that have no divisors other than 1 and themselves.",
+    "mnemonic": "All even numbers are NOT prime numbers. All numbers divisible by 5.",
+    "image": null,
+    "keywords": [
+      "even",
+      "divisible by 5"
+    ],
+    "question": "What are prime numbers?"
+  },
+  {
+    "term": "Prime numbers between 1 and 100",
+    "definition": "Prime numbers are numbers that have no divisors other than 1 and themselves.",
+    "mnemonic": "My dog bites several KGB men: 2, 3, 5, 7, 11, 13.",
+    "image": "/images/user/base/Maths/Numbers/Types of Number/table-showing-just-the-25-prime-numbers-from-1-to-100.4a5f63f.jpg",
+    "keywords": [
+      "My dog bites several KGB men"
+    ],
+    "question": "What are prime numbers between 1 and 100?"
+  },
+  {
+    "term": "Factor",
+    "definition": "Factors are what we multiply to get a number. Factoring is taking a number apart.",
+    "mnemonic": "The FACTORY (factor) was set up to tear numbers apart.",
+    "image": "/images/user/base/Maths/Algebra/Quadratic Equation and Parabolas Read 1/factory-producing-numbers-by-tearing-them-apart.a99c834.jpg",
+    "keywords": [
+      "factory",
+      "tear"
+    ],
+    "question": "What are factors in mathematics?"
+  },
+  {
+    "term": "Sequence",
+    "definition": "A sequence is a list of numbers which are related to each other.",
+    "mnemonic": "A list of sequins which are numbered will help you remember that a sequence is a list of numbers which are related to each other.",
+    "image": "/images/user/base/Maths/Algebra/Sequences/a-list-of-sequins-with-numbers.57ac72d.jpg",
+    "keywords": [
+      "sequins",
+      "sequence"
+    ],
+    "question": "What is a sequence?"
+  },
+  {
+    "term": "Fibonacci sequence",
+    "definition": "A series of numbers in which each number is the sum of the two preceding numbers. The simplest is 1, 1, 2, 3, 5, 8, etc.",
+    "mnemonic": "If you fib, you lie and are said to have a forked tongue, which looks like two number 1’s next to each other which is the simplest start of the Fibonacci number.",
+    "image": "https://example.com/images/user/base/Maths/Algebra/Sequences/5---hbc.92b34e4.jpg",
+    "keywords": [
+      "fib",
+      "forked tongue",
+      "two number 1’s"
+    ],
+    "question": "What is the Fibonacci sequence?"
+  },
+  {
+    "term": "Two part ratios",
+    "definition": "A ratio shows how two numbers compare.",
+    "mnemonic": "Raise a toe (ratio) to every (to every) one.",
+    "image": "/images/user/base/Maths/Algebra/Ratios/raise-a-glass-a-ratio-is-to-every-one-mnemonic-picture.60aa5be.jpg",
+    "keywords": [
+      "ratio",
+      "raise a toe",
+      "to every"
+    ],
+    "question": "What does a two part ratio represent?"
+  },
+  {
+    "term": "Ratios",
+    "definition": "A ratio is a relationship between two numbers indicating how many times the first number contains the second. The scale of a map is a ratio.",
+    "mnemonic": "Think of the two people raising their toes (ratio) to the holiday they are going to have (see map on the wall). They raised a toe to everyone (ratio is to every) because they were going on holiday. Do you see the map?",
+    "image": "/images/user/base/Maths/Algebra/Ratios/raise-a-glass-in-front-of-a-map-ratio-is-a-scale.a8ac60c.jpg",
+    "keywords": "ratio, raise a toe",
+    "question": "What is a ratio?"
+  },
+  {
+    "term": "Inverse proportion",
+    "definition": "Two quantities are inversely proportional when one quantity increases, the other decreases. The product of the two quantities is constant.",
+    "mnemonic": "In the book of verse (inverse). Was just lots of multiplication signs.",
+    "image": "/images/user/base/Maths/Algebra/Ratios/in-the-book-of-verse-sounds-like-inverse.6a39ed8.jpg",
+    "keywords": [
+      "verse",
+      "inverse"
+    ],
+    "question": "What is inverse proportion?"
+  },
+  {
+    "term": "Indices",
+    "definition": "Indices (or index) indicate how many times to use the number in a multiplication, called a POWER.",
+    "mnemonic": "In the seas, (indices) remember who has the POWER.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/sea-power-in-world-war-two.0dcf98d.jpg",
+    "keywords": [
+      "seas",
+      "POWER"
+    ],
+    "question": "What are indices in mathematics?"
+  },
+  {
+    "term": "Exponent",
+    "definition": "An exponent is another word for indices and power.",
+    "mnemonic": "In the seas (indices) remember who has the power, until “It’s your ex phoning (exponent) sir.”",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/its-your-ex-phoning-for-you-sir-sea-power-ww2.6882db0.jpg",
+    "keywords": [
+      "In the seas",
+      "indices",
+      "power",
+      "ex phoning",
+      "exponent"
+    ],
+    "question": "What is another term used for indices and power in mathematics?"
+  },
+  {
+    "term": "2^0",
+    "definition": "Any non-zero number raised to the power of zero is equal to one.",
+    "mnemonic": "Remember the picture 'it doesn't matter how many people there are there is only one sun' which means 2^0 = 1.",
+    "image": null,
+    "keywords": [
+      "one sun"
+    ],
+    "question": "What is 2^0?"
+  },
+  {
+    "term": "x-axis",
+    "definition": "The x-axis is the horizontal axis on a graph.",
+    "mnemonic": "X is a cross, so the x axis is across. Therefore, the y axis is vertical.",
+    "image": "/images/user/base/Maths/Graphs/Graphs/x-and-y-egg-holders.116743e.jpg",
+    "keywords": [
+      "cross",
+      "across"
+    ],
+    "question": "What is the x-axis on a graph?"
+  },
+  {
+    "term": "Z axis",
+    "definition": "The Z axis in math is mainly thought of as depth. It is always 90° (perpendicular) to the x axis and y axis.",
+    "mnemonic": "A deep sleep (depth) is lots of Z's (Z-Depth)",
+    "image": "/images/user/base/Maths/Graphs/Graphs/getting-lots-of-z's-in-a-deep-sleep.61c5312.jpg",
+    "keywords": [
+      "Z's",
+      "depth"
+    ],
+    "question": "What does the Z axis represent in math?"
+  },
+  {
+    "term": "Coordinates",
+    "definition": "x comes before y in coordinate system",
+    "mnemonic": "You have to walk across (x) the hall before you can go up (y) the stairs.",
+    "image": null,
+    "keywords": "across and x, you and y",
+    "question": "What is the order of axes in a coordinate system?"
+  },
+  {
+    "term": "Gradient",
+    "definition": "The gradient of a line is calculated as the ratio of 'rise' to 'run'.",
+    "mnemonic": "It's grey (gradient) and then the sun rises overhead (rise over) as we go for a run (run).",
+    "image": "/images/user/base/Maths/Graphs/Finding The Gradient/rising-early-in-the-morning-to-go-for-a-run.19aa58d.jpg",
+    "keywords": [
+      "grey",
+      "rises over",
+      "run"
+    ],
+    "question": "What is the gradient of a line defined as?"
+  },
+  {
+    "term": "Formula for a straight line",
+    "definition": "The equation of a straight line is given by y = mx + c, where m is the slope/gradient and c is the y-intercept.",
+    "mnemonic": "Why (y) have you made (m) egg (x) and cress (c) sandwiches in a line?",
+    "image": "/images/user/base/Maths/Graphs/Formula For Straight Lines/why-make-egg-and-cress-sandwiches-in-a-line.829f354.jpg",
+    "keywords": [
+      "Why (y)",
+      "made (m)",
+      "egg (x)",
+      "cress (c)"
+    ],
+    "question": "What is the formula for a straight line in mathematics?"
+  },
+  {
+    "term": "Gradient (m)",
+    "definition": "To work out the gradient (m) of a line you divide the change in y by the change in x.",
+    "mnemonic": "There is a large gradient on a mountain (m). Put your friend's Y fronts over the eggs (y over x) to stop the eggs from cracking if you're going to roll your eggs down a mountain.",
+    "image": [
+      "/images/user/base/Maths/Graphs/Formula For Straight Lines/large-gradient-on-mountain-m.deebd51.jpg",
+      "/images/user/base/Maths/Graphs/Formula For Straight Lines/y-fronts-on-eggs-rolling-down-a-mountain.6aee4fc.jpg"
+    ],
+    "keywords": [
+      "m",
+      "mountain",
+      "Y fronts",
+      "y",
+      "over",
+      "x"
+    ],
+    "question": "What is the formula to calculate the gradient (m) of a line?"
+  },
+  {
+    "term": "Bar graph",
+    "definition": "A pictorial representation of data shown using parallel bars of varying heights. The bars do not touch as the data is about categories.",
+    "mnemonic": "Bar charts display data but there are gaps between bars (just like in a jail) (there are gaps between the data).",
+    "image": "/images/user/base/Maths/Graphs/Other Graphs Charts and Diagrams/woman-in-a-jail-looks-out-between-the-bars.b87ef10.jpg",
+    "keywords": "jail",
+    "question": "What is a bar graph?"
+  },
+  {
+    "term": "Histogram",
+    "definition": "A pictorial representation of data shown in equal intervals with no spaces between the intervals.",
+    "mnemonic": "A histogram looks like a historical FORT diagram.",
+    "image": "/images/user/base/Maths/Graphs/Other Graphs Charts and Diagrams/a-histogram-that-looks-like-a-historical-fort.0ce75cb.jpg",
+    "keywords": "historical FORT",
+    "question": "What is a histogram?"
+  },
+  {
+    "term": "Venn Diagram",
+    "definition": "A diagram that uses overlapping rings or circles to represent sets and their relationships.",
+    "mnemonic": "The vending (venn) machine only gives out rings.",
+    "image": "/images/user/base/Maths/Graphs/Other Graphs Charts and Diagrams/vending-machine-that-dispenses-wedding-rings.a4f87f4.jpg",
+    "keywords": [
+      "venn",
+      "rings"
+    ],
+    "question": "What is a Venn Diagram?"
+  },
+  {
+    "term": "Geometry",
+    "definition": "The relationship of lines, angles, curves, surfaces, solids and points.",
+    "mnemonic": "Gee will it fall on me, the tree? (geometry)",
+    "image": "/images/user/base/Maths/Geometry/Geometry/1-geometry-labels.a18fea8.jpg",
+    "keywords": [
+      "Gee",
+      "on me",
+      "tree"
+    ],
+    "question": "What does geometry study?"
+  },
+  {
+    "term": "Radius of a Circle",
+    "definition": "The radius is the straight line extending from the centre of a circle to the outside edge.",
+    "mnemonic": "The radius radiates like rays from the centre of the sun, just like the radius does from the centre of a circle.",
+    "image": "/images/user/base/Maths/Geometry/Geometry/radiating-rays-of-the-sun.4923c1d.jpg",
+    "keywords": [
+      "Radius",
+      "radiates",
+      "rays"
+    ],
+    "question": "What is the radius of a circle?"
+  },
+  {
+    "term": "Diameter of a Circle",
+    "definition": "The straight line passing from side to side through the centre of a circle.",
+    "mnemonic": "The “D” in diameter even has the diameter in it.",
+    "image": "/images/user/base/Maths/Geometry/Geometry/diameter-begins-with-a-d.f40f6e7.jpg",
+    "keywords": [
+      "Diameter",
+      "D"
+    ],
+    "question": "What is the diameter of a circle?"
+  },
+  {
+    "term": "circumference of a circle",
+    "definition": "The distance around the outside of a circle.",
+    "mnemonic": "The first part of the word 'circumference' looks like the word 'circle'.",
+    "image": "/images/user/base/Maths/Geometry/Geometry/the-word-circumference-looks-like-a-circle.c5b4f66.jpg",
+    "keywords": [
+      "circumference",
+      "circle"
+    ],
+    "question": "What is the circumference of a circle?"
+  },
+  {
+    "term": "Polygon",
+    "definition": "Any shape made of straight edges/sides – many sides.",
+    "mnemonic": "Polly the parrots were many and everywhere.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/polly-the-parrots-help-you-remember-polygons.1a686f3.jpg",
+    "keywords": [
+      "Polly",
+      "many"
+    ],
+    "question": "What is a polygon?"
+  },
+  {
+    "term": "Gon",
+    "definition": "Sides in a polygon.",
+    "mnemonic": "Gone are the sideburns he’d had for years.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/gone-are-his-sideburns.5ee6a44.jpg",
+    "keywords": [
+      "Gone",
+      "side"
+    ],
+    "question": "How is the term \"gon\" related to a polygon?"
+  },
+  {
+    "term": "Trapezium",
+    "definition": "A shape with 4 sides that has a pair of opposite sides that are parallel.",
+    "mnemonic": "A trap with a void (trapezoid) for a lobster is shaped like a trapezoid.",
+    "image": "/images/user/base/Maths/Geometry/Shapes/a-lobster-trap-and-a-trapezoid-look-similar.5fe1efc.jpg",
+    "keywords": [
+      "trap",
+      "void"
+    ],
+    "question": "What is a trapezium?"
+  },
+  {
+    "term": "Rhombus",
+    "definition": "All four sides have equal length, opposite angles have equal measure and opposite sides are parallel. They look like a diamond.",
+    "mnemonic": "She rammed the bus (rhombus) into a diamond store.",
+    "image": "/images/user/base/Maths/Geometry/Shapes/ramming-a-bus-into-a-diamond-shop.1d9f53e.jpg",
+    "keywords": [
+      "rammed the bus",
+      "diamond"
+    ],
+    "question": "What is a rhombus?"
+  },
+  {
+    "term": "Pentagon",
+    "definition": "A polygon with 5 sides",
+    "mnemonic": "<span style=\"color: #ff0000;\">Pens</span> (pentagon) are held by your <span style=\"color: #ff0000;\"><strong>five</strong></span> fingers (five sides).",
+    "image": "/images/user/base/Maths/Geometry/Shapes/a-pentagon-is-a-polygon-with-5-sides.fb0808a.jpg",
+    "keywords": [
+      "Pens",
+      "five"
+    ],
+    "question": "What is a pentagon?"
+  },
+  {
+    "term": "Hexagon",
+    "definition": "A polygon with 6 sides",
+    "mnemonic": "Hexagons and six both contain an X.",
+    "image": "/images/user/base/Maths/Geometry/Shapes/a-hexagon-is-a-polygon-with-6-sides.bb692b1.jpg",
+    "keywords": [
+      "Hex",
+      "six"
+    ],
+    "question": "What is a hexagon?"
+  },
+  {
+    "term": "Heptagon",
+    "definition": "A polygon with 7 sides",
+    "mnemonic": "She heaped until all the snow was gone (heptagon) 7 days a week.",
+    "image": "/images/user/base/Maths/Geometry/Shapes/a-heptagon-is-a-polygon-with-7-sides.1b04bb0.jpg",
+    "keywords": [
+      "heaped",
+      "gone"
+    ],
+    "question": "What is a heptagon?"
+  },
+  {
+    "term": "Octagon",
+    "definition": "A polygon with 8 sides.",
+    "mnemonic": "An octopus (octagon) has 8 tentacles (8 sides).",
+    "image": "/images/user/base/Maths/Geometry/Shapes/an-octogon-is-a-polygon-with-8-sides.6fa3134.jpg",
+    "keywords": [
+      "octopus",
+      "8"
+    ],
+    "question": "What is an octagon?"
+  },
+  {
+    "term": "Nonagon",
+    "definition": "A polygon with 9 sides.",
+    "mnemonic": "Nine of them sounds like nonagon so makes this easy to remember. If none are gone (nonagon) then a cat has nine lives.",
+    "image": "/images/user/base/Maths/Geometry/Shapes/cats-with-nine-lives-sat-on-a-wall.1427407.jpg",
+    "keywords": [
+      "Nine",
+      "Nonagon",
+      "None are gone"
+    ],
+    "question": "What is a nonagon?"
+  },
+  {
+    "term": "Decagon",
+    "definition": "A polygon with 10 sides",
+    "mnemonic": "In a deck of cards the highest number is a 10 (Dec has the same word root as decade which is 10 years).",
+    "image": "/images/user/base/Maths/Geometry/Shapes/a-decagon-is-a-polygon-with-10-sides.14f404c.jpg",
+    "keywords": [
+      "deck",
+      "Dec",
+      "decade"
+    ],
+    "question": "What is a decagon?"
+  },
+  {
+    "term": "Quadrilateral",
+    "definition": "A polygon with 4 sides",
+    "mnemonic": "A quad bike has four wheels as quadrilateral has four sides.",
+    "image": "/images/user/base/Maths/Geometry/Shapes/a-quadrilateral-has-4-sides-like-a-quadbike-has-4-wheels.029acd6.jpg",
+    "keywords": [
+      "quad",
+      "quadrilateral"
+    ],
+    "question": "What is a quadrilateral?"
+  },
+  {
+    "term": "Regular",
+    "definition": "All angles are equal and all sides are equal – everything equal.",
+    "mnemonic": "Regularly every day she measured the length of her plant. It was always the same.",
+    "image": "/images/user/base/Maths/Geometry/Shapes/the-plastic-plant-was-always-the-same-length.c17d07d.jpg",
+    "keywords": [
+      "Regular",
+      "same"
+    ],
+    "question": "What does it mean when a shape is regular?"
+  },
+  {
+    "term": "Symmetric",
+    "definition": "Identical parts facing each other. The simplest type is a mirror.",
+    "mnemonic": "See metal tick (symmetric) with a mirror. (Mirrors always provide a symmetrical view in reflection.)",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/1.5b92e92.jpg",
+    "keywords": [
+      "See metal tick"
+    ],
+    "question": "What does it mean for something to be symmetric?"
+  },
+  {
+    "term": "Asymmetrical",
+    "definition": "Not identical on both sides of a central line.",
+    "mnemonic": "The letter ‘A’ joined to a word means not.",
+    "image": "/images/user/base/Maths/Maths Basics/Vocabulary and Expressions/66.d6372a3.jpg",
+    "keywords": [
+      "A",
+      "knot"
+    ],
+    "question": "What does asymmetrical mean?"
+  },
+  {
+    "term": "Tessellation",
+    "definition": "A shape is said to be tessellated if an infinite number of that shape can be put together with no gaps.",
+    "mnemonic": "The first time I failed my driving test was when I turned up late (tessellation). I’ve repeatedly failed my test hundreds of times (repeatedly).",
+    "image": "/images/user/base/Maths/Geometry/Tessellation/car-sat-on-its-roof-outside-the-driving-test-centre.31957e4.jpg",
+    "keywords": [
+      "test",
+      "I",
+      "late",
+      "repeatedly",
+      "hundreds",
+      "times"
+    ],
+    "question": "What is tessellation?"
+  },
+  {
+    "term": "Tangent",
+    "definition": "A Tangent is a line that touches a curve at one point without cutting across it.",
+    "mnemonic": "Tanned when she gently (tangent) touched the circle.",
+    "image": "/images/user/base/Maths/Geometry/Circles/tangent-mnemonic-she-tanned-gently.017e483.jpg",
+    "keywords": [
+      "Tanned",
+      "gent"
+    ],
+    "question": "What is a tangent in geometry?"
+  },
+  {
+    "term": "Segment",
+    "definition": "A Segment is the area of a circle made by a line and an arc.",
+    "mnemonic": "A segment of orange is shaped like a segment.",
+    "image": "/images/user/base/Maths/Geometry/Circles/segment-of-a-circle.884204c.jpg",
+    "keywords": [
+      "segment"
+    ],
+    "question": "What is a segment in a circle?"
+  },
+  {
+    "term": "CHORD",
+    "definition": "A chord of a circle is a straight line whose endpoints both lie on the circumference.",
+    "mnemonic": "A cord of rope thrown across a circle between two friends and pulled tight is a chord.",
+    "image": "/images/user/base/Maths/Geometry/Circles/a-chord-of-a-circle-mnemonic.fe875fe.jpg",
+    "keywords": [
+      "cord"
+    ],
+    "question": "What is a chord of a circle?"
+  },
+  {
+    "term": "Congruent",
+    "definition": "Two shapes are congruent when you can turn, flip, and/or slide one so it fits exactly on top of the other (identical size and shape).",
+    "mnemonic": "The con grew ants (congruent), but they all looked exactly the same.",
+    "image": "/images/user/base/Maths/Geometry/Congruent/the-con-whon-grew-ants-mnemonic-for-congruent.9f64ca5.jpg",
+    "keywords": [
+      "con grew ants",
+      "same"
+    ],
+    "question": "What does it mean for two shapes to be congruent?"
+  },
+  {
+    "term": "Similar",
+    "definition": "In Geometry, two shapes are similar when the only difference is size (and possibly the need to move, turn, or flip one around).",
+    "mnemonic": "She used Simcity (similar) and constructed exactly what she saw outside her window but a small size.",
+    "image": "/images/user/base/Maths/Geometry/Similar/using-sim-city-to-create-a-similar-smaller-city.61011b2.jpg",
+    "keywords": "Simcity",
+    "question": "What does it mean for two shapes to be similar in geometry?"
+  },
+  {
+    "term": "Perpendicular",
+    "definition": "At an angle of 90° to a given line (or plane or surface).",
+    "mnemonic": "Purple dictionary sat on the book shelf at 90° angle.",
+    "image": "/images/user/base/Maths/Geometry/Angles/a-pruple-dictionary-forms-a-perpendicular-angle-on-a-shelf.58c065e.jpg",
+    "keywords": [
+      "Purple dictionary"
+    ],
+    "question": "What does it mean when two lines are perpendicular?"
+  },
+  {
+    "term": "Acute angle",
+    "definition": "An angle that is less than 90° (a sharp angle).",
+    "mnemonic": "A cute (acute) animal is always small (less than 90°), but watch out! It has very sharp teeth (a sharp angle).",
+    "image": "/images/user/base/Maths/Geometry/Angles/a-cute-cat-with-very-sharp-teeth.9456f95.jpg",
+    "keywords": [
+      "A cute",
+      "sharp"
+    ],
+    "question": "What is an acute angle?"
+  },
+  {
+    "term": "Right angle",
+    "definition": "A right angle is an angle that measures exactly 90°.",
+    "mnemonic": "They stood at an upright angle (right angle).",
+    "image": "/images/user/base/Maths/Geometry/Angles/standing-upright-you-are-at-a-right-angle-to-the-ground.15f5d2a.jpg",
+    "keywords": "upright",
+    "question": "What is a right angle?"
+  },
+  {
+    "term": "Obtuse angle",
+    "definition": "An angle that is greater than 90° but less than 180°.",
+    "mnemonic": "Obese (Obtuse) – Obtuse think obese, which is a big angle.",
+    "image": "/images/user/base/Maths/Geometry/Angles/an-obese-mans-belly-forms-an-obtuse-angle.f40a3e9.jpg",
+    "keywords": [
+      "Obese",
+      "Obtuse"
+    ],
+    "question": "What is an obtuse angle?"
+  },
+  {
+    "term": "Reflex angle",
+    "definition": "An angle more than 180° but less than 360°.",
+    "mnemonic": "She looked in her reflexion and flexed her arm over.",
+    "image": "/images/user/base/Maths/Geometry/Angles/the-reflexion-of-her-arm-in-the-mirror-was-at-a-reflex-angle.7931bcd.jpg",
+    "keywords": [
+      "reflex",
+      "flex"
+    ],
+    "question": "What is a reflex angle?"
+  },
+  {
+    "term": "Radian",
+    "definition": "A radian is the angle made when the radius is wrapped around a circle.",
+    "mnemonic": "To remember a Radian - Think radius and angle.",
+    "image": "/images/user/base/Maths/Geometry/Radian/radius-and-angle-combine-to-give-radian.e445725.jpg",
+    "keywords": [
+      "raid"
+    ],
+    "question": "What is a radian?"
+  },
+  {
+    "term": "Radian",
+    "definition": "A radian is a radius on a circumference to give an angle.",
+    "mnemonic": "A raid (radian) by a radius on a circumference.",
+    "image": "/images/user/base/Maths/Geometry/Radian/the-radius-of-a-circle-forming-a-sector.b1ae805.jpg",
+    "keywords": [
+      "raid"
+    ],
+    "question": "What is a radian?"
+  },
+  {
+    "term": "triangle",
+    "definition": "The total interior angles of a triangle = 180°",
+    "mnemonic": "The triangle scored three treble twenties in her darts game which gave a combined score of 180.",
+    "image": "/images/user/base/Maths/Geometry/Internal Angles of Polygons/a-triangle-playing-darts-gets-180.fed5d75.jpg",
+    "keywords": [
+      "triangle",
+      "combined",
+      "180"
+    ],
+    "question": "What is the sum of the interior angles of a triangle?"
+  },
+  {
+    "term": "Exterior angle",
+    "definition": "The angle formed between any side of a polygon and a line extended from the next side. The exterior angle and the interior angle add up to 180°.",
+    "mnemonic": "EXTERIOR think EXTEND. Concentrate on the beginning of the word, 'EXT'.",
+    "image": "/images/user/base/Maths/Geometry/Internal Angles of Polygons/exterior-angles-of--polygons-in-geometry-maths.5e00a8f.jpg",
+    "keywords": [
+      "EXT",
+      "EXTEND"
+    ],
+    "question": "What is an exterior angle in a polygon?"
+  },
+  {
+    "term": "Area of a trapezium (or trapezoid or parallelogram)",
+    "definition": "The formula for the area is half the sum of the parallel sides times the distance between them.",
+    "mnemonic": "Sing: Half the sum of the parallel sides. Times the distance between them. This is how to calculate, the area of the trapezium.",
+    "image": "/images/user/base/maths/remember-area-of-trapezium-in-maths-mammoth-memory-5.dc34193.png",
+    "keywords": [
+      "parallel sides",
+      "distance",
+      "trapezium"
+    ],
+    "question": "What is the formula for the area of a trapezium or trapezoid?"
+  },
+  {
+    "term": "Bisect",
+    "definition": "To bisect a line is to split it into two equal parts.",
+    "mnemonic": "Buy secators (Bisect) and cut sticks in half.",
+    "image": "/images/user/base/Maths/Geometry/Manipulating Shapes/secators-cutting-a-stick-in-half.d404c89.jpg",
+    "keywords": [
+      "secators"
+    ],
+    "question": "What does it mean to bisect a line?"
+  },
+  {
+    "term": "Transforming - four types",
+    "definition": "There are four ways to transform an object in mathematics: Re-sizing (Enlargement, contraction), Reflection (Mirrored), Rotation (Around a point), Translating (Sliding).",
+    "mnemonic": "Think of a Transformer with enlarged eyes after a night out. So put on reflective mirrored glasses, put them on upside down (rotate), even when they were the correct way up they still slide off (translate).",
+    "image": "/images/user/base/Maths/Geometry/Manipulating Shapes/transforming-story-part-1-resizing.df0d7e5.jpg",
+    "keywords": [
+      "Transformer",
+      "mirrored"
+    ],
+    "question": "What are the four types of transforming an object in mathematics?"
+  },
+  {
+    "term": "Translate",
+    "definition": "To slide an object elsewhere without rotating it or changing its size.",
+    "mnemonic": "Can you translate a single word that heat con<span style=\"color: #ff0000;\"><strong>vector</strong></span> (vector) says?",
+    "image": "/images/user/base/Maths/Geometry/Manipulating Shapes/trying-to-translate-a-convector.af97aab.jpg",
+    "keywords": [
+      "translate",
+      "vector"
+    ],
+    "question": "What does it mean to translate in geometry?"
+  },
+  {
+    "term": "Reflection",
+    "definition": "Reflection in geometry involves creating a mirror image of a shape across a specific line known as the mirror line. The object and its image are the same size, same distance from the mirror line, and perpendicular to each other.",
+    "mnemonic": "On any mathematical reflection question, think.. Where shall I put my mirror line.",
+    "image": "/images/user/base/Maths/Geometry/Manipulating Shapes/reflection-in-a-mirror.07cf65a.jpg",
+    "keywords": [
+      "mirror"
+    ],
+    "question": "What is reflection in geometry?"
+  },
+  {
+    "term": "Enlargement",
+    "definition": "A process in which the size of a shape is increased proportionally without altering its form.",
+    "mnemonic": "What an enlargement and she's covered in scales get her to the health CENTRE.",
+    "image": "/images/user/base/Maths/Geometry/Manipulating Shapes/giant-woman-covered-in-scales-needs-the-health-centre.db2aaa9.jpg",
+    "keywords": [
+      "scales",
+      "CENTRE"
+    ],
+    "question": "What is an enlargement?"
+  },
+  {
+    "term": "Frustum",
+    "definition": "A frustum is the shape you are left with if you cut the top part (the pointy bit) of a cone or pyramid off parallel to its base.",
+    "mnemonic": "Wow was she frustrated (frustum) she lost the whole of the top of her ice cream cone. (The frustum is the bit that fell on the floor).",
+    "image": "/images/user/base/Maths/Geometry/circumference area and volume/woman-frustrated-by-loosing-her-ice-cream-cone.e372548.jpg",
+    "keywords": [
+      "frustrated",
+      "top",
+      "cone"
+    ],
+    "question": "What is a frustum?"
+  },
+  {
+    "term": "Population",
+    "definition": "The complete group (that we are interested in).",
+    "mnemonic": "The population is all the people. The complete group of people.",
+    "image": "https://example.com/images/user/base/Maths/Statistics_and_probability/Statistics_and_Sampling/the-population-of-the-world.9718da7.jpg",
+    "keywords": [],
+    "question": "What is meant by \"population\" in statistical terms?"
+  },
+  {
+    "term": "Census",
+    "definition": "A survey of the whole population",
+    "mnemonic": "Sensors (census) were fitted to the whole population to monitor their health.",
+    "image": "/images/user/base/Maths/Statistics and probability/Statistics and Sampling/sensors-fitted-to-peoples-wrists.3a75ae7.jpg",
+    "keywords": [
+      "Sensors",
+      "Census",
+      "whole population"
+    ],
+    "question": "What is a census?"
+  },
+  {
+    "term": "Bias",
+    "definition": "A systematic error in a survey that can influence and skew the outcome of the data in a certain direction.",
+    "mnemonic": "The two Asses (bias bi=two) divert the questions in a specific direction.",
+    "image": "/images/user/base/Maths/Statistics and probability/Statistics and Sampling/two-asses-directing-questions-in-one-direction.95ed001.jpg",
+    "keywords": [
+      "two Asses",
+      "bias bi=two"
+    ],
+    "question": "What is bias in the context of surveys?"
+  },
+  {
+    "term": "Stratified sampling",
+    "definition": "A method of sampling a population by dividing into subcategories and then taking samples from every subcategory.",
+    "mnemonic": "The cats (categories) were all in stratified layers like a rock.",
+    "image": "/images/user/base/Maths/Statistics and probability/Statistics and Sampling/cats-layered-one-on-top-of-each-other.2830b86.jpg",
+    "keywords": [
+      "stratified",
+      "layers"
+    ],
+    "question": "What is stratified sampling?"
+  },
+  {
+    "term": "Systematic sampling",
+    "definition": "Selecting every Kth subject from a list.",
+    "mnemonic": "Every 10th time the toilet system (systematic) flushed the toilet burst into song.",
+    "image": "/images/user/base/Maths/Statistics and probability/Statistics and Sampling/toilet-system-singing-every-10th-flush.00873f2.jpg",
+    "keywords": [
+      "systematic",
+      "system"
+    ],
+    "question": "What is systematic sampling?"
+  },
+  {
+    "term": "Mean",
+    "definition": "Add up all the numbers and divide by the number of numbers. It is the most commonly used mathematical measure of average.",
+    "mnemonic": "Mean is the meanest because it takes the most maths to figure it out.",
+    "image": "/images/user/base/Maths/Statistics and probability/Averages/working-out-the-mean-in-a-number-sequence-on-a-blackboard.e575b44.jpg",
+    "keywords": [
+      "Mean",
+      "most maths"
+    ],
+    "question": "What is the mean in statistics?"
+  },
+  {
+    "term": "Median",
+    "definition": "Once the numbers are in order, the median is the one in the middle. If there is an even number of data points, the median is the mean of the two middle numbers.",
+    "mnemonic": "The spiritual medium was in the middle, between our world and the spirits.",
+    "image": "/images/user/base/Maths/Statistics and probability/Averages/spiritual-medium-between-two-worlds.8f0177c.jpg",
+    "keywords": [
+      "medium",
+      "middle"
+    ],
+    "question": "What is the median in a set of numbers?"
+  },
+  {
+    "term": "Mode",
+    "definition": "The thing that occurs most often.",
+    "mnemonic": "MOdes there the MOst",
+    "image": "/images/user/base/Maths/Statistics and probability/Averages/mowing-the-lawn-often.e345bd1.jpg",
+    "keywords": [
+      "MO",
+      "MOst",
+      "mowed"
+    ],
+    "question": "What is the mode in a set of data?"
+  },
+  {
+    "term": "Mode (Alternative Mnemonic)",
+    "definition": "The thing that occurs most often.",
+    "mnemonic": "She mowed the lawn almost every day. She was the most prolific mower. Most people thought she was crazy. It’s what she spent most of her spare time doing, but she wanted the most beautiful lawn.",
+    "image": "/images/user/base/Maths/Statistics and probability/Averages/mowing-the-lawn-often.e345bd1.jpg",
+    "keywords": [
+      "mowed",
+      "most"
+    ],
+    "question": "What is the mode in a set of data?"
+  },
+  {
+    "term": "Dependent Probability",
+    "definition": "One event influences the outcome of the other, also known as conditional probability.",
+    "mnemonic": "The baby is dependent on the mother. If the mum has influenza then the baby will get it too.",
+    "image": "/images/user/base/Maths/Statistics and probability/Outcomes and Expected Frequency/a-baby-catching-influenza-from-its-mother.6dd6f53.jpg",
+    "keywords": [
+      "dependent",
+      "influences"
+    ],
+    "question": "What is dependent probability?"
+  },
+  {
+    "term": "Independent Probability",
+    "definition": "Independent probability – one event DOES NOT affect the outcome of the other.",
+    "mnemonic": "This woman is not dependent on anyone else to survive, she will never catch influenza (influence). Independent probability - NOT Influenced.",
+    "image": "/images/user/base/Maths/Statistics and probability/Outcomes and Expected Frequency/woman-who-will-not-catch-influenza.b4ae23c.jpg",
+    "keywords": [
+      "influenza",
+      "influence"
+    ],
+    "question": "What is independent probability?"
+  },
+  {
+    "term": "Mutually exclusive",
+    "definition": "Events that cannot happen at the same time.",
+    "mnemonic": "Two mutants (mutually) are excluded (excluded) from entering the club together by time.",
+    "image": "/images/user/base/Maths/Statistics and probability/Outcomes and Expected Frequency/mutants-can't-enter-the-night-club-at-the-same-time.89e994c.jpg",
+    "keywords": [
+      "mutants",
+      "excluded"
+    ],
+    "question": "What does \"mutually exclusive\" mean?"
+  },
+  {
+    "term": "Standard Deviation",
+    "definition": "A measure that is used to quantify the amount of variation or dispersion of a set of values.",
+    "mnemonic": "Jay Z was sick and late (68%) which got him fired from his nine to five (95%) job, giving him 99 problems but 7up (99.7%) wasn’t one.",
+    "image": "/images/user/base/Maths/Statistics and probability/Standard deviation/ratio-of-standard-deviation-and-percentages-story.d4d28f7.jpg",
+    "keywords": [
+      "sick",
+      "late",
+      "nine",
+      "five",
+      "99",
+      "7up"
+    ],
+    "question": "What is standard deviation?"
+  },
+  {
+    "term": "logarithm",
+    "definition": "Log_2 (8) = 3",
+    "mnemonic": "Two loggers (Log_2) came to chop down some trees but came across a giant gate (8), when they went through the gate the hillside was treeless (3).",
+    "image": "/images/user/base/Maths/Logarithms/Logarithms/how-to-remember-logarithms-part-1.9e46aee.jpg",
+    "keywords": [
+      "Two log",
+      "gate",
+      "tree"
+    ],
+    "question": "What is the result of Log_2 (8)?"
+  },
+  {
+    "term": "logarithm meaning",
+    "definition": "The power on 2 that equals 8.",
+    "mnemonic": "The strong woman (power) on two (2) eagles (=) carrying the giant gate (8).",
+    "image": "/images/user/base/Maths/Logarithms/Logarithms/remember-logarithms-and-its-meaning.718c702.jpg",
+    "keywords": [
+      "strong woman",
+      "two",
+      "gate"
+    ],
+    "question": "What is the logarithm meaning of 8 with base 2?"
+  },
+  {
+    "term": "Napier-Briggs Logarithms",
+    "definition": "A method of logarithms created by John Napier and later simplified by Henry Briggs into common (base 10) logarithms.",
+    "mnemonic": "The log took a nap here (Napier) on the bridge (Briggs).",
+    "image": "https://mathswebsite.com/images/user/base/Maths/Logarithms/Logarithms/the-contection-between-the-people-who-created-the-log-tables.e8c8d30.jpg",
+    "keywords": [
+      "nap here",
+      "bridge"
+    ],
+    "question": "What are Napier-Briggs Logarithms?"
+  }
+]

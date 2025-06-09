@@ -1,0 +1,1509 @@
+[
+  {
+    "term": "Synovial Joint",
+    "definition": "Freely moveable joints that allow performance of skills and techniques during physical activity. They have joint cavities containing lubrication/fluid for smooth movement, cartilage cushioning the bone ends, and they are held together by ligaments, muscles, and tendons.",
+    "mnemonic": "The sign over the entrance was all (synovial) broken. An articulated lorry had hit it.",
+    "image": "/images/user/base/Sports Science/remember-synovial-joints-in-sports-science.114a749.jpg",
+    "keywords": [
+      "sign ov",
+      "all",
+      "articulated"
+    ],
+    "question": "What is a synovial joint?"
+  },
+  {
+    "term": "Articulation",
+    "definition": "A joint at which something is hinged",
+    "mnemonic": "What an articulated lorry! How many joints has it got?",
+    "image": "/images/user/base/Sports Science/remember-articulation-in-sports-science.4a19894.jpg",
+    "keywords": [
+      "articulated",
+      "joints"
+    ],
+    "question": "What is articulation in the context of anatomy?"
+  },
+  {
+    "term": "Types of Synovial Joints",
+    "definition": "These are joints classified based on their movement from uniaxial to biaxial to multiaxial.",
+    "mnemonic": "Prince Harry Pulled Charles' Saddle Bags",
+    "image": "/images/user/base/Sports Science/remember-prince-harry-pulled-charles-saddle-bag-in-sports-science.8652413.jpg",
+    "keywords": [
+      "Prince",
+      "Harry",
+      "Pulled",
+      "Charles",
+      "Saddle",
+      "Bags"
+    ],
+    "question": "What are the types of synovial joints?"
+  },
+  {
+    "term": "Plane Joint",
+    "definition": "Flat surface joint that enables the bones to slide over each other. It only moves in one axis (one plane) and can be found between the carpal (wrist) bones and in the ankle.",
+    "mnemonic": "The plane (plane joint) lands on the flat surface of the runway but slides off.",
+    "image": "/images/user/base/Sports Science/remember-plane-joint-in-sports-science.512a9de.jpg",
+    "keywords": [
+      "plane",
+      "flat",
+      "slides"
+    ],
+    "question": "What is a plane joint?"
+  },
+  {
+    "term": "Hinge Joint",
+    "definition": "A joint that acts like a hinge, allowing movement in one direction",
+    "mnemonic": "The hinge joint acts exactly like a hinge on a door.",
+    "image": "/images/user/base/Sports Science/remember-hinge-joint-in-sports-science.5ad10e4.jpg",
+    "keywords": [
+      "hinge"
+    ],
+    "question": "What is a hinge joint?"
+  },
+  {
+    "term": "Pivot Joint",
+    "definition": "A joint that only allows rotational movement, found in the neck and between the ulna and radius.",
+    "mnemonic": "When the ice cream seller came around the corner, her head nearly pivoted (pivot joint) all the way around.",
+    "image": "/images/user/base/Sports Science/remember-pivot-joint-in-sports-science.dd0e5a5.jpg",
+    "keywords": [
+      "pivo"
+    ],
+    "question": "What is a pivot joint?"
+  },
+  {
+    "term": "Condyloid Joint",
+    "definition": "An egg/oval shaped bone that fits into a similarly shaped cavity, allowing forward, backward, and side-to-side movement but no rotation.",
+    "mnemonic": "Earlier you read that Charles could read about his sons medical condition in the tabloids (condyloid) but did you read the other headlines on the paper? The President of the United States had been arrested in the oval office (condyloid joints are oval).",
+    "image": "/images/user/base/Sports Science/remember-condyloid-joint-in-sports-science.74aab50.jpg",
+    "keywords": [
+      "condition",
+      "tabloids",
+      "arrested",
+      "oval"
+    ],
+    "question": "What is a condyloid joint?"
+  },
+  {
+    "term": "Saddle Joint",
+    "definition": "A type of synovial joint that allows articulation. Both bones have concave and convex surfaces which interlock like two saddles opposed to one another. It allows two planes of movement and is a biaxial joint.",
+    "mnemonic": "Imagine thumbing a ride with a saddle (saddle joint) in one arm because your donkey won't go any further.",
+    "image": "/images/user/base/Sports Science/remember-saddle-joint-03-in-sports-science.c76f66f.jpg",
+    "keywords": [
+      "thumb",
+      "saddle"
+    ],
+    "question": "What is a saddle joint?"
+  },
+  {
+    "term": "Ball and Socket Joint",
+    "definition": "Present in the shoulder and the hip, they allow backwards, forwards, sideways, and rotating movements.",
+    "mnemonic": "When kicking a ball and using a socket (ball and socket) wrench, his hip and shoulder joints allow backwards, forwards, sideways and rotating movements.",
+    "image": "/images/user/base/Sports Science/remember-ball-and-socket-joint-in-sports-science.c6dad79.jpg",
+    "keywords": [
+      "ball",
+      "socket"
+    ],
+    "question": "What is a ball and socket joint?"
+  },
+  {
+    "term": "Anatomy",
+    "definition": "Inside shape or features of an organism.",
+    "mnemonic": "Only people with a hat on can come with me (anatomy) inside the taxi.",
+    "image": "/images/user/base/Sports Science/remember-anatomy-and-anatomical-in-sports-science-vocabulary-1.66320de.jpg",
+    "keywords": [
+      "a hat on",
+      "me"
+    ],
+    "question": "What is anatomy?"
+  },
+  {
+    "term": "Anatomical",
+    "definition": "Relating to anatomy; relating to the inside shape or features of an organism.",
+    "mnemonic": "An atomic bomb always (anatomical) has to be defused by looking at the internal features of the bomb.",
+    "image": "/images/user/base/Sports Science/remember-anatomy-and-anatomical-in-sports-science-vocabulary-2.4953f40.jpg",
+    "keywords": [
+      "An atomic",
+      "al"
+    ],
+    "question": "What does anatomical mean in relation to organisms?"
+  },
+  {
+    "term": "Flexion",
+    "definition": "A decrease in the angle between two bones, or midline of the body",
+    "mnemonic": "While flexing his bicep, the direction (flexion) his hand moved was towards his shoulder, decreasing the angle of his elbow joint.",
+    "image": "/images/user/base/Sports Science/remember-flexion-in-sports-science-vocabulary-2.1693afb.jpg",
+    "keywords": [
+      "flex",
+      "tion"
+    ],
+    "question": "What is flexion in terms of joint movement?"
+  },
+  {
+    "term": "Extension",
+    "definition": "An increase in the angle between two bones, or midline of the body",
+    "mnemonic": "She extended out her hand in friendship to reduce the tension (extension) - this increased the angle of her elbow joint.",
+    "image": "/images/user/base/Sports Science/remember-wrist-extension-in-sports-science-vocabulary-2.f9b23d1.jpg",
+    "keywords": [
+      "extended",
+      "tension"
+    ],
+    "question": "What is extension in the context of body movement?"
+  },
+  {
+    "term": "Pronation of the Hand",
+    "definition": "Describes the position of the palm of the hand facing downwards",
+    "mnemonic": "The professional football team of this nation (pronation) form a circle and put their hands with palms down on top of each other to improve team spirit.",
+    "image": "/images/user/base/Sports Science/remember-pronation-in-sports-science-vocabulary-1.ad77770.jpg",
+    "keywords": [
+      "pro",
+      "nation",
+      "palms down"
+    ],
+    "question": "What is meant by the pronation of the hand?"
+  },
+  {
+    "term": "Supination of the Hand",
+    "definition": "Describes the position of the hand facing upwards.",
+    "mnemonic": "Soup is collected by hand in a nation (supination) that is so poor. You can only collect soup in your hands with your palms up.",
+    "image": "/images/user/base/Sports Science/remember-supination-in-sports-science-vocabulary-1.43e597e.jpg",
+    "keywords": [
+      "Soup",
+      "nation",
+      "palms up"
+    ],
+    "question": "What does supination of the hand describe?"
+  },
+  {
+    "term": "Dorsiflexion",
+    "definition": "A decrease in the angle between two bones or midline.",
+    "mnemonic": "Dorsi means on the back. Think of where the dorsal fin of a dolphin is - on the back of the dolphin.",
+    "image": "/images/user/base/Sports Science/remember-dorsiflexion-in-sports-science-vocabulary-1.e1bf6e6.jpg",
+    "keywords": [
+      "back"
+    ],
+    "question": "What is dorsiflexion?"
+  },
+  {
+    "term": "Plantar Flexion",
+    "definition": "The action of moving your foot downward, away from the shin.",
+    "mnemonic": "Don't tread on that plant should remind you that plantar is underneath the foot. Before I plant a (plantar) tree, I have to dig a hole. Using the downward movement of my foot, I push the spade down.",
+    "image": "/images/user/base/Sports Science/remember-plantor-flexion-in-sports-science-vocabulary-1.613a7ea.jpg",
+    "keywords": [
+      "plant",
+      "plant a"
+    ],
+    "question": "What is plantar flexion?"
+  },
+  {
+    "term": "Bio",
+    "definition": "In sports science, bio means life or living. Many words in biology beginning with bio relate to the life or lives of organisms.",
+    "mnemonic": "The biro (bio) pen suddenly came to life.",
+    "image": "/images/user/base/uncategorised/1.21.115 Bio memory aid.jpg",
+    "keywords": [
+      "biro",
+      "life"
+    ],
+    "question": "What does \"bio\" mean in sports science?"
+  },
+  {
+    "term": "Biomechanics",
+    "definition": "The area of science concerned with the movement of humans (or organisms). It is used to analyze and improve techniques and performance in order to reduce the risk of injury and improve athletic ability.",
+    "mnemonic": "The mechanics were the only ones who could get all the joints moving.",
+    "image": "/images/user/base/Sports Science/remember-biomechanics-in-sports-science-vocabulary-1.1681c66.jpg",
+    "keywords": [
+      "mechanics",
+      "moving"
+    ],
+    "question": "What is biomechanics?"
+  },
+  {
+    "term": "Plane",
+    "definition": "Imaginary flat surface through which the direction of movement occurs",
+    "mnemonic": "The aeroplane's (plane) direction of movement should have been in the same direction as the flat surface of the runway.",
+    "image": "/images/user/base/Sports Science/remember-plane-in-sports-science-vocabulary-2.232b481.jpg",
+    "keywords": [
+      "plane",
+      "direction",
+      "flat"
+    ],
+    "question": "What is a plane in terms of movement direction?"
+  },
+  {
+    "term": "Anatomical",
+    "definition": "Relating to the study of the structure of the body",
+    "mnemonic": "He had a home and a bunch of tom cats he called (anatomical) names based on their shape. If you study the different structure of their bodies, you can see why they were called the different names.",
+    "image": "/images/user/base/Sports Science/remember-anatomical-in-sports-science-vocabulary.95b1b1c.jpg",
+    "keywords": [
+      "an",
+      "a",
+      "tom",
+      "he call",
+      "study the different",
+      "structure of their bodies"
+    ],
+    "question": "What does the term \"anatomical\" refer to?"
+  },
+  {
+    "term": "Anatomical Body Planes",
+    "definition": "The imaginary flat surface through which the direction of movement occurs through a body.",
+    "mnemonic": "Remember anatomical body plane as the imaginary flat surface for movement in the body.",
+    "image": "/images/user/base/Sports Science/remember-anatomical-body-plane-in-sports-science-vocabulary.c8811e2.jpg",
+    "keywords": [],
+    "question": "What are anatomical body planes?"
+  },
+  {
+    "term": "Sagittal Plane",
+    "definition": "The forwards and backwards movement of a body (but you can also think of it as up and down too).",
+    "mnemonic": "The satchel is tall (sagittal) and heavy. It's so heavy you can't tell if she is going to fall forwards or backwards.",
+    "image": "/images/user/base/Sports Science/remember-sagittal-plane-in-sports-science-vocabulary-3.21cfa83.jpg",
+    "keywords": [
+      "sa",
+      "tall",
+      "forwards",
+      "backwards"
+    ],
+    "question": "What type of movement occurs in the sagittal plane?"
+  },
+  {
+    "term": "Frontal Plane",
+    "definition": "The frontal plane is the left and right movement of the body.",
+    "mnemonic": "In karate, if someone comes at you from the front, the best thing to do is step to one side, left or right.",
+    "image": "/images/user/base/Sports Science/remember-frontal-plane-in-sports-science-vocabulary.d287b5c.jpg",
+    "keywords": [
+      "front",
+      "left",
+      "right"
+    ],
+    "question": "What is the frontal plane in human movement?"
+  },
+  {
+    "term": "Transverse Plane",
+    "definition": "The transverse plane involves rotational and twisting movements around the longitudinal axis.",
+    "mnemonic": "She transported herself through the universe (transverse) in a rotating UFO.",
+    "image": "/images/user/base/Sports Science/remember-transverse-plane-in-sports-science-vocabulary.73d5b7e.jpg",
+    "keywords": [
+      "trans",
+      "verse",
+      "rotating"
+    ],
+    "question": "What is the transverse plane in relation to body movement?"
+  },
+  {
+    "term": "Diastole",
+    "definition": "When the heart muscle relaxes; when blood pressure is at its lowest",
+    "mnemonic": "I went on a diet and asked the ice cream man to leave (diastole). My blood pressure lowered as a result. Finally, I could relax.",
+    "image": "/images/user/base/uncategorised/remember-diastole-in-biology-vocabulary.c83f3a6.jpg",
+    "keywords": [
+      "diet",
+      "as",
+      "to",
+      "leave",
+      "blood pressure",
+      "relax"
+    ],
+    "question": "What happens in the heart during diastole?"
+  },
+  {
+    "term": "Embolism",
+    "definition": "Blockage of a blood vessel",
+    "mnemonic": "The blood clot embedded itself, but the professionalism (embolism) of the doctor resulted in the removal of the blockage in the blood vessel.",
+    "image": "/images/user/base/Sports Science/remember-embolism-in-sports-science.1a7e8e2.jpg",
+    "keywords": [
+      "emb",
+      "professionalism"
+    ],
+    "question": "What is an embolism?"
+  },
+  {
+    "term": "Systole",
+    "definition": "When the heart muscle contracts; squeezes. Systole generally refers to the contraction of the ventricles, forcing blood out through the arteries.",
+    "mnemonic": "A nun gives a sisterly (systole) hug to an orphaned kid then tickles (ventricles) him and squeezes him tightly (contract).",
+    "image": "/images/user/base/uncategorised/1.1.22 Systole heart muscles contract mnemonic.jpg",
+    "keywords": [
+      "sisterly",
+      "tickles",
+      "squeezes",
+      "sys",
+      "systemic"
+    ],
+    "question": "What happens during systole in the heart's functioning?"
+  },
+  {
+    "term": "Hypertension",
+    "definition": "Also known as high blood pressure, a condition in which blood vessels have persistently raised pressure.",
+    "mnemonic": "Her hyper kids caused her a lot of tension (hypertension). This stress gave her persistently raised blood pressure.",
+    "image": "/images/user/base/Sports Science/remember-hypertension-in-sports-science-vocabulary.1f90730.jpg",
+    "keywords": [
+      "hyper",
+      "tension"
+    ],
+    "question": "What is hypertension?"
+  },
+  {
+    "term": "Cardiac",
+    "definition": "Relating to the heart",
+    "mnemonic": "The card he was given actually (cardiac) made his heart race.",
+    "image": "/images/user/base/Sports Science/remember-cardiac-in-sports-science-vocabulary-1.7c9f7bf.jpg",
+    "keywords": [
+      "card",
+      "ac",
+      "heart"
+    ],
+    "question": "What does the term \"cardiac\" refer to?"
+  },
+  {
+    "term": "Maximal Heart Rate",
+    "definition": "The highest heart rate achieved during a maximum effort graded exercise. It's a measure of cardiovascular fitness influenced by age, genetics, and overall health.",
+    "mnemonic": "Maximal - Maximum heart rate all (maximal) age groups can achieve.",
+    "image": "/images/user/base/Sports Science/remember-maximal-heart-rate-in-sports-science-vocabulary-4.8393b32.jpg",
+    "keywords": [
+      "Maximum",
+      "all"
+    ],
+    "question": "What is maximal heart rate?"
+  },
+  {
+    "term": "Sub-Maximal (training)",
+    "definition": "A type of training where the individual does not exert maximal effort during exercise.",
+    "mnemonic": "The sub was at maximum speed, but this animal (sub-maximal) kept up without exerting maximal effort.",
+    "image": "/images/user/base/Sports Science/remember-sub-maximal-in-sports-science-vocabulary-1.6e043ce.jpg",
+    "keywords": [
+      "sub",
+      "maximum",
+      "animal"
+    ],
+    "question": "What is sub-maximal training?"
+  },
+  {
+    "term": "Target Zone",
+    "definition": "The specific range of intensity level that an athlete aims to reach and maintain during aerobic training.",
+    "mnemonic": "We know what a target is. It's the aim or the selected zone of heart beats per minute (BPM), you should exercise at.",
+    "image": "/images/user/base/Sports Science/remember-target-zone-in-sports-science-vocabulary-4.b45e210.jpg",
+    "keywords": [
+      "target"
+    ],
+    "question": "What is the target zone in aerobic training?"
+  },
+  {
+    "term": "Altitude Training",
+    "definition": "Training at altitude with less oxygen which produces more red blood cells for a ten to twenty day advantage.",
+    "mnemonic": "At this altitude there are only a few ox (less oxygen) but they were far more red, like the colour of blood (more red blood cells).",
+    "image": "/images/user/base/Sports Science/remember-altitude-training-in-sports-science-vocabulary-1.bfbaf2d.jpg",
+    "keywords": [
+      "ox",
+      "more red",
+      "blood"
+    ],
+    "question": "What is altitude training?"
+  },
+  {
+    "term": "Adrenaline",
+    "definition": "A natural hormone released to speed the heart rate up and prepare the body for intense, stressful or dangerous situations.",
+    "mnemonic": "A cold drenching has a direct link (adrenaline) to a sudden speeding up of the heart, and naturally, the horse moaned (hormone) too.",
+    "image": "/images/user/base/Sports Science/remember-adrenaline-in-sports-science-vocabulary-1.a38c186.jpg",
+    "keywords": [
+      "drenching",
+      "link",
+      "horse moaned"
+    ],
+    "question": "What is adrenaline?"
+  },
+  {
+    "term": "Haemoglobin",
+    "definition": "A protein found in red blood cells that carries oxygen from the lungs to the body's tissues and returns carbon dioxide to the lungs.",
+    "mnemonic": "He must travel the globe in (haemoglobin) a red blood cell transporting an ox (oxygen) and a car (carbon dioxide).",
+    "image": "/images/user/base/Sports Science/remember-haemoglobin-in-sports-science.acbf811.jpg",
+    "keywords": [
+      "He",
+      "globe",
+      "red blood cell",
+      "ox",
+      "car"
+    ],
+    "question": "What is haemoglobin?"
+  },
+  {
+    "term": "Respiration",
+    "definition": "In sports science, it means breathing. In biology, it means using glucose to produce energy.",
+    "mnemonic": "In resting after perspiring at the gym station (respiration) there is only one thing to do catch your breath (breathing (sports science)) and replenish the lost energy with a glucose energy drink (using glucose to make energy (biology)).",
+    "image": "/images/user/base/Sports Science/remember-respiration-in-sports-science.dcef4fc.jpg",
+    "keywords": [
+      "res",
+      "per",
+      "ation",
+      "breath",
+      "glucose energy"
+    ],
+    "question": "What is respiration in the contexts of sports science and biology?"
+  },
+  {
+    "term": "Spirometer Trace",
+    "definition": "A graph which measures the amount of air inhaled and exhaled by the lungs/lung volumes.",
+    "mnemonic": "Spiro Meter Trace - Breathing, monitors, record.",
+    "image": "/images/user/base/Sports Science/remember-spirometer-trace-02-in-sports-science.1816350.jpg",
+    "keywords": [
+      "Spiro",
+      "Meter",
+      "Trace"
+    ],
+    "question": "What does a spirometer trace depict?"
+  },
+  {
+    "term": "Respiratory Residual Volume",
+    "definition": "The amount of air left in the lungs after maximum exhalation.",
+    "mnemonic": "The residue you'll (residual) see in the bottom of a jar can be compared to the air left in the lungs after maximum exhalation.",
+    "image": "/images/user/base/Sports Science/remember-residual-volume-in-sports-science.3204e10.jpg",
+    "keywords": [
+      "residue",
+      "you'll"
+    ],
+    "question": "What is respiratory residual volume?"
+  },
+  {
+    "term": "Tidal Volume",
+    "definition": "Volume of air inhaled or exhaled per breath under normal conditions",
+    "mnemonic": "The tide, all the way along the beach, was coming in a huge volume (tidal volume). It took my breath away. I could neither breath out or in as I normally could.",
+    "image": "/images/user/base/Sports Science/remember-tidal-volume-in-sports-science.d632382.jpg",
+    "keywords": [
+      "tide",
+      "all",
+      "volume",
+      "breath",
+      "in",
+      "normally"
+    ],
+    "question": "What is tidal volume?"
+  },
+  {
+    "term": "VO2 Max",
+    "definition": "The maximum amount of oxygen your body uses while exercising as hard as you can.",
+    "mnemonic": "VO2 Max = volume, oxygen, maximum. It's the maximum volume of oxygen your body uses (while exercising as hard as you can).",
+    "image": "/images/user/base/Sports Science/remember-vo2-max-in-sports-science-vocabulary.4fecd2a.jpg",
+    "keywords": [
+      "volume",
+      "oxygen",
+      "maximum"
+    ],
+    "question": "What is VO2 Max?"
+  },
+  {
+    "term": "Anaerobic",
+    "definition": "Anaerobic means 'without oxygen'. It involves the complete breakdown of glucose into energy and lactic acid during vigorous exercise when oxygen supply to the muscles is insufficient.",
+    "mnemonic": "The anaconda wrapped itself in rows. It would be a quick (anaerobic) death for the ox without oxygen.",
+    "image": "/images/user/base/Sports Science/remember-anaerobic-in-sports-science.144cf25.jpg",
+    "keywords": [
+      "ana",
+      "row",
+      "b",
+      "quick"
+    ],
+    "question": "What does anaerobic mean in the context of exercise and glucose breakdown?"
+  },
+  {
+    "term": "Anaerobic Exercise",
+    "definition": "Exercises that are so intense that the available oxygen from the blood can't meet the demand. Anaerobic = Without oxygen and creates lactic acid.",
+    "mnemonic": "We lack a tactic (lactic) to get the anaconda off. That ox has no oxygen (without oxygen).",
+    "image": "/images/user/base/Sports Science/remember-anaerobic-02-in-sports-science.56858fd.jpg",
+    "keywords": [
+      "lac",
+      "tactic"
+    ],
+    "question": "What is anaerobic exercise?"
+  },
+  {
+    "term": "HIIT (High Intensity Interval Training)",
+    "definition": "An exercise strategy alternating periods of short intense anaerobic exercise with less intense recovery periods until exhaustion.",
+    "mnemonic": "Do you think we should hit (HIIT) the anaconda that's wrapped itself in rows. It would be a quick (anaerobic) death.",
+    "image": "/images/user/base/Sports Science/remember-anaerobic-exercise-and-hiit-in-sports-science.e7888ac.jpg",
+    "keywords": [
+      "hit",
+      "ana",
+      "row",
+      "b",
+      "ick"
+    ],
+    "question": "What is HIIT (High Intensity Interval Training)?"
+  },
+  {
+    "term": "EPOC",
+    "definition": "Excess Post-exercise Oxygen Consumption, referring to the amount of oxygen needed to recover after exercise. EPOC enables lactic acid to be converted to glucose, carbon dioxide, and water using oxygen.",
+    "mnemonic": "It's as if the anaconda is stuck on the ox with epoxy (EPOC) resin.",
+    "image": "/images/user/base/Sports Science/remember-anaerobic-exercise-lactic-acid-and-epoc-in-sports-science.5dddc87.jpg",
+    "keywords": [
+      "epoxy"
+    ],
+    "question": "What does EPOC stand for in relation to exercise recovery?"
+  },
+  {
+    "term": "Aerobic",
+    "definition": "Aerobic means 'with oxygen'. Aerobic respiration uses oxygen and takes place constantly in plants and animals. It is the most efficient way of releasing energy from glucose.",
+    "mnemonic": "Imagine an heir to the throne wearing robes being taken quickly (aerobic) through his fields on an ox (with oxygen).",
+    "image": "/images/user/base/Sports Science/remember-aerobic-in-sports-science.38840eb.jpg",
+    "keywords": [
+      "heir",
+      "rob",
+      "ox"
+    ],
+    "question": "What does aerobic mean in the context of respiration?"
+  },
+  {
+    "term": "Aerobic Exercise",
+    "definition": "Aerobic exercises are endurance type exercises that increase a person's heart rate and breathing rate over relatively long durations.",
+    "mnemonic": "COWS EAT WET GRASS OUTSIDE",
+    "image": null,
+    "keywords": [
+      "COWS",
+      "EAT",
+      "WET",
+      "GRASS",
+      "OUTSIDE"
+    ],
+    "question": "What is aerobic exercise?"
+  },
+  {
+    "term": "Aerobic Exercise",
+    "definition": "Another word for aerobic exercise is cardiovascular exercise or cardio for short.",
+    "mnemonic": "It was so cold that the heir's mother told him to wear a robe (aerobic) and a cardigan over (cardio) it.",
+    "image": "/images/user/base/Sports Science/remember-aerobic-02-in-sports-science.dfde475.jpg",
+    "keywords": [
+      "heir",
+      "robe",
+      "cardi",
+      "o"
+    ],
+    "question": "What is another term for aerobic exercise?"
+  },
+  {
+    "term": "Aerobic Exercise",
+    "definition": "Aerobic exercise is the most efficient way to release energy to the muscles and is also known as cardiovascular or cardio exercise.",
+    "mnemonic": "(COWS EAT WET GRASS OUTSIDE reversed)",
+    "image": null,
+    "keywords": [
+      "COWS",
+      "EAT",
+      "WET",
+      "GRASS",
+      "OUTSIDE"
+    ],
+    "question": "What is aerobic exercise?"
+  },
+  {
+    "term": "Lever System",
+    "definition": "A rigid bar that moves on a fixed point called a fulcrum when a force is applied to it. In the human body, the rigid bar would be a bone.",
+    "mnemonic": "Despite using the lever on the toilet cistern, the toilet wouldn't empty (lever system). I could apply the force through the pivot point (the fulcrum) but the rigid bar was broken and so the plunger (load) couldn't be pulled up.",
+    "image": "/images/user/base/Sports Science/remember-lever-in-sports-science-vocabulary-1.4713c39.jpg",
+    "keywords": [
+      "lever",
+      "cist",
+      "em"
+    ],
+    "question": "What is a lever system in the context of physics and the human body?"
+  },
+  {
+    "term": "Antagonist Muscles",
+    "definition": "Muscles which work in pairs and opposites. The agonist muscle causes the action, while the antagonist relaxes. These roles reverse when the actions works the other way.",
+    "mnemonic": "The antagonism she caused with a stick (antagonistic) was beyond belief she should have used her stick but although they were a pair of twins they were complete personality opposites.",
+    "image": "/images/user/base/Sports Science/remember-antagonistic-muscle-pairs-in-sports-science-vocabulary-3.d2e2dec.jpg",
+    "keywords": [
+      "antagonism",
+      "stick",
+      "pair",
+      "opposites"
+    ],
+    "question": "What are antagonist muscles?"
+  },
+  {
+    "term": "Agonist Muscle",
+    "definition": "The muscle that moves the bone.",
+    "mnemonic": "A simple way to remember the agonist and antagonist is to think of one muscle being in agony (agonist) when lifting something heavy.",
+    "image": "/images/user/base/Sports Science/remember-antagonistic-muscle-pairs-in-sports-science-vocabulary-1.7aec8f3.jpg",
+    "keywords": [
+      "agony"
+    ],
+    "question": "What is the role of the agonist muscle?"
+  },
+  {
+    "term": "Antagonist Muscle",
+    "definition": "The relaxed muscle in a pair.",
+    "mnemonic": "In contrast the relaxed muscle is anti-lifting (antagonist).",
+    "image": "/images/user/base/Sports Science/remember-antagonistic-muscle-pairs-in-sports-science-vocabulary-1.7aec8f3.jpg",
+    "keywords": [
+      "anti"
+    ],
+    "question": "What is the role of an antagonist muscle?"
+  },
+  {
+    "term": "Latissimus Dorsi",
+    "definition": "A broad, flat muscle that stretches to the sides of the middle and lower back.",
+    "mnemonic": "A latch is a must on doors, I (latissimus dorsi) can see one, but it's very low down on the back of the door.",
+    "image": "/images/user/base/Sports Science/remember-latissimus-dorsi-in-sports-science-vocabulary.4c7d430.jpg",
+    "keywords": [
+      "lat",
+      "is",
+      "mus",
+      "doors",
+      "I",
+      "low",
+      "back"
+    ],
+    "question": "What is the latissimus dorsi?"
+  },
+  {
+    "term": "Trapezius",
+    "definition": "A broad flat muscle covering the neck, upper back and shoulders.",
+    "mnemonic": "A way to remember this is to realise that the trapezius is named for its trapezoidal shape as below:",
+    "image": "/images/user/base/Sports Science/remember-trapezius-in-sports-science-vocabulary.1b1ccca.jpg",
+    "keywords": [
+      "trapezoidal"
+    ],
+    "question": "What is the trapezius muscle?"
+  },
+  {
+    "term": "Calf Muscles",
+    "definition": "Two muscles positioned on the back of the lower leg",
+    "mnemonic": "She wasn't a typical calf (calf); she had strong muscles on the back of her lower legs that allowed her to stand up.",
+    "image": "/images/user/base/Sports Science/remember-calf-muscles-in-sports-science-vocabulary.52f57df.jpg",
+    "keywords": [
+      "calf"
+    ],
+    "question": "What are the calf muscles?"
+  },
+  {
+    "term": "Oblique",
+    "definition": "Muscle positioned on the sides of the torso which assists body rotation and bending",
+    "mnemonic": "It's going to be a bleak (oblique) winter. It's freezing outside but inside (side of the body) it's warm.",
+    "image": "/images/user/base/Sports Science/remember-oblique-in-sports-science-vocabulary.263f5f1.jpg",
+    "keywords": [
+      "bleak",
+      "side"
+    ],
+    "question": "What is the oblique muscle?"
+  },
+  {
+    "term": "Pectoral Muscles",
+    "definition": "The muscles that connect the front of the chest to the bones of the upper arm and shoulder",
+    "mnemonic": "The bird sitting on his shoulder pecked and tore all (pectoral) his shirt away around his chest.",
+    "image": "/images/user/base/Sports Science/remember-pectoral-muscles-in-sports-science-vocabulary.c8aded9.jpg",
+    "keywords": [
+      "pecked",
+      "tore all",
+      "chest"
+    ],
+    "question": "What are the pectoral muscles?"
+  },
+  {
+    "term": "Masseter",
+    "definition": "A muscle in the jaw that provides power for chewing",
+    "mnemonic": "It was massive and tough (masseter). The steak made my jaw muscles ache from chewing.",
+    "image": "/images/user/base/Sports Science/remember-masseter-in-sports-science-vocabulary.c08fb1b.jpg",
+    "keywords": [
+      "mass",
+      "a",
+      "tou",
+      "jaw muscles",
+      "chew"
+    ],
+    "question": "What is the masseter?"
+  },
+  {
+    "term": "Hamstring",
+    "definition": "A muscle group positioned on the rear of the thigh.",
+    "mnemonic": "I tied a piece of ham with string (hamstring) around the back of my leg. Why? I was starting a new trend.",
+    "image": "/images/user/base/Sports Science/remember-hamstring-in-sports-science-vocabulary.80f565a.jpg",
+    "keywords": [
+      "ham",
+      "string"
+    ],
+    "question": "What is the hamstring?"
+  },
+  {
+    "term": "Adductors",
+    "definition": "Muscle group located on the inner thighs which serve to bring the legs toward the centre of the body",
+    "mnemonic": "A conductor (adductors) used his inner thigh muscles to stay on the miniature train.",
+    "image": "/images/user/base/Sports Science/remember-adductors-in-sports-science-vocabulary.992257d.jpg",
+    "keywords": [
+      "conductor"
+    ],
+    "question": "What is the function of the adductor muscles?"
+  },
+  {
+    "term": "Quadriceps",
+    "definition": "A large muscle group positioned on the front of the thigh",
+    "mnemonic": "She rode a quadbike to the wedding reception (quadricep) and wore thigh high leather boots.",
+    "image": "/images/user/base/Sports Science/remember-quadriceps-in-sports-science-vocabulary.56eaee9.jpg",
+    "keywords": [
+      "quad",
+      "recep",
+      "thigh"
+    ],
+    "question": "What muscle group is positioned on the front of the thigh?"
+  },
+  {
+    "term": "Erector Spinae",
+    "definition": "A muscle group which run the length of the back, from the neck to the pelvis",
+    "mnemonic": "To erect a statue on her own, the spy needs (erector spinae) strong back muscles. She was actually just putting the statue back.",
+    "image": "/images/user/base/Sports Science/remember-erector-spinae-in-sports-science-vocabulary.4b6cb29.jpg",
+    "keywords": [
+      "erect",
+      "spy",
+      "back"
+    ],
+    "question": "What is the erector spinae?"
+  },
+  {
+    "term": "Deltoid",
+    "definition": "The main muscle of the shoulder allowing movement and stability in the joint",
+    "mnemonic": "The boxer dealt a powerful blow that the other fighter couldn't avoid (deltoid). The power came from the shoulder muscle and rotation.",
+    "image": "/images/user/base/Sports Science/remember-deltoid-in-sports-science-vocabulary.94c450c.jpg",
+    "keywords": [
+      "dealt",
+      "avoid",
+      "shoulder"
+    ],
+    "question": "What is the deltoid?"
+  },
+  {
+    "term": "Abdominal",
+    "definition": "Muscle positioned centrally on the front of the body between the ribs and the pelvis",
+    "mnemonic": "Her abdomen was all (abdominal) muscle. Between her ribs and pelvis was an impressive six-pack.",
+    "image": "/images/user/base/Sports Science/remember-abdominal-in-sports-science-vocabulary.3f80e9e.jpg",
+    "keywords": [
+      "abdomen",
+      "all",
+      "muscle",
+      "between"
+    ],
+    "question": "What is the abdominal muscle?"
+  },
+  {
+    "term": "Gluteal Muscles",
+    "definition": "A group of muscles that form the buttocks",
+    "mnemonic": "They were glued to the steel (gluteal) bar stool by their buttocks.",
+    "image": "/images/user/base/Sports Science/remember-gluteal-muscles-in-sports-science-vocabulary.1e9c90c.jpg",
+    "keywords": [
+      "glu",
+      "steel",
+      "buttocks"
+    ],
+    "question": "What are the gluteal muscles?"
+  },
+  {
+    "term": "Frontalis",
+    "definition": "Muscle that covers part of the forehead and is responsible for elevation of the eyebrows",
+    "mnemonic": "On the front lines, you're a target, so listen (frontalis) to your commander and keep your forehead down.",
+    "image": "/images/user/base/Sports Science/remember-frontalis-in-sports-science-vocabulary.d567fab.jpg",
+    "keywords": [
+      "front",
+      "tar",
+      "lis"
+    ],
+    "question": "What is the frontalis muscle responsible for?"
+  },
+  {
+    "term": "Teres Major",
+    "definition": "The muscle which connects to the end of the shoulder blade (scapula) and to the upper arm (humerus) to facilitate shoulder movement",
+    "mnemonic": "I hope this parachute doesn't tear easily, or else there'll be a major (teres major) problem. I'll have to land on top of those flats (on top of the lats).",
+    "image": "/images/user/base/Sports Science/remember-teres-major-in-sports-science-vocabulary-a.a37fdc0.jpg",
+    "keywords": [
+      "tear",
+      "major",
+      "on top of",
+      "flats"
+    ],
+    "question": "What is the teres major?"
+  },
+  {
+    "term": "Hypertrophy",
+    "definition": "An enlargement of muscle cells achieved through exercise.",
+    "mnemonic": "He was hyper after winning the trophy (hypertrophy) for body building. The years of exercise to enlarge muscle size finally paid off.",
+    "image": "/images/user/base/Sports Science/remember-hypertrophy-in-sports-science-vocabulary.a9d1ea8.jpg",
+    "keywords": [
+      "hyper",
+      "trophy"
+    ],
+    "question": "What is hypertrophy?"
+  },
+  {
+    "term": "Contraction – Tension",
+    "definition": "Muscle contraction involves tension, which can be the muscle shortening, lengthening, or remaining the same length.",
+    "mnemonic": "The building contractors (contraction) explain bridge tension and how it works.",
+    "image": "/images/user/base/Sports Science/remember-muscle-contraction-mnemonic-in-sports-science.d96c349.jpg",
+    "keywords": [
+      "contract",
+      "tension"
+    ],
+    "question": "What does \"contraction – tension\" refer to in muscle activity?"
+  },
+  {
+    "term": "Iso",
+    "definition": "In the words isotonic, isometric and isokinetic, iso means constant.",
+    "mnemonic": "She felt isolated (iso) on the island but she was constantly on the look out for someone to rescue her.",
+    "image": "/images/user/base/Sports Science/remember-iso-mnemonic-in-sports-science.8bd0950.jpg",
+    "keywords": [
+      "isolated",
+      "constant"
+    ],
+    "question": "What does \"iso\" mean in terms like isotonic, isometric, and isokinetic?"
+  },
+  {
+    "term": "Tonic",
+    "definition": "Tonic means movement.",
+    "mnemonic": "If she's given the right tonic, it will certainly cause movement.",
+    "image": "/images/user/base/Sports Science/remember-tonic-mnemonic-in-sports-science.64e89ad.jpg",
+    "keywords": [
+      "tonic",
+      "movement"
+    ],
+    "question": "What does tonic mean?"
+  },
+  {
+    "term": "Metric",
+    "definition": "Relating to or based on the measure of the distance moved.",
+    "mnemonic": "Relating metric as in the metric system to metres isn't difficult to remember.",
+    "image": null,
+    "keywords": [
+      "meh-trik"
+    ],
+    "question": "What does the term \"metric\" refer to when discussing distance moved?"
+  },
+  {
+    "term": "Concentric",
+    "definition": "Shortening of a muscle, usually associated with a movement upwards.",
+    "mnemonic": "Concentrating is not an easy trick (concentric) when you are staring at the shorts of ten (shorten) gorgeous men.",
+    "image": "/images/user/base/Sports Science/remember-concentric-mnemonic-in-sports-science.b2f07d3.jpg",
+    "keywords": [
+      "Concent",
+      "trick",
+      "short",
+      "ten"
+    ],
+    "question": "What is the concentric phase in muscle movement?"
+  },
+  {
+    "term": "Eccentric",
+    "definition": "Lengthening of a muscle, usually associated with a movement downwards towards earth.",
+    "mnemonic": "The eccentric professor just seemed to keep lengthening the equation on the blackboard.",
+    "image": "/images/user/base/Sports Science/remember-eccentric-in-sports-science.d368489.jpg",
+    "keywords": [
+      "eccentric",
+      "length"
+    ],
+    "question": "What is the definition of an eccentric contraction in muscle movement?"
+  },
+  {
+    "term": "Fatigue",
+    "definition": "Either physical or mental, an extreme feeling of tiredness due to buildup of lactic acid.",
+    "mnemonic": "The hog was too fat and wasn't eager (fatigue) to continue the marathon. He felt an extreme feeling of tiredness after just a short time. They lacked any tactic (lactic acid) to get the hog going again.",
+    "image": "/images/user/base/Sports Science/remember-fatigue-in-sports-science-vocabulary-1.426374e.jpg",
+    "keywords": [
+      "fat",
+      "eag",
+      "tactic",
+      "lack"
+    ],
+    "question": "What is fatigue?"
+  },
+  {
+    "term": "One-Rep Max",
+    "definition": "The maximum amount of weight an individual can lift for a single repetition.",
+    "mnemonic": "After one repetition, it was clear that was the maximum (one-rep max) amount of weight she could lift a single time.",
+    "image": "/images/user/base/Sports Science/remember-one-rep-max-in-sports-science-vocabulary-1.2dfc0b9.jpg",
+    "keywords": [
+      "one",
+      "max"
+    ],
+    "question": "What is a one-rep max?"
+  },
+  {
+    "term": "Delayed Onset Muscle Soreness (DOMS)",
+    "definition": "The pain felt in the muscles the day after exercise, caused by eccentric contractions of the muscles resulting in small-scale damage to the muscle fibers.",
+    "mnemonic": "Her train was delayed, so she had to run, bringing about an onset of muscle soreness (delayed onset muscle soreness) the day after.",
+    "image": "/images/user/base/Sports Science/remember-delayed-onset-muscle-soreness-in-sports-science.f5de77a.jpg",
+    "keywords": [
+      "delayed",
+      "onset",
+      "muscle soreness",
+      "the day after"
+    ],
+    "question": "What is Delayed Onset Muscle Soreness (DOMS)?"
+  },
+  {
+    "term": "Continuum",
+    "definition": "A series (or range) that shows quality developing from one extreme to another",
+    "mnemonic": "Continue walking with an umbrella (continuum) along the line. The weather goes from one extreme to another.",
+    "image": "/images/user/base/Sports Science/remember-continuum-in-sports-science-vocabulary-1.a69e9fa.jpg",
+    "keywords": [
+      "Continue",
+      "umbrella"
+    ],
+    "question": "What is a continuum?"
+  },
+  {
+    "term": "Basic Skills",
+    "definition": "Simple skills in sports that can be learnt with very little practice and have few parts to them.",
+    "mnemonic": "Running around the bases and picking (basic) up the ball are simple skills that can be performed with little practise.",
+    "image": "/images/user/base/Sports Science/remember-basic-skills-in-sports-science.c211708.jpg",
+    "keywords": [
+      "bas",
+      "pick",
+      "simple skills",
+      "performed with little practise"
+    ],
+    "question": "What are basic skills in sports?"
+  },
+  {
+    "term": "Complex Skills",
+    "definition": "Involving complicated movements that require high levels of co-ordination and control",
+    "mnemonic": "I was completely perplexed (complex skills) by their complicated skills that required high levels of co-ordination.",
+    "image": "/images/user/base/Sports Science/remember-complex-skills-in-sports-science.b352e95.jpg",
+    "keywords": [
+      "complex",
+      "perplexed"
+    ],
+    "question": "What are complex skills?"
+  },
+  {
+    "term": "Gross Skills",
+    "definition": "Involving large muscle movements, which are not very precise. Performed by core muscles, arms, and legs.",
+    "mnemonic": "The massive grocery (gross) bag required all her large core muscles to move. She dumped it in the middle of the kitchen but it wasn't very precise.",
+    "image": "/images/user/base/Sports Science/remember-gross-skills-in-sports-science-vocabulary-1.5018460.jpg",
+    "keywords": [
+      "groce",
+      "large core muscles",
+      "wasn't",
+      "precise"
+    ],
+    "question": "What are gross skills?"
+  },
+  {
+    "term": "Fine Skills",
+    "definition": "Involving small muscle movements and require high levels of coordination. Performed by small muscle groups (mainly in the hands)",
+    "mnemonic": "Can you find (fine) the needle in the hay stack? You will need to use the tiny muscles in your hands and high levels of hand and eye coordination to find it.",
+    "image": "/images/user/base/Sports Science/remember-fine-skills-in-sports-science-vocabulary-1.53ae2c6.jpg",
+    "keywords": [
+      "find",
+      "tiny muscles",
+      "hands"
+    ],
+    "question": "What are fine skills?"
+  },
+  {
+    "term": "Open Skills",
+    "definition": "Skills which are affected by their surrounding environment; performers must adapt and may not be in control of what happens next.",
+    "mnemonic": "He missed the open (open skills) goal when he was struck by lightning. His skills were affected by the unpredictable environment.",
+    "image": "/images/user/base/Sports Science/remember-open-skills-a-in-sports-science-vocabulary-1.706be35.jpg",
+    "keywords": [
+      "open",
+      "skills",
+      "affected by",
+      "unpredictable environment"
+    ],
+    "question": "What are open skills?"
+  },
+  {
+    "term": "Environmental Continuum in Sports",
+    "definition": "A range of skills affected by the environment from one extreme to another.",
+    "mnemonic": "Continuum - is a range of qualities from one extreme to another. Environmental - is how the skill is affected by the environment.",
+    "image": "/images/user/base/Sports Science/remember-continuum-in-sports-science-vocabulary-2.00cd754.jpg",
+    "keywords": [],
+    "question": "What is the Environmental Continuum in Sports?"
+  },
+  {
+    "term": "Recovery",
+    "definition": "Time required to repair the damage to the body caused by training or competition.",
+    "mnemonic": "The competing robot was collected by the recovery (recovery) vehicle. They only had a short time to repair the body damage caused by the competition.",
+    "image": "/images/user/base/Sports Science/remember-recovery-in-sports-science.218daa6.jpg",
+    "keywords": [
+      "recovery",
+      "time"
+    ],
+    "question": "What is recovery in the context of physical training or competition?"
+  },
+  {
+    "term": "Feedback",
+    "definition": "Information the performer receives about a skill or performance.",
+    "mnemonic": "I feed a treat and rub the dogs back (feedback) if she does well. This is a way of informing the dog that it has been a great performance.",
+    "image": "/images/user/base/Sports Science/remember-feedback-in-sports-science.5ae35cb.jpg",
+    "keywords": [
+      "feed",
+      "back",
+      "informing",
+      "performance"
+    ],
+    "question": "What is feedback in the context of performance or skill evaluation?"
+  },
+  {
+    "term": "Reaction Time",
+    "definition": "The time taken to initiate a response to a stimulus.",
+    "mnemonic": "Her reaction to the thyme (reaction time) was not positive, and the time taken for it to initiate a response was very quick.",
+    "image": "/images/user/base/Sports Science/remember-reaction-time-in-sports-science.960b6d9.jpg",
+    "keywords": [
+      "reaction",
+      "thyme"
+    ],
+    "question": "What is reaction time?"
+  },
+  {
+    "term": "Circuit Training",
+    "definition": "A fitness routine that involves performing a series of exercises with short rest periods in between.",
+    "mnemonic": "Along the electrical circuit, the athletes were training (circuit training). They were performing a series of exercises with short rest periods in between.",
+    "image": "/images/user/base/Sports Science/remember-circuit-training-in-sports-science.4a98010.gif",
+    "keywords": [
+      "circuit",
+      "training"
+    ],
+    "question": "What is circuit training?"
+  },
+  {
+    "term": "Humerus",
+    "definition": "The humerus is the bone between the shoulder and the elbow of vertebrate animals, and it is under the bicep.",
+    "mnemonic": "The woman had biceps so enormous that everyone thought they were humorous (humerus)",
+    "image": "/images/user/base/uncategorised/1.32.8 Humerus mnemonic.jpg",
+    "keywords": [
+      "humorous"
+    ],
+    "question": "What is the bone between the shoulder and elbow called?"
+  },
+  {
+    "term": "Femur",
+    "definition": "The femur is the bone within the thigh.",
+    "mnemonic": "Feel my (femur) leg on the thigh.",
+    "image": "/images/user/base/uncategorised/1.32.10 Femur memory aid.jpg",
+    "keywords": [
+      "Feel",
+      "my"
+    ],
+    "question": "What is the bone within the thigh called?"
+  },
+  {
+    "term": "Clavicle",
+    "definition": "The clavicle is your collar bone.",
+    "mnemonic": "They all have epaulettes on their shoulders apart from one who has classic vehicles (clavicles) on hers.",
+    "image": "/images/user/base/uncategorised/1.32.12 Clavicle mnemonic.jpg",
+    "keywords": [
+      "classic",
+      "vehicles"
+    ],
+    "question": "What is another name for the clavicle?"
+  },
+  {
+    "term": "Sternum",
+    "definition": "The sternum or the breast bone has two clavicles attached to it and seven sets of ribs.",
+    "mnemonic": "The witch took the breast bone from a skeleton because she needed something that looked like a spoon for her cauldrons in order to stir them (sternum).",
+    "image": "/images/user/base/uncategorised/1.32.14 Sternum prompt.jpg",
+    "keywords": [
+      "breast",
+      "stir"
+    ],
+    "question": "What is the sternum?"
+  },
+  {
+    "term": "Scapula",
+    "definition": "The scapula is the shoulder blade.",
+    "mnemonic": "Scrap your car (scapula) by pushing it off the cliff with your shoulder blades.",
+    "image": "/images/user/base/uncategorised/1.32.16 Scapula memory prompt.jpg",
+    "keywords": [
+      "Scrap"
+    ],
+    "question": "What is the scapula?"
+  },
+  {
+    "term": "Radius",
+    "definition": "The radius is a long bone in the arm that goes from the elbow to the wrist on the thumb side of the hand.",
+    "mnemonic": "You cannot change stations on wrist radios (radius) without using your thumb.",
+    "image": "/images/user/base/uncategorised/1.32.18 Radius memory prompt.jpg",
+    "keywords": [
+      "radios",
+      "thumb"
+    ],
+    "question": "What is the radius in the human body?"
+  },
+  {
+    "term": "Ulna",
+    "definition": "The ulna goes from the elbow to the wrist on the little finger side of your hand.",
+    "mnemonic": "An old nurse (ulna) sews an elbow patch on her old jumper.",
+    "image": "/images/user/base/uncategorised/1.32.20 Ulna memory aid.jpg",
+    "keywords": [
+      "old",
+      "elbow"
+    ],
+    "question": "What bone runs from the elbow to the wrist on the little finger side of the hand?"
+  },
+  {
+    "term": "Carpals",
+    "definition": "The carpals are the bones in the wrist. There are 8 bones.",
+    "mnemonic": "I do car pulls (carpals) through the gate (8) using the strength of my wrists.",
+    "image": "/images/user/base/uncategorised/1.32.23 The carpals memory aid.jpg",
+    "keywords": [
+      "car",
+      "gate"
+    ],
+    "question": "What are the bones in the wrist called?"
+  },
+  {
+    "term": "Metacarpals",
+    "definition": "The metacarpals are the 5 bones in the palm (middle) of your hand. They are between the carpals and the phalanges (fingers).",
+    "mnemonic": "I met a car pull (metacarpal) team in action right next to the car pull (carpal) sign.",
+    "image": "/images/user/base/uncategorised/1.32.25 Metacarpals memory aid.jpg",
+    "keywords": [
+      "met",
+      "next",
+      "pull"
+    ],
+    "question": "What are the metacarpals?"
+  },
+  {
+    "term": "Tarsals",
+    "definition": "The tarsal bones are in your feet.",
+    "mnemonic": "A woman stepped in tar with the soles (tarsals) of her feet.",
+    "image": "/images/user/base/uncategorised/1.32.27 Tarsal mnemonic.jpg",
+    "keywords": [
+      "tar",
+      "soles"
+    ],
+    "question": "Where are the tarsals located in the body?"
+  },
+  {
+    "term": "Metatarsals",
+    "definition": "The metatarsals are the five bones in the middle of your foot next to the tarsals and the phalanges (toes).",
+    "mnemonic": "Her girlfriend met her and looked at her tarred soles (metatarsals) which were next to other tarred soles (tarsals).",
+    "image": "/images/user/base/uncategorised/1.32.29 Metatarsals memory aid.jpg",
+    "keywords": [
+      "met",
+      "tarred soles",
+      "next"
+    ],
+    "question": "What are the metatarsals in the human body?"
+  },
+  {
+    "term": "Phalanges",
+    "definition": "The phalanges are the bones in your hands which make up your fingers and the bones in your foot that make up your toes.",
+    "mnemonic": "Flanges (phalanges) can be done up by standing on my toes and using my fingers.",
+    "image": "/images/user/base/uncategorised/1.32.31 Phalanges memory image.jpg",
+    "keywords": [
+      "Flanges",
+      "toes",
+      "fingers"
+    ],
+    "question": "What are phalanges?"
+  },
+  {
+    "term": "Tibia",
+    "definition": "The tibia is your shin bone and runs from your knee to your ankle.",
+    "mnemonic": "I have a fifty pence tip for ya (tibia) if you lend me your shin pads.",
+    "image": "/images/user/base/uncategorised/1.32.33 Tibia memory aid.jpg",
+    "keywords": [
+      "tip",
+      "shin"
+    ],
+    "question": "What is the tibia?"
+  },
+  {
+    "term": "Fibula",
+    "definition": "The fibula is your calf bone and runs from your knee to your ankle.",
+    "mnemonic": "You can tell this calf will fib a lot (fibula) because its nose has grown!",
+    "image": "/images/user/base/uncategorised/1.32.35 Fibula memory aid.jpg",
+    "keywords": [
+      "calf",
+      "fib",
+      "lot"
+    ],
+    "question": "What is the fibula?"
+  },
+  {
+    "term": "Patella",
+    "definition": "The patella is the knee cap.",
+    "mnemonic": "The patio fella (patella) has to use knee pads.",
+    "image": "/images/user/base/uncategorised/1.32.37 Patella bone image.jpg",
+    "keywords": [
+      "patio fella",
+      "knee"
+    ],
+    "question": "What is the patella?"
+  },
+  {
+    "term": "Pelvic girdle",
+    "definition": "The pelvic girdle comprises your hips. Your legs attach to it on each side.",
+    "mnemonic": "All the hurdlers need to get their pelvis over the hurdle (pelvic girdle). The pelvic girdle is your hips.",
+    "image": "/images/user/base/uncategorised/1.32.39 Pelvic girdle memory aid.jpg",
+    "keywords": [
+      "pelvis",
+      "hurdle"
+    ],
+    "question": "What is the pelvic girdle?"
+  },
+  {
+    "term": "Vertebrae",
+    "definition": "The back bone is made up of small bones called vertebrae.",
+    "mnemonic": "A woman broke her back, so she has to go to hospital and have a vertical brace (vertebrae) fitted.",
+    "image": "/images/user/base/uncategorised/1.32.42 The spine has sections.jpg",
+    "keywords": [
+      "vertical brace"
+    ],
+    "question": "What are the small bones that make up the backbone called?"
+  },
+  {
+    "term": "Cervical vertebrae",
+    "definition": "The first 7 vertebrae are called the cervical vertebrae.",
+    "mnemonic": "She finds it difficult to feed herself so her food is served by a vicar (cervical), who also prays to heaven (7) for her to get better.",
+    "image": "/images/user/base/uncategorised/1.32.44 Cervical region location.jpg",
+    "keywords": [
+      "served",
+      "vicar",
+      "heaven",
+      "7"
+    ],
+    "question": "What are the first 7 vertebrae called?"
+  },
+  {
+    "term": "Thoracic Vertebrae",
+    "definition": "The next 12 vertebrae below the cervical region, forming part of the spinal column that corresponds to the chest area.",
+    "mnemonic": "She hears Thor singing some 12 Bar Blues while he works and she thinks: Thor and his axe at it (thoracic) again!",
+    "image": "/images/user/base/uncategorised/1.32.45 Thoracic vertebrae.jpg",
+    "keywords": [
+      "Thor",
+      "axe",
+      "it"
+    ],
+    "question": "What are the thoracic vertebrae?"
+  },
+  {
+    "term": "Lumbar Vertebrae",
+    "definition": "The next 5 vertebrae in the spine, located in the lower back region.",
+    "mnemonic": "The lumber (lumbar) crashes into the hospital, bringing a hive (5) with it which was hanging in the tree.",
+    "image": "/images/user/base/uncategorised/1.32.47 Lumbar mnemonic.jpg",
+    "keywords": [
+      "lumber",
+      "hive"
+    ],
+    "question": "What are the lumbar vertebrae?"
+  },
+  {
+    "term": "Sacrum",
+    "definition": "The sacrum is a large triangular bone made of fused vertebrae, connected to the lower end of the spine where nerves exit the spinal channel.",
+    "mnemonic": "Thor gets the sack and runs (sacrum) away from the hospital with the lumber.",
+    "image": "/images/user/base/uncategorised/1.32.49 Sacrum memory prompt.jpg",
+    "keywords": [
+      "sack",
+      "runs"
+    ],
+    "question": "What is the sacrum?"
+  },
+  {
+    "term": "Coccyx",
+    "definition": "At the base of the backbone; the last vertebrae in the spine connected to the sacrum.",
+    "mnemonic": "The police finally catch up with Thor and put him in jail. Now all he can do is watch the clock tick (coccyx) in his cell and tell people his tale (tail).",
+    "image": "/images/user/base/uncategorised/1.32.51 Coccyx memory aid.jpg",
+    "keywords": [
+      "clock",
+      "tick",
+      "tale"
+    ],
+    "question": "What is the coccyx?"
+  },
+  {
+    "term": "Tendons",
+    "definition": "The tendons are tough bands of fibrous tissue that sit or connect between muscle and bone.",
+    "mnemonic": "Ten dons (tendons) sit between a muscular woman (muscle) and a bony man (bone) for an interview at a university. Who will get the job?",
+    "image": "/images/user/base/uncategorised/1.32.53 Tendon image.jpg",
+    "keywords": [
+      "Ten dons",
+      "muscular",
+      "bony"
+    ],
+    "question": "What are tendons?"
+  },
+  {
+    "term": "Ligaments",
+    "definition": "Ligaments are tough bands of fibrous tissue that connect and bind one bone to another.",
+    "mnemonic": "A ligature is meant (ligament) to stop bleeding, but instead it is used to tie these two paper bones together.",
+    "image": "/images/user/base/uncategorised/1.32.55 Ligaments aid.jpg",
+    "keywords": [
+      "ligature",
+      "meant",
+      "ligament",
+      "tie",
+      "bones"
+    ],
+    "question": "What are ligaments?"
+  },
+  {
+    "term": "Biceps and Triceps",
+    "definition": "The biceps muscle lies on top of the humerus and is used to bend and curl the arm. The triceps muscle lies underneath the humerus and is used to straighten the arm.",
+    "mnemonic": "B is curly and T is straight. The arm curls when biceps contract and it straightens when triceps contract.",
+    "image": "/images/user/base/uncategorised/1.32.57 Bicep and tricep infographic.jpg",
+    "keywords": [
+      "curly",
+      "straight"
+    ],
+    "question": "What are the functions of the biceps and triceps in arm movement?"
+  },
+  {
+    "term": "Strength",
+    "definition": "The ability of muscle to apply force and overcome resistance",
+    "mnemonic": "The Hulk has incredible strength (strength). He applied force as over the wall they tried to come. They weren't much resistance to him.",
+    "image": "/images/user/base/Sports Science/remember-strength-in-sports-science-vocabulary-1.e935c4a.jpg",
+    "keywords": [
+      "strength",
+      "applied",
+      "over",
+      "come",
+      "resistance"
+    ],
+    "question": "What is strength in terms of muscle capability?"
+  },
+  {
+    "term": "Dynamic Strength",
+    "definition": "The ability to apply force repeatedly over a period of time.",
+    "mnemonic": "After overcoming the army and realising the Hulk could resist them, they decided to each start throwing dynamite at the comic (dynamic) book hero.",
+    "image": "/images/user/base/Sports%20Science/remember-strength-in-sports-science-vocabulary-2.e44734d.jpg",
+    "keywords": [
+      "dynamite",
+      "comic"
+    ],
+    "question": "What is dynamic strength?"
+  },
+  {
+    "term": "Explosive Strength",
+    "definition": "The ability of the muscle to generate maximum strength in a short period of time.",
+    "mnemonic": "Carrying on from the Hulk story where the hulk has overcome the army and the army has realised that he could resist them. They started repeatedly throwing dynamite. After throwing the dynamite, it started exploding (explosive).",
+    "image": "/images/user/base/Sports Science/remember-strength-in-sports-science-vocabulary-3.4af3d94.jpg",
+    "keywords": [
+      "exploding",
+      "explosive"
+    ],
+    "question": "What is explosive strength?"
+  },
+  {
+    "term": "Static Strength",
+    "definition": "The force that a muscle or person can exert while remaining stationary.",
+    "mnemonic": "After the army stopped throwing the dynamite, they took a look at the Hulk. He looked like he had static (static) electricity as his hair was standing up.",
+    "image": "/images/user/base/Sports Science/remember-strength-in-sports-science-vocabulary-4.79b5ca1.jpg",
+    "keywords": [
+      "static",
+      "stationary"
+    ],
+    "question": "What is static strength?"
+  },
+  {
+    "term": "Somatotype",
+    "definition": "Classification of body types/shapes",
+    "mnemonic": "Some of the tomatoes are different types (somatotype), and you can tell by the different body shapes.",
+    "image": "/images/user/base/Sports Science/remember-somatotype-in-sports-science-vocabulary-1.8bb118d.jpg",
+    "keywords": [
+      "Some",
+      "tomato",
+      "type"
+    ],
+    "question": "What does the term \"somatotype\" refer to?"
+  },
+  {
+    "term": "Ectomorph",
+    "definition": "A somatotype characterised by being tall and thin with narrow shoulders and hips.",
+    "mnemonic": "The eccentric scientist made a toad (ecto) tall and thin.",
+    "image": "/images/user/base/Sports Science/remember-ectomorph-in-sports-science-vocabulary.0da6247.jpg",
+    "keywords": [
+      "ec",
+      "to"
+    ],
+    "question": "What is an ectomorph?"
+  },
+  {
+    "term": "Endomorph",
+    "definition": "A somatotype characterised by a pear-shaped body. Individuals with wide hips and narrow shoulders.",
+    "mnemonic": "At the end of the doe's (endomorph) tail is a pear.",
+    "image": "/images/user/base/Sports Science/remember-endomorph-in-sports-science-vocabulary.04ae761.jpg",
+    "keywords": [
+      "end",
+      "doe",
+      "pear"
+    ],
+    "question": "What is an endomorph?"
+  },
+  {
+    "term": "Mesomorph",
+    "definition": "A somatotype characterised by a muscular appearance, with wide shoulders and thin hips",
+    "mnemonic": "The only men allowed in this zone (mesomorph) are ones who can lift giant weights because they are so muscular.",
+    "image": "/images/user/base/Sports Science/remember-mesomorph-in-sports-science-vocabulary.f9e68b7.jpg",
+    "keywords": [
+      "me",
+      "zo",
+      "muscular"
+    ],
+    "question": "What is a mesomorph?"
+  },
+  {
+    "term": "Doping",
+    "definition": "The unlawful use of drugs to alter an athlete's performance",
+    "mnemonic": "Dopey was clearly taking (doping) steroids. It was an unlawful use of drugs to alter his athletic performance.",
+    "image": "/images/user/base/Sports Science/remember-doping-in-sports-science.52ab238.jpg",
+    "keywords": [
+      "Dopey",
+      "taking"
+    ],
+    "question": "What is doping in sports?"
+  },
+  {
+    "term": "Doping",
+    "definition": "The unlawful use of drugs to alter an athlete's performance",
+    "mnemonic": "That dope is clearly taking (doping) steroids. It was an unlawful use of drugs to alter his athletic performance.",
+    "image": "/images/user/base/Sports Science/remember-doping-01-in-sports-science.06db675.jpg",
+    "keywords": [
+      "dope",
+      "taking"
+    ],
+    "question": "What is doping in sports?"
+  },
+  {
+    "term": "Anabolic Steroids",
+    "definition": "Artificially produced male hormones that promote muscle growth and reduce recovery time",
+    "mnemonic": "Constant weight-lifting and a diabolical overuse of steroids (anabolic steroids) produced a muscular man who recovered quickly.",
+    "image": "/images/user/base/Sports Science/remember-anabolic-steroids-in-sports-science.182ff1f.jpg",
+    "keywords": [
+      "an",
+      "abolical",
+      "steroids",
+      "muscular",
+      "recovered"
+    ],
+    "question": "What are anabolic steroids?"
+  },
+  {
+    "term": "Peptide Hormones",
+    "definition": "Drugs that stimulate the production of hormones in the body which increases red blood cell count/oxygen carrying ability.",
+    "mnemonic": "Our pep talk was interrupted when a tidal (peptide hormones) wave approached. However, drugs that stimulated the production of hormones allowed us to run away faster.",
+    "image": "/images/user/base/Sports Science/remember-peptide-hormones-in-sports-science-vocabulary-1.d9611dd.jpg",
+    "keywords": [
+      "pep",
+      "tidal"
+    ],
+    "question": "What are peptide hormones?"
+  },
+  {
+    "term": "Beta Blocker",
+    "definition": "A drug that is used to steady nerves by controlling the heart rate",
+    "mnemonic": "The heart can beat a lot slower by blocking her (beta blocker) adrenaline. She could then control and slow down her own heart beat.",
+    "image": "/images/user/base/Sports Science/remember-beta-blocker-in-sports-science.9bc67ee.jpg",
+    "keywords": [
+      "beat",
+      "block",
+      "her"
+    ],
+    "question": "What is a beta blocker used for in terms of controlling the heart rate?"
+  },
+  {
+    "term": "Erythropoietin (EPO)",
+    "definition": "A natural hormone, used as a drug to improve an athlete's performance. It stimulates the production of red blood cells to transport more oxygen.",
+    "mnemonic": "Thanks to her dog, the arithmetic she wrote out was ruined. There was no point handing it in (erythropoietin) after he'd peed over (EPO) it.",
+    "image": "/images/user/base/Sports Science/remember-erythropoietin-in-sports-science.8ea0234.jpg",
+    "keywords": [
+      "arith",
+      "wro",
+      "poi",
+      "it",
+      "he",
+      "pee",
+      "o"
+    ],
+    "question": "What is erythropoietin (EPO) used for in sports?"
+  }
+]

@@ -1,0 +1,1768 @@
+[
+  {
+    "term": "Protons",
+    "definition": "Protons are positively charged subatomic particles.",
+    "mnemonic": "Protons (peas) are positively charged.",
+    "image": "/images/user/base/Chemistry/2. Atomic Structure/2.2.4 Proton Image (2).jpg",
+    "keywords": [
+      "peas",
+      "positive"
+    ],
+    "question": "What are protons?"
+  },
+  {
+    "term": "Neutrons",
+    "definition": "Neutrons are neutral and have no charge.",
+    "mnemonic": "Neutrons (newts) are neutral and have no charge.",
+    "image": "/images/user/base/Chemistry/2. Atomic Structure/remember-neutron-resized-in-chemistry.973990c.jpg",
+    "keywords": [
+      "newt"
+    ],
+    "question": "What characteristic do neutrons have regarding their electric charge?"
+  },
+  {
+    "term": "Electrons",
+    "definition": "Negatively charged particles.",
+    "mnemonic": "Electrons (electronic robots) are negatively charged.",
+    "image": "/images/user/base/Chemistry/2.%20Atomic%20Structure/2.2.2-electron-image-(new).4b7e365.jpg",
+    "keywords": "electronic robots",
+    "question": "What are electrons?"
+  },
+  {
+    "term": "Atomic number",
+    "definition": "The atomic number tells you how many protons the element has.",
+    "mnemonic": "The atomic number is a tom cat with only a pea to eat (proton).",
+    "image": "/images/user/base/Chemistry/2. Atomic Structure/2.2.10 Atomic number memory aid (2).jpg",
+    "keywords": [
+      "tom",
+      "pea"
+    ],
+    "question": "What does the atomic number indicate about an element?"
+  },
+  {
+    "term": "Mass number",
+    "definition": "The mass number is the number of protons plus the number of neutrons in the atom. It is always the biggest number and is roughly double the atomic number.",
+    "mnemonic": "The mass number is represented by a bull mastiff eating a bowl of peas (protons) and newts (neutrons). All the live yummy bits, not electronic robots (electrons), because who wants to eat an electronic robot!",
+    "image": "/images/user/base/Chemistry/2. Atomic Structure/2.2.11 Mass number memory aid (2).jpg",
+    "keywords": [
+      "mas",
+      "peas",
+      "newts",
+      "electronic",
+      "robots"
+    ],
+    "question": "What is the mass number in an atom?"
+  },
+  {
+    "term": "Atomic number and mass number",
+    "definition": "The atomic number is the number of protons in the nucleus of an atom, which determines the element. The mass number is the total number of protons and neutrons in an atom's nucleus.",
+    "mnemonic": "A bull mastiff (mass) dog is sitting on top of a tom (atomic) cat. The mass number is always the bigger number.",
+    "image": "/images/user/base/Chemistry/2. Atomic Structure/2.2.13 Mass is always bigger memory aid.jpg",
+    "keywords": [
+      "bull mastiff",
+      "mass",
+      "tom",
+      "atomic",
+      "cat"
+    ],
+    "question": "What do the atomic number and mass number represent in an atom?"
+  },
+  {
+    "term": "Protons",
+    "definition": "Protons have a relative mass of 1.0073 amu.",
+    "mnemonic": "Protons (peas) have a mass of one.",
+    "image": "/images/user/base/Chemistry/2. Atomic Structure/2.2.6-proton-weight-image-(new).bc0e8d3.jpg",
+    "keywords": [
+      "peas"
+    ],
+    "question": "What is the relative mass of protons in atomic mass units?"
+  },
+  {
+    "term": "Neutrons",
+    "definition": "Neutrons have a relative mass of 1.0083 amu, but weigh the same as protons.",
+    "mnemonic": "Neutrons (newts) weigh the same as protons (peas), so also have a mass of one.",
+    "image": "/images/user/base/Chemistry/2. Atomic Structure/2.2.7-neutrons-weight-image-new-.d36cfa1.jpg",
+    "keywords": [
+      "newts",
+      "peas"
+    ],
+    "question": "What is the relative mass of neutrons compared to protons?"
+  },
+  {
+    "term": "Electrons",
+    "definition": "Electrons have a very small weight, 0.00054 amu, and are often ignored in mass calculations.",
+    "mnemonic": "Electrons (electronic robots) weigh almost nothing whatsoever… they’re empty inside!",
+    "image": "/images/user/base/Chemistry/2. Atomic Structure/2.2.8-electron-weight-image-new.a5f1de9.jpg",
+    "keywords": [
+      "electronic robots"
+    ],
+    "question": "What is the relative weight of electrons in atomic mass units?"
+  },
+  {
+    "term": "Isotopes",
+    "definition": "Atoms of the same element with a different number of neutrons.",
+    "mnemonic": "The newts (neutrons) are skating ‘on top’ of the ice (‘ice on top’ – isotope).",
+    "image": "/images/user/base/Chemistry/2. Atomic Structure/2.2.16 Isotope mnemonic (2).jpg",
+    "keywords": [
+      "newts",
+      "on top",
+      "ice"
+    ],
+    "question": "What are isotopes?"
+  },
+  {
+    "term": "Electron Shells",
+    "definition": "Electrons orbit the nucleus of an atom in shells.",
+    "mnemonic": "To help you remember that electrons are arranged in shells, imagine our electronic robot (electron) hatching out of a shell.",
+    "image": "/images/user/base/Chemistry/2. Atomic Structure/2.2.18-electron-shell-memory-aid-(new).feaf028.jpg",
+    "keywords": [
+      "electronic robot",
+      "shell"
+    ],
+    "question": "What are electron shells in an atom?"
+  },
+  {
+    "term": "Electron shells",
+    "definition": "Electrons occupy shells or orbits around the nucleus, where each shell can hold a specific number of electrons: the first shell holds 2, the second holds 8, and the third holds 8.",
+    "mnemonic": "To remember how many electrons are allowed in each shell, think of two fat ladies (2, 8, 8) on a beach covered in shells.",
+    "image": "/images/user/base/Chemistry/2. Atomic Structure/2.2.39 Electronic shell obit mnemonic (2).jpg",
+    "keywords": [
+      "two fat ladies",
+      "shells"
+    ],
+    "question": "What are electron shells in atoms?"
+  },
+  {
+    "term": "Ions",
+    "definition": "Atoms or molecules that carry an electric charge, created when a neutral atom loses or gains electrons.",
+    "mnemonic": "To remind you, here’s an image of electronic robots (electrons) playing a round of golf using golf irons (ions).",
+    "image": "/images/user/base/Chemistry/2. Atomic Structure/2.2.44-ion-memory-aid-(new).b1de29e.jpg",
+    "keywords": [
+      "electronic",
+      "irons"
+    ],
+    "question": "What are ions?"
+  },
+  {
+    "term": "Valency",
+    "definition": "Valency is the number of bonds an atom can make with other atoms, usually based on the number of electrons in its outer shell.",
+    "mnemonic": "To help you remember that valency is about an atom’s potential to bond, imagine a bride who’s told to lift her 'veil and see' (valency) how many grooms want to 'bond' with her.",
+    "image": "/images/user/base/Chemistry/2. Atomic Structure/2.2.53 Valency memory aid (2).jpg",
+    "keywords": [
+      "veil and see",
+      "bond"
+    ],
+    "question": "What is valency in chemistry?"
+  },
+  {
+    "term": "Relative atomic mass",
+    "definition": "The relative atomic mass of an element is equal to its mass number or the average of the mass numbers of the isotopes, taking their relative abundances into account.",
+    "mnemonic": "Think of all the relatives (relatives), of the bull mastiff (mass number).",
+    "image": "/images/user/base/Chemistry/2. Atomic Structure/2.2.62 Relative mass number memory aid (2).jpg",
+    "keywords": "relatives, bull mastiff",
+    "question": "What is the relative atomic mass?"
+  },
+  {
+    "term": "Newlands",
+    "definition": "A British chemist who created a table of known chemical elements.",
+    "mnemonic": "Newlands decided to arrange elephants (elements) on his table in order of their mass, but he left no gaps for new elephants that had not yet been discovered.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.77 Newlands introduced periodic table image (2).jpg",
+    "keywords": [
+      "Newlands",
+      "News lands",
+      "elephants"
+    ],
+    "question": "Who was Newlands?"
+  },
+  {
+    "term": "Mendeleev",
+    "definition": "A Russian chemist who rearranged the periodic table to leave gaps and grouped elements with similar properties together.",
+    "mnemonic": "By mending and leaving (Mendeleev) gaps in the table, Mendeleev was able to keep elephants (elements) with similar houses (properties) together on the table.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.81 Mendeleev rearranged the table image.jpg",
+    "keywords": [
+      "Mendeleev",
+      "mending and leaving"
+    ],
+    "question": "Who was Mendeleev, and what is he known for in chemistry?"
+  },
+  {
+    "term": "Groups and Periods of the Periodic Table",
+    "definition": "Groups run along the top of the table and periods are found down the side.",
+    "mnemonic": "To remember that groups run along the top of the table, imagine a table with musical groups on top of it. Heavy metal groups are on the left and string groups (non-metals) are on the right. Different periods of time are illustrated on the table leg, indicating that the periods are found down the side of the periodic table.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.83 Metal left non metals right memory aid (2).jpg",
+    "keywords": [
+      "groups",
+      "top",
+      "periods",
+      "side"
+    ],
+    "question": "How are groups and periods arranged on the periodic table?"
+  },
+  {
+    "term": "Alkali metals",
+    "definition": "Elements in Group 1 of the periodic table including potassium and sodium.",
+    "mnemonic": "We were all very nervous because we had to go down a back street full of drunks, all the alkies were lying down with their metal beer cans.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.84 Alkali metals memory aid (2).jpg",
+    "keywords": [
+      "alki",
+      "ly",
+      "metal"
+    ],
+    "question": "What are alkali metals?"
+  },
+  {
+    "term": "Alkaline earth metals",
+    "definition": "Elements in Group 2 of the periodic table including magnesium and calcium.",
+    "mnemonic": "Looking down, I saw that the street itself was paved with bottles and cans of alcohol in lines in the earth.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.85 Alkali earth metals memory aid (2).jpg",
+    "keywords": [
+      "alc",
+      "line",
+      "earth"
+    ],
+    "question": "What are alkaline earth metals?"
+  },
+  {
+    "term": "Transition metals",
+    "definition": "Elements found in the middle section of the periodic table including gold and iron.",
+    "mnemonic": "We were so worried about walking that we drove through instead, in a transit van.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.86 Transition metals mnemonic (3).jpg",
+    "keywords": [
+      "transit"
+    ],
+    "question": "What are transition metals?"
+  },
+  {
+    "term": "Icosagens",
+    "definition": "Also known as the boron group containing elements such as boron and aluminium.",
+    "mnemonic": "We drove safely out of the alley and a very expensive jewellery store caught my eye – it was selling high cost gems.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.87 Icosagens memory aid (2).jpg",
+    "keywords": [
+      "high cost gems"
+    ],
+    "question": "What is another name for the boron group containing elements such as boron and aluminium?"
+  },
+  {
+    "term": "Crystallogens",
+    "definition": "Also known as the carbon group containing elements such as carbon and lead.",
+    "mnemonic": "The most impressive thing they were selling was a glittering necklace made of crystal.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.88 Crystallogens memory aid (2).jpg",
+    "keywords": [
+      "crystal"
+    ],
+    "question": "What are crystallogens?"
+  },
+  {
+    "term": "Pnictogens",
+    "definition": "Also known as the nitrogen family containing elements like nitrogen and arsenic.",
+    "mnemonic": "But, as I watched, thieves suddenly ran up and smashed the glass! The necklace quickly got nicked!",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.89 Pnictogens memory aid (2).jpg",
+    "keywords": [
+      "nicked"
+    ],
+    "question": "What are pnictogens?"
+  },
+  {
+    "term": "Chalcogens",
+    "definition": "Also known as the oxygen family containing elements such as oxygen and sulphur.",
+    "mnemonic": "I could see the poor store owner inside, adding up what had been taken on his calculator.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.90 Chalcogens memory aid (2).jpg",
+    "keywords": [
+      "calc"
+    ],
+    "question": "What are chalcogens?"
+  },
+  {
+    "term": "Halogens",
+    "definition": "Elements in Group 7 of the periodic table including chlorine and bromine.",
+    "mnemonic": "What happened next was incredible! An angel swooped down and caught one of the thieves by snaring him with her halo!",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.91 Halogen group (2).jpg",
+    "keywords": [
+      "halo"
+    ],
+    "question": "What are halogens?"
+  },
+  {
+    "term": "Noble gases",
+    "definition": "Elements in Group 0 of the periodic table including helium and neon.",
+    "mnemonic": "The angel presented the thief she had caught to the mayor. His clothes made him look very noble.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.92 Noble gas image (2).jpg",
+    "keywords": [
+      "noble"
+    ],
+    "question": "What are noble gases?"
+  },
+  {
+    "term": "Alkali Metals",
+    "definition": "The elements in group 1 of the periodic table known for reacting violently with water, having a single electron in their outer shell, being soft and less dense than water, having low melting points, and forming oxides and hydroxides.",
+    "mnemonic": "Following a raid on the alley, where the <span style='color: #ff0000;'>alk</span>ies were <span style='color: #ff0000;'>ly</span>ing down with their <span style='color: #ff0000;'>metal</span> beer cans, the alkali metals (along with their <span style='color: #ff0000;'>electric robots</span>)*, were deemed dangerous and criminal.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.93 Alkali metals electron memory aid (2).jpg",
+    "keywords": [
+      "alk",
+      "ly",
+      "metal",
+      "electric robots"
+    ],
+    "question": "What are alkali metals?"
+  },
+  {
+    "term": "Halogen molecular structure",
+    "definition": "Halogen molecules always have two atoms.",
+    "mnemonic": "The halo brigade always consists of one hero and one sidekick. There are always two.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.100 Halogens have 2 atoms.jpg",
+    "keywords": [
+      "halo",
+      "two"
+    ],
+    "question": "What is distinctive about halogen molecular structure?"
+  },
+  {
+    "term": "States of the Halogens",
+    "definition": "Gases are at the top of their column of the periodic table, solids are at the bottom.",
+    "mnemonic": "They protect the air in the sky above and the solid ground below.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.101 Gas top solid bottom image.jpg",
+    "keywords": [
+      "air",
+      "above",
+      "solid",
+      "below"
+    ],
+    "question": "What are the states of the halogens in the periodic table?"
+  },
+  {
+    "term": "Coloured vapours of Halogens",
+    "definition": "Halogens all have coloured vapours.",
+    "mnemonic": "When danger threatens, the halo brigade flies up to deal with it. As they fly, they leave coloured trails behind them.",
+    "image": "/images/user/base/uncategorised/Halogen Angels vapor trails.jpg",
+    "keywords": [
+      "coloured trails"
+    ],
+    "question": "What characteristic is shared by the vapours of all halogens?"
+  },
+  {
+    "term": "Displacement in Halogens",
+    "definition": "Halogens higher up in the table displace the ones that are lower in the table.",
+    "mnemonic": "The more powerful hero angel wants a piece of the action first, so she shoves her less powerful sidekick out of the way.",
+    "image": "/images/user/base/uncategorised/Halogen Angels displacement.jpg",
+    "keywords": [
+      "more powerful",
+      "less powerful",
+      "out of the way"
+    ],
+    "question": "What is displacement in halogens?"
+  },
+  {
+    "term": "Reaction with hydrogen",
+    "definition": "Halogens react with hydrogen to make poisonous acids.",
+    "mnemonic": "The threat is quite often a high dragon (hydrogen). When the two of them fight, the wounded dragon spills poisonous, acid blood.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.104 Poisonous acids prompt (2).jpg",
+    "keywords": [
+      "high dragon",
+      "two",
+      "poisonous, acid"
+    ],
+    "question": "What happens during a reaction with hydrogen involving halogens?"
+  },
+  {
+    "term": "Transition metals",
+    "definition": "The large group of elements in the middle of the periodic table between groups 2 and 3. They are hard and dense, less reactive than group 1 & 2 metals, conduct heat and electricity well, have high melting points, are used as catalysts, form colorful ionic compounds, and some can form more than one ion.",
+    "mnemonic": "Once upon a time, a gorilla (silver Ag) tried to park his transit van (transition metals) but because there wasn’t much room, he had to lift it into the space. For a human, this would have been impossible. However, for the gorilla, because he was so hard and strong, it was no trouble at all. The man in the car next to him was not happy as the gorilla had blocked him in. 'What do you think you’re doing?! Are you dense?!' he yelled. It didn’t end there. He got out of his car and the conversation began to get heated. The man was so livid that he threw a punch at the gorilla. The gorilla tried to defend himself, but his reactions were too slow and he ended up getting hurt. Luckily, a benevolent cheetah happened to be running past. When she saw that the gorilla had been hurt, she was keen to assist (Cat-assist, catalyst). The pair’s bust-up was holding up the traffic. A bus stopped and its conductor got out to see what all the commotion was about. The conductor’s bus was anything but ordinary; it was painted with bright colours. On the top deck of the bus was a group of robots on their way to the local golf course. They each had golf bags containing one, two, or three irons.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.106 Transition metal group chart.jpg",
+    "keywords": [
+      "gorilla",
+      "silver Ag",
+      "transit",
+      "hard and strong",
+      "dense",
+      "get heated",
+      "reactions were too slow",
+      "cheetah, Cat-assist, catalyst",
+      "conductor",
+      "bright colours",
+      "one, two or three irons"
+    ],
+    "question": "What are transition metals?"
+  },
+  {
+    "term": "Reactivity of alkali metals and halogens",
+    "definition": "Alkali metals become more reactive as you go down group 1 due to weaker attraction between the nucleus and outer electron. Halogens become more reactive as you go up group 7 due to stronger attraction.",
+    "mnemonic": "Drunks fall down, angels rise.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.105 Reactivity in groups 1 and 7 image.jpg",
+    "keywords": [
+      "Drunks",
+      "fall",
+      "down",
+      "angels",
+      "rise"
+    ],
+    "question": "How does the reactivity of alkali metals and halogens change within their respective groups?"
+  },
+  {
+    "term": "atom",
+    "definition": "A single particle made up of protons, neutrons, and electrons.",
+    "mnemonic": "The electronic robot (electrons), the newt (neutrons) and the pea (protons) all carried the atom bomb (electrons, neutrons and protons make up an atom).",
+    "image": "/images/user/base/Chemistry/atoms-in-mammoth-chemistry-1.720e9eb.jpg",
+    "keywords": [
+      "electronic robot",
+      "newt",
+      "pea",
+      "atom bomb"
+    ],
+    "question": "What is an atom?"
+  },
+  {
+    "term": "atom",
+    "definition": "The smallest part of an element.",
+    "mnemonic": "An elephant (element) is looking at the smallest atom bomb.",
+    "image": "/images/user/base/Chemistry/1. Types of Particle/2.1.1 Atom memory aid (2).jpg",
+    "keywords": [
+      "elephant",
+      "atom"
+    ],
+    "question": "What is the smallest part of an element?"
+  },
+  {
+    "term": "Element",
+    "definition": "A substance made up of only one type of atom.",
+    "mnemonic": "Think of an element as being an elephant.",
+    "image": "/images/user/base/Chemistry/1. Types of Particle/2.1.2 Element memory aid (2).jpg",
+    "keywords": [
+      "elephant"
+    ],
+    "question": "What is an element in terms of chemistry?"
+  },
+  {
+    "term": "Molecule",
+    "definition": "A substance made up of atoms chemically bonded together. The atoms can be the same or different elements.",
+    "mnemonic": "The atoms that make up a molecule can be of the same or different elements.",
+    "image": "/images/user/base/Chemistry/1. Types of Particle/2.1.3-molecule-memory-aid-(2)-new.144d306.jpg",
+    "keywords": [
+      "moll",
+      "cool",
+      "atom",
+      "same",
+      "different"
+    ],
+    "question": "What is a molecule?"
+  },
+  {
+    "term": "Compounds",
+    "definition": "A compound is a substance made up of different types and numbers of atoms, all chemically bonded together.",
+    "mnemonic": "Compounds are made up of atoms of more than one type of element",
+    "image": "/images/user/base/Chemistry/1. Types of Particle/2.1.4 Compound memory aid (2).jpg",
+    "keywords": [
+      "elephants",
+      "bonded together",
+      "compound"
+    ],
+    "question": "What is a compound in chemistry?"
+  },
+  {
+    "term": "Mixture",
+    "definition": "A mixture is made up of two or more elements that are not chemically bonded to one another.",
+    "mnemonic": "Here, two different elephants are not bonded to each other.",
+    "image": "/images/user/base/Chemistry/1. Types of Particle/2.1.5 Mixture memory aid (2).jpg",
+    "keywords": [
+      "elephants",
+      "not bonded"
+    ],
+    "question": "What is a mixture?"
+  },
+  {
+    "term": "Elements ending in '-ium'",
+    "definition": "Elements that typically indicate metals, with exceptions such as helium, deuterium, and tritium.",
+    "mnemonic": "To remember this, picture an aquarium filled with metal fish.",
+    "image": "/images/user/base/Chemistry/15. Naming Chemicals/2.15.1 IUM is metals memory aid.jpg",
+    "keywords": [
+      "aquarium",
+      "metal"
+    ],
+    "question": "Which type of elements often end in '-ium' and are usually metals, excluding examples like helium?"
+  },
+  {
+    "term": "Molecules ending in -ite and -ate",
+    "definition": "Molecules ending with -ite contain fewer oxygen atoms than those ending with -ate.",
+    "mnemonic": "The opera singer complained that her tight (-ite) corset prevented her from getting enough oxygen. When she removed it, her lungs could inflate (-ate) and she could breathe in more oxygen.",
+    "image": "/images/user/base/Chemistry/15. Naming Chemicals/2.15.2 ITE has fewer oxygen than ATE image.jpg",
+    "keywords": [
+      "tight",
+      "inflate",
+      "oxygen"
+    ],
+    "question": "What is the difference between molecules ending in -ite and -ate?"
+  },
+  {
+    "term": "Compounds ending in -ide",
+    "definition": "If a compound ends in ‘ide’, it contains only two elements.",
+    "mnemonic": "To remind you, these two elephants (elements) are holding only one ID card (together they form a compound).",
+    "image": "/images/user/base/Chemistry/15. Naming Chemicals/2.15.3 IDE compounds have 2 elements.jpg",
+    "keywords": [
+      "two",
+      "elephants",
+      "ID"
+    ],
+    "question": "What does it mean when a compound ends in -ide?"
+  },
+  {
+    "term": "Di",
+    "definition": "Indicates there are two atoms of a particular element in a compound.",
+    "mnemonic": "Think of a dyed (di) pair (two) of brightly coloured shoes (shoe = two)",
+    "image": "/images/user/base/Chemistry/15. Naming Chemicals/2.15.4 Di in a compound means 2 of the same atom.jpg",
+    "keywords": [
+      "dyed",
+      "pair",
+      "shoes"
+    ],
+    "question": "What does the term \"Di\" indicate in a chemical compound?"
+  },
+  {
+    "term": "Tri",
+    "definition": "The syllable ‘tri’ indicates that a compound contains three atoms of an element.",
+    "mnemonic": "To remember this, think of a triceratops (tri) riding a three-wheeled tricycle.",
+    "image": "/images/user/base/Chemistry/15. Naming Chemicals/2.15.5 TRI is three atoms of the same element image.jpg",
+    "keywords": [
+      "tri",
+      "three"
+    ],
+    "question": "What does the syllable ‘tri’ indicate in a chemical compound?"
+  },
+  {
+    "term": "Diatomic molecules",
+    "definition": "Molecules that consist of two atoms.",
+    "mnemonic": "Diatomic molecules include hydrogen (H2), oxygen (O2), and chlorine (Cl2).",
+    "image": "/images/user/base/Chemistry/15. Naming Chemicals/2.15.6 Diatomic hydrogen molecule .jpg",
+    "keywords": [
+      "di",
+      "atomic"
+    ],
+    "question": "What are diatomic molecules?"
+  },
+  {
+    "term": "Iron oxide (rust)",
+    "definition": "Chemical compound with the formula Fe₂O₃, formed when iron is exposed to water.",
+    "mnemonic": "Rusty iron oxen fetch shoes (two) from an Orange tree (Fe₂O₃).",
+    "image": "/images/user/base/Chemistry/7. Chemical Formulae/iron-oxide2-new.8b7eb16.jpg",
+    "keywords": [
+      "iron",
+      "oxen",
+      "fe",
+      "shoes",
+      "O",
+      "tree"
+    ],
+    "question": "What is iron oxide, commonly known as rust?"
+  },
+  {
+    "term": "Sodium chloride",
+    "definition": "Commonly known as salt, it is an ionic compound with the formula NaCl.",
+    "mnemonic": "Sodium chloride is represented by the pine of a mountain of salt (NaCl).",
+    "image": "/images/user/base/Chemistry/7. Chemical Formulae/2.7.2 Sodium chloride memory aid (2).jpg",
+    "keywords": [
+      "NaCl",
+      "salt"
+    ],
+    "question": "What is sodium chloride commonly known as?"
+  },
+  {
+    "term": "Ammonia",
+    "definition": "A gas compound of nitrogen and hydrogen with the formula NH3.",
+    "mnemonic": "The Mona Lisa (Ammonia) at the Natural History Museum (NH3).",
+    "image": "/images/user/base/Chemistry/7. Chemical Formulae/2.7.3 Ammonia memory prompt (2).jpg",
+    "keywords": [
+      "Mon",
+      "Li",
+      "sa",
+      "N",
+      "H",
+      "M"
+    ],
+    "question": "What is ammonia?"
+  },
+  {
+    "term": "Calcium carbonate",
+    "definition": "Limestone, chalk, limescale and marble are chemically the same, all forms of calcium carbonate.",
+    "mnemonic": "Think of calcium carbonate as being milk (calcium, Ca) on a car bonnet, along with items associated with calcium carbonate: • Limes in the back of the car are singing scales (limescale) • The wheels on the car are marbles (marble is formed from highly pressurised limestone) • Chalk tyre marks on the road (chalk is mainly limestone) • The car is swerving around a stone that looks like a lime segment (limestone)",
+    "image": "/images/user/base/Chemistry/7. Chemical Formulae/2.7.5 Calcium carbonate mnemonic (2).jpg",
+    "keywords": [
+      "calcium",
+      "car bonnet",
+      "limes",
+      "scales",
+      "marbles",
+      "chalk",
+      "lime",
+      "stone"
+    ],
+    "question": "What are limestone, chalk, limescale, and marble all forms of?"
+  },
+  {
+    "term": "Limescale",
+    "definition": "A white chalky deposit found in kettles and pipes, chemically known as calcium carbonate (CaCO3).",
+    "mnemonic": "A cacophony is produced by three (CaCO3) limes playing scales (limescale).",
+    "image": "/images/user/base/uncategorised/Lime scale.jpg",
+    "keywords": [
+      "caco",
+      "three",
+      "limes",
+      "scales"
+    ],
+    "question": "What is limescale?"
+  },
+  {
+    "term": "Ethanol (alcohol)",
+    "definition": "C2H5OH, a flammable liquid that is consumed.",
+    "mnemonic": "Yes, ethanol is a drunk poodle.",
+    "image": "/images/user/base/Chemistry/7. Chemical Formulae/2.7.7 Ethanol mnemonic (2).jpg",
+    "keywords": [
+      "poodle",
+      "alcohol"
+    ],
+    "question": "What is ethanol (alcohol) known as in chemical terms?"
+  },
+  {
+    "term": "H (as a prefix in chemical formulas)",
+    "definition": "If a compound's formula begins with H, it is usually an acid, except when it's H2O (water).",
+    "mnemonic": "If you end up spilling acid on yourself, it will hurt!",
+    "image": "/images/user/base/Chemistry/7. Chemical Formulae/2.7.9 H is an acid image (2).jpg",
+    "keywords": [
+      "H",
+      "hurt"
+    ],
+    "question": "What does the prefix \"H\" indicate in chemical formulas?"
+  },
+  {
+    "term": "Hydrochloric acid",
+    "definition": "Hydrochloric acid is a very corrosive acid.",
+    "mnemonic": "Hydrochloric acid is a Highly Corrosive liquid (HCl).",
+    "image": "/images/user/base/Chemistry/7. Chemical Formulae/2.7.10 Hydrochloric acid picture (2).jpg",
+    "keywords": [
+      "Highly",
+      "Corrosive",
+      "liquid"
+    ],
+    "question": "What is hydrochloric acid known for?"
+  },
+  {
+    "term": "Nitric acid",
+    "definition": "HNO₃",
+    "mnemonic": "Knife trick accidents Hurt Nobody Outside Our Office (HNO₃)",
+    "image": "/images/user/base/Chemistry/7. Chemical Formulae/2.7.11 Nitric acid image.jpg",
+    "keywords": [
+      "Hurt",
+      "Nobody",
+      "Outside",
+      "Office"
+    ],
+    "question": "What is the chemical formula for nitric acid?"
+  },
+  {
+    "term": "Covalent bonding",
+    "definition": "Covalent bonding is where atoms share electrons.",
+    "mnemonic": "Think of two people (non-metal) cooperating and covered by a veil (covalent) and deciding to share the rest of their lives together.",
+    "image": "/images/user/base/Chemistry/3. Chemical Bonding/2.3.10-covalent-through-non-metal-atoms-resized-new-.daf2c51.jpg",
+    "keywords": [
+      "co",
+      "veil",
+      "share"
+    ],
+    "question": "What is covalent bonding?"
+  },
+  {
+    "term": "Simple covalent structures",
+    "definition": "Simple covalent molecules are mainly liquids and gases.",
+    "mnemonic": "The married couple finally share a bath of water.",
+    "image": "/images/user/base/Chemistry/3. Chemical Bonding/2.3.11 Covalent bonds are liquid and gas image resized.jpg",
+    "keywords": [
+      "share",
+      "water"
+    ],
+    "question": "What are simple covalent structures?"
+  },
+  {
+    "term": "Properties of simple covalent structures",
+    "definition": "Substances with simple covalent structures have low melting points. Most are gas or liquid at room temperature due to weak intermolecular bonds.",
+    "mnemonic": "A cool looking ice cube in glass with shades and shoes represents the low melting point of simple covalent structures like H₂O.",
+    "image": "/images/user/base/Chemistry/3. Chemical Bonding/2.3.12 Covalent bonds between atoms are strong image resized.jpg",
+    "keywords": [],
+    "question": "What are the properties of simple covalent structures?"
+  },
+  {
+    "term": "Simple covalent structures do not conduct electricity",
+    "definition": "Simple covalent molecules cannot conduct electricity as they lack free electrons or ions.",
+    "mnemonic": "A man in the bath with a very happy toaster illustrates that pure water does not conduct electricity well.",
+    "image": "/images/user/base/Chemistry/3. Chemical Bonding/2.3.15 Covalent bonds cannot conduct electricity resized.jpg",
+    "keywords": [],
+    "question": "Why do simple covalent structures not conduct electricity?"
+  },
+  {
+    "term": "Ionic bonding",
+    "definition": "The transfer of electrons between atoms.",
+    "mnemonic": "It is represented by someone putting a transfer on a t-shirt of an electronic robot and ironing on it (ionic). Ionic = transfer",
+    "image": "/images/user/base/Chemistry/3. Chemical Bonding/2.3.27 Ionic bonding image resized.jpg",
+    "keywords": [
+      "transfer",
+      "ironing",
+      "ionic"
+    ],
+    "question": "What is ionic bonding?"
+  },
+  {
+    "term": "Ionic bonding",
+    "definition": "The transfer of electrons from a metal to a non-metal.",
+    "mnemonic": "Ionic bonding is the transfer of electrons from a metal (iron) to a non-metal (t-shirt).",
+    "image": "/images/user/base/Chemistry/3. Chemical Bonding/2.3.28 Ionic transfer between metal and non-metal resized.jpg",
+    "keywords": [
+      "iron",
+      "t-shirt"
+    ],
+    "question": "What is ionic bonding?"
+  },
+  {
+    "term": "Ionic bonding",
+    "definition": "A type of chemical bonding that occurs between metals and non-metals, as seen in ionic compounds like sodium chloride.",
+    "mnemonic": "To remember that salt is an example of an ionic compound, think of a salt shaker wearing the robot t-shirt (electron transfer).",
+    "image": "/images/user/base/Chemistry/3. Chemical Bonding/2.3.29 Sodium chloride is Ionic bonded resized.jpg",
+    "keywords": [
+      "salt shaker",
+      "robot t-shirt"
+    ],
+    "question": "What is ionic bonding?"
+  },
+  {
+    "term": "Ionic compounds",
+    "definition": "All ionic compounds are salts except oxides (metal + oxygen) and hydroxides (metal + hydrogen).",
+    "mnemonic": "All the salt shakers wear transfer t-shirts (ionic bonding).",
+    "image": "/images/user/base/Chemistry/3. Chemical Bonding/2.3.34 All ionic compounds are salts resized.jpg",
+    "keywords": [
+      "salt shakers",
+      "transfer"
+    ],
+    "question": "What are ionic compounds?"
+  },
+  {
+    "term": "Ionic bonding",
+    "definition": "The electrostatic force of attraction between a positively charged metal and a negatively charged non-metal.",
+    "mnemonic": "The iconic (ionic) man attracted lots of women.",
+    "image": "/images/user/base/Chemistry/ionic-bonding-2-in-chemical-bonding.d4d398f.jpg",
+    "keywords": [
+      "ionic",
+      "attracted"
+    ],
+    "question": "What is ionic bonding?"
+  },
+  {
+    "term": "Ionic bonding",
+    "definition": "Ionic bonding is the formation of a bond because a metal and non-metal are attracted to each other.",
+    "mnemonic": "A metal and non-metal person were attracted to each other. How ironic – how ionic.",
+    "image": "/images/user/base/Chemistry/ionic-bonding-2-in-chemical-bonding-2.c627c99.jpg",
+    "keywords": [
+      "ironic",
+      "ionic"
+    ],
+    "question": "What is ionic bonding?"
+  },
+  {
+    "term": "Ionic bonding",
+    "definition": "Ionic bonding forms ionic compounds like sodium chloride (salt).",
+    "mnemonic": "To remember that salt is an example of an ionic compound, think of a salt shaker wearing the Einstein tee-shirt with women attracted to him.",
+    "image": "/images/user/base/Chemistry/ionic-bonding-2-in-chemical-bonding-3.3fa19c8.jpg",
+    "keywords": [
+      "salt",
+      "attracted"
+    ],
+    "question": "What is ionic bonding?"
+  },
+  {
+    "term": "Ionic Compounds",
+    "definition": "All ionic compounds are salts except oxides (metal + oxygen) and hydroxides (metal + hydrogen).",
+    "mnemonic": "All the salt (NaCl) shakers wear Einstein tee shirts with women attracted to him (ionic bond).",
+    "image": "/images/user/base/Chemistry/ionic-bonding-2-in-chemical-bonding-4.1562aca.jpg",
+    "keywords": [
+      "All",
+      "the",
+      "attracted"
+    ],
+    "question": "What are ionic compounds?"
+  },
+  {
+    "term": "Redox Reactions",
+    "definition": "A reaction that involves the transfer of electrons between elements and then an immediate bond.",
+    "mnemonic": "The word 'REDOX' is made from words that describe the two reactions: reduction and oxidation.",
+    "image": "/images/user/base/Chemistry/2.14.4-oxidation-and-reduction.04945c3.jpg",
+    "keywords": [
+      "red",
+      "ox"
+    ],
+    "question": "What are redox reactions?"
+  },
+  {
+    "term": "Oxidation and Reduction",
+    "definition": "Oxidation is the loss of electrons and reduction is the gain of electrons.",
+    "mnemonic": "OIL RIG: Oxidation Is the Loss of electrons, Reduction Is the Gain of electrons.",
+    "image": "/images/user/base/Chemistry/2.14.4-oxidation-and-reduction.04945c3.jpg",
+    "keywords": [
+      "Oxidation",
+      "Loss",
+      "Reduction",
+      "Gain"
+    ],
+    "question": "What is oxidation and reduction?"
+  },
+  {
+    "term": "Metallic bonding",
+    "definition": "Metallic bonding occurs between metals and involves strong metallic bonds and a 'sea of electrons'.",
+    "mnemonic": "The robots (electrons) form a ‘sea of electrons’.",
+    "image": "/images/user/base/Chemistry/3. Chemical Bonding/sea-of-electrons-new--1.c65c71f.jpg",
+    "keywords": [
+      "sea of electrons"
+    ],
+    "question": "What is metallic bonding?"
+  },
+  {
+    "term": "Metallic bonding",
+    "definition": "Metal atoms are held together by strong metallic bonds due to a sea of delocalised electrons that are attracted to the positive nuclei.",
+    "mnemonic": "Imagine a sea of electrons holding metal atoms together strongly.",
+    "image": "/images/user/base/Chemistry/3. Chemical Bonding/2.3.40 Metal atoms are held together strongly resized.jpg",
+    "keywords": [
+      "sea of electrons"
+    ],
+    "question": "What is metallic bonding?"
+  },
+  {
+    "term": "Metallic bonding",
+    "definition": "A type of chemical bonding that occurs in metals, characterized by a sea of shared electrons.",
+    "mnemonic": "The heavy metal band was made up of coppers.",
+    "image": "/images/user/base/Chemistry/3. Chemical Bonding/2.3.42 Copper memory aid resized.jpg",
+    "keywords": "coppers",
+    "question": "What is metallic bonding?"
+  },
+  {
+    "term": "Shiny Metals",
+    "definition": "Free electrons in metallic substances reflect light, making them shiny.",
+    "mnemonic": "Copper can be made to look shiny.",
+    "image": "/images/user/base/Chemistry/3. Chemical Bonding/2.3.43 Metal is shiny image resized2.jpg",
+    "keywords": [
+      "copper"
+    ],
+    "question": "Why are metals shiny?"
+  },
+  {
+    "term": "Malleable Metals",
+    "definition": "Metallic bonding allows molecules to slide over one another, making metals malleable so they can be bent, hammered, pressed, or rolled into shape without breaking.",
+    "mnemonic": "Copper can be bent into shape.",
+    "image": "/images/user/base/Chemistry/3. Chemical Bonding/2.3.44 Metal can be bent.jpg",
+    "keywords": [
+      "copper"
+    ],
+    "question": "Why are metals like copper considered malleable?"
+  },
+  {
+    "term": "Acids",
+    "definition": "A substance with a pH of less than 7.",
+    "mnemonic": "A seed (acid) is driving a car that won't go any faster than 7 MpH (acids are less than 7 on the PH scale) because it is so small it can't push the accelerator pedal down any further (so an acid pH is from 1 to 7).",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.4 Acids 7 or less on ph image Resized.jpg",
+    "keywords": [
+      "seed",
+      "7 MpH"
+    ],
+    "question": "What is the pH range of acids?"
+  },
+  {
+    "term": "Acid",
+    "definition": "An acid will always be in a water solution.",
+    "mnemonic": "A seed (acid) always needs water to survive.",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.5 Acids need water image Resized.jpg",
+    "keywords": [
+      "A seed",
+      "water"
+    ],
+    "question": "What state is an acid typically found in?"
+  },
+  {
+    "term": "Acids",
+    "definition": "All acids contain hydrogen.",
+    "mnemonic": "Inside a seed (acid) is a high dragon (hydrogen).",
+    "image": "/images/user/base/Chemistry/2.5.6 Acids need water image (2).jpg",
+    "keywords": [
+      "a seed",
+      "high dragon"
+    ],
+    "question": "What do all acids contain?"
+  },
+  {
+    "term": "Base",
+    "definition": "A base can neutralise an acid.",
+    "mnemonic": "A bass (base) drum can stop (neutralise) a seed (acid).",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.7 Bases neutralise acids mnemonic Resized.jpg",
+    "keywords": [
+      "bass",
+      "stop",
+      "seed"
+    ],
+    "question": "What is a base in chemistry?"
+  },
+  {
+    "term": "Metal oxides",
+    "definition": "Metal oxides are basic; they react with water to form bases such as hydroxides.",
+    "mnemonic": "Metal + Ox hide (oxide) = Base drum (base)",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.8-metal-oxides-are-basic-resized-1.d7308a1.jpg",
+    "keywords": [
+      "Metal",
+      "Ox hide",
+      "Base"
+    ],
+    "question": "What are metal oxides?"
+  },
+  {
+    "term": "Metal + acid = salt + hydrogen",
+    "definition": "When metals react with acids, they produce a salt and hydrogen gas.",
+    "mnemonic": "Think of MASH (Metal + Acid = Salt + Hydrogen).",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.9 Metal makes salt exposed to acid Resized.jpg",
+    "keywords": [
+      "MASH",
+      "Metal",
+      "Seed",
+      "Metal band",
+      "Mash"
+    ],
+    "question": "What happens when metals react with acids?"
+  },
+  {
+    "term": "Acid + base",
+    "definition": "When acids react with bases, they produce a salt and water. This is known as a neutralisation reaction.",
+    "mnemonic": "When a seed (acid) played her bass (base) drum she became very upset and began to cry salty tears (salt + water).",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.10 Acid and base give salt and water Resized.jpg",
+    "keywords": [
+      "a seed",
+      "bass",
+      "salty tears"
+    ],
+    "question": "What happens when an acid reacts with a base?"
+  },
+  {
+    "term": "Salts",
+    "definition": "Ionic compounds, excluding oxides and hydroxides.",
+    "mnemonic": "All the salt shakers wear transfer t-shirts (ionic bonding).",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.12 All salts are ionic compounds Resized.jpg",
+    "keywords": [
+      "salt",
+      "transfer"
+    ],
+    "question": "What are salts in chemistry?"
+  },
+  {
+    "term": "Universal indicator",
+    "definition": "A combination of dyes used to indicate the pH of a substance and whether it is an acid or an alkali.",
+    "mnemonic": "The indicator (universal indicator) of a car in space (universe) is flashing as it turns towards ‘alkali’ or ‘acid’.",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.13-Universal-indicator-gif-Resized.gif",
+    "keywords": [
+      "indicator",
+      "space"
+    ],
+    "question": "What is a universal indicator?"
+  },
+  {
+    "term": "Acids",
+    "definition": "Acids turn red when an indicator is added.",
+    "mnemonic": "You would try to kill a zombie with a bath of acid, which would turn red if you did! (Acidic solutions turn universal indicator red).",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.14 Acids turn red memory aid Resized.jpg",
+    "keywords": [
+      "acid",
+      "red"
+    ],
+    "question": "What happens to the color of the indicator when acids are present?"
+  },
+  {
+    "term": "Neutral solution",
+    "definition": "A neutral solution (like water) will turn green",
+    "mnemonic": "Think of a gear stick sticking out of a chameleon; when the gear stick is in the neutral position, the chameleon turns green.",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.15 Neutral substances turn green mnemonic Resized.jpg",
+    "keywords": [
+      "neutral",
+      "green"
+    ],
+    "question": "What happens to a neutral solution in terms of color?"
+  },
+  {
+    "term": "Alkaline solution",
+    "definition": "An alkaline solution will turn universal indicator blue or purple.",
+    "mnemonic": "Bleach (an alkaline) comes in a blue bottle.",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.16 Alkali substances turn blue purple mnemonic Resized.jpg",
+    "keywords": [
+      "blue",
+      "bleach"
+    ],
+    "question": "What color does an alkaline solution turn on a universal indicator?"
+  },
+  {
+    "term": "pH scale",
+    "definition": "The pH scale is used to determine the strength of an acid or alkali. It is numbered from 0 to 14, with each number associated with a particular colour.",
+    "mnemonic": "Remember the old saying ‘Richard Of York Gave Battle In Vain’.",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.20 The pH scale with examples graphic.jpg",
+    "keywords": [
+      "Richard",
+      "York",
+      "Gave",
+      "Battle",
+      "Vain"
+    ],
+    "question": "What is the pH scale used for?"
+  },
+  {
+    "term": "Acid formation",
+    "definition": "An acid is formed when the number of H+ ions in water is thrown out of balance.",
+    "mnemonic": "Too many H+ ions (hippo) makes water unbalanced.",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.27 Imbalance in H ions makes acid resized.jpg",
+    "keywords": [
+      "Hippo"
+    ],
+    "question": "What is acid formation?"
+  },
+  {
+    "term": "H+ ions",
+    "definition": "H+ ions make acids reactive and attack most things they come into contact with because they are hungry for electrons.",
+    "mnemonic": "The hippos (H+ ions) attack things because they are hungry for electric robots (electrons).",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.28 H ions are hungry memory aid resized.jpg",
+    "keywords": [
+      "hippos",
+      "electric robots"
+    ],
+    "question": "Why are H+ ions significant in making acids reactive?"
+  },
+  {
+    "term": "H+ ions",
+    "definition": "H+ ions latch onto H2O molecules temporarily until they find something to attack.",
+    "mnemonic": "The hippo (H+) doesn’t like being alone so it gets a piggyback on a bucket of water until it can find something to attack.",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.24 Cations latch onto onto water molecules resized.jpg",
+    "keywords": [
+      "hippo",
+      "piggyback",
+      "water"
+    ],
+    "question": "What do H+ ions do when they are not attacking other substances?"
+  },
+  {
+    "term": "H⁺ ion",
+    "definition": "An H⁺ ion is a hydrogen atom that has lost its electron, making it equivalent to a proton.",
+    "mnemonic": "It turns out that the Hippo (H⁺) was a pea (proton) in disguise all along!",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.30 H ions are protons in disguise image resized.jpg",
+    "keywords": [
+      "Hippo",
+      "pea"
+    ],
+    "question": "What is an H⁺ ion?"
+  },
+  {
+    "term": "Acids",
+    "definition": "Substances that give away a proton (H+ ion) when they react with something.",
+    "mnemonic": "You can remember this by seeing a pea (proton) being given as a present (given away).",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.31 Acids donate protons memory aid resized.jpg",
+    "keywords": [
+      "pea",
+      "given as a present"
+    ],
+    "question": "What are acids in terms of their chemical reaction properties?"
+  },
+  {
+    "term": "Water",
+    "definition": "Water dissolves acids, removing the hydrogen atom and producing a hydrogen+ ion, also known as a roaming proton.",
+    "mnemonic": "Imagine a seed (acid) about to be broken up by water.",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.32 Water removes H ion resized.jpg",
+    "keywords": [
+      "seed",
+      "water"
+    ],
+    "question": "How does water interact with acids on a chemical level?"
+  },
+  {
+    "term": "Titration",
+    "definition": "A method for determining the concentration of a substance in a solution by gradually adding another substance until a reaction occurs.",
+    "mnemonic": "To remember titration, think of a classroom where the pupils are ties (titration). Some ties are concentrating harder than others (they are at different levels of concentration).",
+    "image": "/images/user/base/Chemistry/5. Acids, Alkali, Bases and Salts/2.5.33 Titration mnemonic resized.jpg",
+    "keywords": [
+      "ties",
+      "concentrating"
+    ],
+    "question": "What is titration?"
+  },
+  {
+    "term": "Hydrocarbon",
+    "definition": "A chemical compound containing only carbon and hydrogen atoms.",
+    "mnemonic": "Picture a high dragon landing on a burning car.",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/2.9.1 Hydrogen and carbon memory aid.jpg",
+    "keywords": [
+      "high dragon",
+      "burning car"
+    ],
+    "question": "What is a hydrocarbon?"
+  },
+  {
+    "term": "Meth",
+    "definition": "1 carbon atom",
+    "mnemonic": "Me teeth eating a bun (Meth = 1)",
+    "image": null,
+    "keywords": [
+      "Me teeth",
+      "bun"
+    ],
+    "question": "What is the shortest parabolic formula for Meth in organic chemistry?"
+  },
+  {
+    "term": "Eth",
+    "definition": "2 carbon atoms",
+    "mnemonic": "Death wearing bright shoes (Eth = 2)",
+    "image": null,
+    "keywords": [
+      "Death",
+      "shoe"
+    ],
+    "question": "What does \"Eth\" represent in terms of carbon atoms?"
+  },
+  {
+    "term": "Prop",
+    "definition": "3 carbon atoms",
+    "mnemonic": "Propeller in a tree (Prop = 3)",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/How to remember hydrocarbons/Prop has 3 carbon atoms 1.jpg",
+    "keywords": [
+      "Propeller",
+      "tree"
+    ],
+    "question": "How many carbon atoms are in a prop molecule?"
+  },
+  {
+    "term": "But",
+    "definition": "4 carbon atoms",
+    "mnemonic": "Beautiful person in doorway (But = 4)",
+    "image": null,
+    "keywords": [
+      "Beautiful",
+      "door"
+    ],
+    "question": "What is the prefix for an alkane with 4 carbon atoms?"
+  },
+  {
+    "term": "Anes (Alkanes)",
+    "definition": "Single carbon bond",
+    "mnemonic": "Walking canes standing in a shingle beach (single (bond) = anes)",
+    "image": null,
+    "keywords": [
+      "Cane",
+      "Shingle"
+    ],
+    "question": "What type of bond is found in alkanes?"
+  },
+  {
+    "term": "Enes (Alkenes)",
+    "definition": "Double carbon bond",
+    "mnemonic": "Our two Queens need two James Bonds (Double Bond = ene)",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/How to remember hydrocarbons/Propene molecular bonds.jpg",
+    "keywords": [
+      "Queen",
+      "Two James Bond"
+    ],
+    "question": "What type of bond characterizes alkenes?"
+  },
+  {
+    "term": "Alkanes",
+    "definition": "Alkanes have single covalent bonds.",
+    "mnemonic": "To remember this, think of some canes (alkanes) on a shingle (single) beach.",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/2.9.20 Alkanes have single bonds memory aid.jpg",
+    "keywords": [
+      "canes",
+      "shingle"
+    ],
+    "question": "What type of bonds do alkanes have?"
+  },
+  {
+    "term": "Alkenes",
+    "definition": "Alkenes have a double carbon bond.",
+    "mnemonic": "We think of an alkene as being a queen. Our queens have two James Bonds (a double bond).",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/2.9.21 Alkenes have double bonds mnemonic.jpg",
+    "keywords": [
+      "queen",
+      "two James Bonds"
+    ],
+    "question": "What structural feature characterizes alkenes?"
+  },
+  {
+    "term": "Meth",
+    "definition": "Molecules beginning with ‘meth’ have only one carbon atom.",
+    "mnemonic": "1 = bun, meth = me teeth",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/2.9.22 Meth has one carbon memory aid.jpg",
+    "keywords": [
+      "meth",
+      "me teeth",
+      "one",
+      "bun"
+    ],
+    "question": "What does the prefix \"meth\" in chemistry indicate about the structure of a molecule?"
+  },
+  {
+    "term": "Eth-",
+    "definition": "Molecules with the prefix ‘eth-’ contain two carbon atoms.",
+    "mnemonic": "‘Eth’ is the grim reaper (the mascot of death) wearing two shoes.",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/2.9.23 Eth has 2 carbon memory prompt.jpg",
+    "keywords": [
+      "death",
+      "two"
+    ],
+    "question": "What does the prefix \"eth-\" indicate in molecules?"
+  },
+  {
+    "term": "Prop",
+    "definition": "Molecules of propene or propane have three carbon atoms.",
+    "mnemonic": "To remind you that there are three carbon atoms in hydrocarbons starting with ‘prop-’, here is a propeller stuck in a tree (three).",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/prop.c8a2f8a.jpg",
+    "keywords": [
+      "propeller",
+      "tree"
+    ],
+    "question": "What does \"prop\" in hydrocarbons indicate about the number of carbon atoms?"
+  },
+  {
+    "term": "But- (pronounced ‘bute’)",
+    "definition": "Molecules beginning with ‘but-’ have four carbon atoms.",
+    "mnemonic": "To remember how many carbon atoms are in hydrocarbons beginning with ‘but-’ (pronounced ‘bute’), think of a beautiful man looking over a stable door (four).",
+    "image": "/images/user/base/Chemistry/9.%20Hydrocarbons/2.9.25%20But%20has%204%20carbon%20atoms%20diagram.jpg",
+    "keywords": [
+      "beaut",
+      "door"
+    ],
+    "question": "What does the prefix \"but-\" indicate about the number of carbon atoms in a molecule?"
+  },
+  {
+    "term": "Butene",
+    "definition": "An alkene with the molecular formula C4H8, containing four carbon atoms and a double bond.",
+    "mnemonic": "But- → beautiful → door → four → 4 carbon atoms\n-ene → Queen → two James Bonds → double bond → double carbon bond",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/2.9.46 Butene molecular bonds image resized.jpg",
+    "keywords": [
+      "But-",
+      "beautiful",
+      "door",
+      "four",
+      "-ene",
+      "Queen",
+      "James Bonds"
+    ],
+    "question": "What is butene?"
+  },
+  {
+    "term": "Methanol",
+    "definition": "CH3OH, a hydrocarbon with one carbon atom and an OH attachment.",
+    "mnemonic": "Meth = Me teeth eating a bun = Meth is 1 carbon. Anol means OH is attached.",
+    "image": null,
+    "keywords": [
+      "Meth",
+      "Me teeth",
+      "Anol",
+      "OH"
+    ],
+    "question": "What is methanol?"
+  },
+  {
+    "term": "Ethanol",
+    "definition": "A hydrocarbon with 2 carbon atoms and an OH attachment.",
+    "mnemonic": "Eth - Death - with red shoes = Eth is 2. 'an old' - pharaoh = OH",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/Ethanol fix.jpg",
+    "keywords": [
+      "Eth",
+      "Death",
+      "An old",
+      "pharaoh",
+      "OH"
+    ],
+    "question": "What is ethanol?"
+  },
+  {
+    "term": "Butanol",
+    "definition": "A hydrocarbon with 4 carbon atoms and an OH attachment.",
+    "mnemonic": "4 = Door = Beauty in doorway = But. OH = Pharaoh = An old = Anol",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/2.9.59 Butanol molecular bonds image resized.jpg",
+    "keywords": [
+      "But",
+      "Door",
+      "An old",
+      "Anol",
+      "OH"
+    ],
+    "question": "What is butanol?"
+  },
+  {
+    "term": "Alcohols",
+    "definition": "Compounds ending in -anol which means the formula ends in -OH.",
+    "mnemonic": "Think of an old pharaoh (OH) who is an alcoholic (alcohol).",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/2.9.26 Alcohols end with anol memory aid.jpg",
+    "keywords": [
+      "anol",
+      "OH",
+      "alcohol"
+    ],
+    "question": "What are alcohols?"
+  },
+  {
+    "term": "Methanol",
+    "definition": "Methanol is a chemical compound with the formula CH3OH, consisting of one carbon atom and an OH group.",
+    "mnemonic": "Methanol is remembered as 'me teeth' for 'meth-' (1 carbon atom), and 'an old pharaoh' for '-anol' (OH group).",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/2.9.50 Methanol molecular bonds image resized.jpg",
+    "keywords": [
+      "me teeth",
+      "bun",
+      "one",
+      "an old",
+      "pharaoh"
+    ],
+    "question": "What is the chemical composition of methanol?"
+  },
+  {
+    "term": "Ethanol",
+    "definition": "Ethanol, with the chemical formula C2H5OH, is a type of alcohol with two carbon atoms and one hydroxyl group (OH).",
+    "mnemonic": "Eth- → death → shoe → two → 2 carbon atoms; -anol → an old → an old pharaoh → pharaoh → OH",
+    "image": [
+      "/images/user/base/Chemistry/9. Hydrocarbons/Ethanol fix.jpg",
+      "/images/user/base/Chemistry/9. Hydrocarbons/2.9.54 Ethanol atomic shells structure.jpg",
+      "/images/user/base/Chemistry/7. Chemical Formulae/2.7.6 Ethanol molecular structure (2).jpg"
+    ],
+    "keywords": [
+      "Eth-",
+      "-anol"
+    ],
+    "question": "What is the chemical structure of ethanol?"
+  },
+  {
+    "term": "Propanol",
+    "definition": "Propanol is an alcohol with the chemical formula C3H7OH, consisting of three carbon atoms and an OH group.",
+    "mnemonic": "Prop- → propeller → tree → three → 3 carbon atoms; -anol → an old → an old pharaoh → pharaoh → OH, making propanol C3H7OH.",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/2.9.56 Propanol molecular bonds image resized.jpg",
+    "keywords": [
+      "Prop-",
+      "-anol"
+    ],
+    "question": "What is the chemical structure of propanol?"
+  },
+  {
+    "term": "Butanol",
+    "definition": "C4H9OH",
+    "mnemonic": "But- → beautiful → door → four → 4 carbon atoms; -anol → an old → an old pharaoh → pharaoh → OH.",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/2.9.59 Butanol molecular bonds image resized.jpg",
+    "keywords": [
+      "But-",
+      "beautiful",
+      "door",
+      "four",
+      "-anol",
+      "an old",
+      "pharaoh"
+    ],
+    "question": "What is the chemical formula for butanol?"
+  },
+  {
+    "term": "Isomers",
+    "definition": "Isomers are chemicals that have the same molecular formula but a different arrangement of atoms. This results in different physical properties due to variance in the strength of bonds (intermolecular forces).",
+    "mnemonic": "Think of ice in summer (is-omer). The ice cubes in the image are arranged differently like the atoms in isomers.",
+    "image": "/images/user/base/Chemistry/9. Hydrocarbons/2.9.62 Isomer mnemonic.jpg",
+    "keywords": [
+      "ice",
+      "summer",
+      "arranged",
+      "differently"
+    ],
+    "question": "What are isomers?"
+  },
+  {
+    "term": "Electrolysis",
+    "definition": "Electrolysis is “splitting” a liquid with DC (direct current) electricity.",
+    "mnemonic": "Think of an electric trolley (electrolysis) “splitting” liquid, like Moses parting the sea in the Old Testament.",
+    "image": "/images/user/base/Chemistry/11.Electrolysis/2.11.1 Electrolysis mnemonic.jpg",
+    "keywords": [
+      "electric",
+      "splitting"
+    ],
+    "question": "What is electrolysis?"
+  },
+  {
+    "term": "Electrolysis and Hydrogen",
+    "definition": "If the liquid contains hydrogen, it will form at the cathode and be released as gas unless the solution contains a metal less reactive than hydrogen.",
+    "mnemonic": "Imagine a high dragon (hydrogen) clinging to the roof of a cathedral (cathode).",
+    "image": "/images/user/base/Chemistry/11.Electrolysis/2.11.18 Hydrogen given off by cathode memory aid.jpg",
+    "keywords": [
+      "hydrogen",
+      "cathode"
+    ],
+    "question": "What happens during electrolysis when the liquid contains hydrogen?"
+  },
+  {
+    "term": "Electrolysis and halogens",
+    "definition": "If the solution being electrolyzed contains a halogen (e.g., chlorine or bromine), the halogen forms at the anode. If no halogen is present, oxygen forms at the anode.",
+    "mnemonic": "When a solution contains halogens (angels with halos), they are attracted to the annoyed android (anode) as they want to soothe him and stop him being so annoyed.",
+    "image": "/images/user/base/Chemistry/11.Electrolysis/2.11.20 Halogens form on the anode image.jpg",
+    "keywords": [
+      "halogens",
+      "halos",
+      "anode"
+    ],
+    "question": "What happens at the anode during electrolysis if the solution contains halogens?"
+  },
+  {
+    "term": "Positive Anode, Negative is Cathode (PANIC)",
+    "definition": "The anode is positive and the cathode is negative in electrolysis.",
+    "mnemonic": "Positive Anode, Negative is Cathode (PANIC)",
+    "image": null,
+    "keywords": [
+      "PANIC"
+    ],
+    "question": "What is the mnemonic for remembering the charges in electrolysis where the anode is positive and the cathode is negative?"
+  },
+  {
+    "term": "Electrolyte",
+    "definition": "The electrolyte is the liquid that “splits” when electricity is passed through it.",
+    "mnemonic": "Think of an electric troll light (electrolyte) swimming underwater (liquid).",
+    "image": "/images/user/base/Chemistry/11.Electrolysis/2.11.22 Electrolyte Mnemonic.jpg",
+    "keywords": [
+      "electric troll light",
+      "electrolyte",
+      "liquid"
+    ],
+    "question": "What is an electrolyte?"
+  },
+  {
+    "term": "Cathode and Anode",
+    "definition": "An electrode where the anode is positive and the cathode is negative.",
+    "mnemonic": "PANIC: Positive Anode, Negative Is Cathode",
+    "image": "/images/user/base/Chemistry/11.Electrolysis/2.11.23 PANIC acronym memory aid.jpg",
+    "keywords": [
+      "P",
+      "A",
+      "N",
+      "I",
+      "C"
+    ],
+    "question": "What are cathode and anode described as in terms of charge?"
+  },
+  {
+    "term": "Cathode",
+    "definition": "In electrolysis, cathodes give out electrons.",
+    "mnemonic": "The electronic robots (electrons) are booted out of the cathedral (cathode) because robots are not allowed in the cathedral.",
+    "image": "/images/user/base/Chemistry/11.Electrolysis/2.11.24 Cathodes give off electrons image.jpg",
+    "keywords": [
+      "cathedral",
+      "cathode"
+    ],
+    "question": "What is the role of a cathode in electrolysis?"
+  },
+  {
+    "term": "Oxidation and Reduction",
+    "definition": "Oxidation is the loss of electrons, reduction is the gain of electrons.",
+    "mnemonic": "Remember OIL RIG – Oxidation is loss, reduction is gain.",
+    "image": null,
+    "keywords": [
+      "OIL RIG"
+    ],
+    "question": "What are oxidation and reduction in terms of electron transfer?"
+  },
+  {
+    "term": "Reduction",
+    "definition": "takes place at cathodes",
+    "mnemonic": "Imagine that a red duck shone (reduction) a light on the cathedral (cathode).",
+    "image": "/images/user/base/Chemistry/11.Electrolysis/2.11.25 Reduction takes place at the cathode image.jpg",
+    "keywords": [
+      "red duck",
+      "cathedral"
+    ],
+    "question": "In electrochemistry, where does reduction take place?"
+  },
+  {
+    "term": "Oxidation",
+    "definition": "takes place at the Anode",
+    "mnemonic": "Anode is oxidation is AN OX.",
+    "image": "/images/user/base/Chemistry/ionic-bonding-2-in-chemical-bonding-9.4ab2c55.jpg",
+    "keywords": [
+      "AN OX"
+    ],
+    "question": "What occurs at the anode during a redox reaction?"
+  },
+  {
+    "term": "Cations",
+    "definition": "A cation is a positively-charged atom or ion.",
+    "mnemonic": "Cations have a pawsitive (positive) charge.",
+    "image": "/images/user/base/Chemistry/11.Electrolysis/2.11.26 Cations are positively charged image.jpg",
+    "keywords": [
+      "pawsitive",
+      "positive"
+    ],
+    "question": "What is a cation?"
+  },
+  {
+    "term": "Anions",
+    "definition": "An anion is a negatively-charged atom or ion.",
+    "mnemonic": "Therefore, anions have a negative charge.",
+    "image": "/images/user/base/Chemistry/11.Electrolysis/2.11.26 Cations are positively charged image.jpg",
+    "keywords": [],
+    "question": "What are anions?"
+  },
+  {
+    "term": "Cations",
+    "definition": "Positively charged ions that move towards the cathode during electrolysis.",
+    "mnemonic": "Cats (cations) swimming towards the cathedral (cathode) during electrolysis. And, because cations are pawsitive (positive), the cathode must be negative.",
+    "image": "/images/user/base/Chemistry/11.Electrolysis/2.11.27 Cations are attracted to the cathode .jpg",
+    "keywords": [
+      "cats",
+      "cathedral",
+      "pawsitive"
+    ],
+    "question": "What are cations?"
+  },
+  {
+    "term": "Electrodes",
+    "definition": "Electrodes are normally made of inert (unreactive) materials such as graphite or platinum.",
+    "mnemonic": "Imagine people electing a toad (elect toad, electrode). The toad shows no emotion at the result – he’s unreactive, or inert – unlike the losing candidates.",
+    "image": "/images/user/base/Chemistry/11.Electrolysis/2.11.28 Electrodes are inert memory aid.jpg",
+    "keywords": [
+      "electrode",
+      "elect toad",
+      "inert"
+    ],
+    "question": "What are electrodes usually made of, and why are these materials chosen?"
+  },
+  {
+    "term": "Electrolysis",
+    "definition": "A process where components of a liquid dissociate from each other.",
+    "mnemonic": "Imagine you had a cup of tea in front of you, and the components in the water – tea, milk and sugar – got out and started running away, dissociating themselves from each other.",
+    "image": "/images/user/base/Chemistry/11.Electrolysis/2.11.31 Dissociation image.jpg",
+    "keywords": [
+      "dissociating"
+    ],
+    "question": "What is electrolysis?"
+  },
+  {
+    "term": "Mole",
+    "definition": "A mole is a number equal to 6x10^23, known as Avogadro's Constant.",
+    "mnemonic": "On the 6th day, God created mole and man. The mole did a high ten with God and thanked Her. Then there were two. And then they made three.",
+    "image": "/images/user/base/Chemistry/12. Moles/2.12.3 Mole mnemonic to remember 6.jpg",
+    "keywords": [
+      "6",
+      "ten",
+      "two",
+      "three"
+    ],
+    "question": "What is a mole in chemistry?"
+  },
+  {
+    "term": "mole of an ideal gas",
+    "definition": "A mole of an ideal gas occupies a volume of 24 liters at room temperature and pressure (RTP).",
+    "mnemonic": "The mole had an upset (gas-filled) tummy and had to go to bed for 24 hours.",
+    "image": "/images/user/base/Chemistry/12. Moles/2.12.15 Remembering a mole of ideal gas.jpg",
+    "keywords": [
+      "mole",
+      "gas",
+      "24"
+    ],
+    "question": "What is the volume occupied by a mole of an ideal gas at room temperature and pressure (RTP)?"
+  },
+  {
+    "term": "Ideal Gas",
+    "definition": "An ideal gas is any atom or molecule that exists with a full outer shell.",
+    "mnemonic": "Ideally, the gasoline tank is completely filled.",
+    "image": "/images/user/base/Chemistry/12. Moles/2.12.16 Mnemonic of ideal gas.jpg",
+    "keywords": [
+      "Ideal",
+      "gas"
+    ],
+    "question": "What constitutes an ideal gas?"
+  },
+  {
+    "term": "Test for Hydrogen",
+    "definition": "A chemical element with a lit wooden splint making a popping sound in its presence.",
+    "mnemonic": "A lit wooden splint makes a popping sound in a test tube of hydrogen.",
+    "image": "/images/user/base/uncategorised/Reactivity series explained 5.jpg",
+    "keywords": [
+      "dragon",
+      "popped"
+    ],
+    "question": "What is the test for Hydrogen?"
+  },
+  {
+    "term": "Test for oxygen",
+    "definition": "A gas that will relight a glowing wooden splint.",
+    "mnemonic": "A glowing ox (oxygen)",
+    "image": "/images/user/base/Chemistry/6. Laboratory Tests/2.6.2 Test for oxygen memory aid (2).jpg",
+    "keywords": [
+      "glow",
+      "ox"
+    ],
+    "question": "What is the test for oxygen?"
+  },
+  {
+    "term": "Test for carbon dioxide",
+    "definition": "When carbon dioxide (CO2) is bubbled through lime water, the lime water will turn cloudy white.",
+    "mnemonic": "A car (carbon) driven by two oxen (oxygen) through a burning hoop into cloudy white water full of crocodile-like limes (lime water).",
+    "image": "/images/user/base/Chemistry/6. Laboratory Tests/Test for carbon dioxide.jpg",
+    "keywords": [
+      "car",
+      "two oxen",
+      "burning",
+      "cloudy white water",
+      "limes"
+    ],
+    "question": "What is the test for carbon dioxide?"
+  },
+  {
+    "term": "The structure of the earth",
+    "definition": "The structure of the earth is made up of three parts: the core, mantle, and crust.",
+    "mnemonic": "The crust from a slice of bread is surrounding a mantelpiece (mantle) whilst an apple core burns underneath.",
+    "image": "/images/user/base/Chemistry/13. Earths Structure/2.13.1 Three layers of the earth mnemonic.jpg",
+    "keywords": [
+      "crust",
+      "mantle",
+      "core"
+    ],
+    "question": "What are the three main parts of the structure of the earth?"
+  },
+  {
+    "term": "Lithosphere",
+    "definition": "The lithosphere includes the earth’s crust and the upper mantle and is broken into tectonic plates.",
+    "mnemonic": "Lifting a sphere (lithosphere) onto a mantelpiece (mantle) was done by a crusty crab (crust).",
+    "image": "/images/user/base/Chemistry/13. Earths Structure/2.13.2 Lithosphere mnemonic.jpg",
+    "keywords": [
+      "Lifting a sphere",
+      "mantelpiece",
+      "crusty crab"
+    ],
+    "question": "What is the lithosphere?"
+  },
+  {
+    "term": "Tectonic plates",
+    "definition": "The surface of the Earth is split up into a number of large sections of rock called tectonic plates.",
+    "mnemonic": "There’s a new drink in town and only the plates know about it. It’s a cocktail containing tequila and tonic (known as Tectonic).",
+    "image": "/images/user/base/Chemistry/13. Earths Structure/2.13.3 Tectonic plates image.jpg",
+    "keywords": [
+      "plates",
+      "teq",
+      "tonic"
+    ],
+    "question": "What are tectonic plates?"
+  },
+  {
+    "term": "Metamorphic rock",
+    "definition": "Rock formed by the action of heat and pressure on sedimentary or igneous rocks over long periods of time.",
+    "mnemonic": "Imagine you met someone who morphed (metamorphic) from a punk rocker to a glam rocker.",
+    "image": "/images/user/base/Chemistry/13. Earths Structure/2.13.4 Morphic gif.gif",
+    "keywords": [
+      "met",
+      "morph",
+      "rock"
+    ],
+    "question": "What is metamorphic rock?"
+  },
+  {
+    "term": "Limestone to Marble",
+    "definition": "Limestone turns into marble over millions of years from large pressures.",
+    "mnemonic": "Imagine squeezing a lime fruit, and it coming out of the squeezer as a very hard marble.",
+    "image": "/images/user/base/Chemistry/13. Earths Structure/2.13.5 Limestone forms marble image.jpg",
+    "keywords": [
+      "limestone",
+      "lime",
+      "marble"
+    ],
+    "question": "How does limestone transform into marble?"
+  },
+  {
+    "term": "Shale to Slate",
+    "definition": "Shale can turn into slate with the right amount of pressure and heat over millions of years.",
+    "mnemonic": "Imagine a mud pie being placed in an oven and coming out as a roof slate.",
+    "image": "/images/user/base/Chemistry/13. Earths Structure/2.13.6 Shale forms slate image.jpg",
+    "keywords": [
+      "shale",
+      "mud",
+      "slate",
+      "heat",
+      "oven"
+    ],
+    "question": "How does shale transform into slate over time?"
+  },
+  {
+    "term": "Igneous rock",
+    "definition": "Igneous rock is formed when molten rock cools down and solidifies.",
+    "mnemonic": "Imagine a gran who knits (granite). She is in a bath on a sea of lava, with a pumice (pumice) stone and bath salts (basalt) on the side of the bath.",
+    "image": "/images/user/base/Chemistry/13. Earths Structure/2.13.7 Volcanoes create igneous rock image.jpg",
+    "keywords": [
+      "gran",
+      "knits",
+      "pumice",
+      "bath",
+      "salts"
+    ],
+    "question": "What is igneous rock?"
+  },
+  {
+    "term": "Sedimentary rock",
+    "definition": "Sedimentary rocks are formed from layers of sediment, such as shells, sand, mud, and pebbles, that drop to the bottom of lakes or seas and are compacted over millions of years. Examples include limestone and sandstone.",
+    "mnemonic": "Imagine a cemetery (sedimentary) for shellfish at the bottom of the ocean where the gravestones are limestone that has formed over the years from the shells deposited on the bottom.",
+    "image": "/images/user/base/Chemistry/13. Earths Structure/2.13.9 Sedimentary rock image.jpg",
+    "keywords": [
+      "cemetery",
+      "limestone",
+      "shells deposited on the bottom"
+    ],
+    "question": "What are sedimentary rocks?"
+  },
+  {
+    "term": "Solvent",
+    "definition": "Can dissolve other molecules; can break apart another molecule to form a solution",
+    "mnemonic": "The mood was solemn at the event (solvent) after the rain water washed everything away.",
+    "image": "/images/user/base/chemistry/remember-solvent-in-chemistry-vocabulary.51d5e77.jpg",
+    "keywords": [
+      "sol",
+      "vent",
+      "water"
+    ],
+    "question": "What is a solvent?"
+  },
+  {
+    "term": "Solute",
+    "definition": "Compound/solid that breaks down into a liquid",
+    "mnemonic": "The car has so much looted (solute) from it. It started as a solid car but it's been broken down because it's in a rough area.",
+    "image": "/images/user/base/chemistry/remember-solute-in-chemistry-vocabulary.b060fe0.jpg",
+    "keywords": [
+      "so",
+      "loot",
+      "solid",
+      "broken down"
+    ],
+    "question": "What is a solute?"
+  },
+  {
+    "term": "Dissolve",
+    "definition": "A solid which becomes incorporated into a liquid to form a solution; absorbed into the liquid",
+    "mnemonic": "This always solves (dissolve) my problems. I just have to watch I don't get absorbed into the bath water.",
+    "image": "/images/user/base/chemistry/remember-dissolve-in-biology-vocabulary.9aae175.jpg",
+    "keywords": [
+      "solve",
+      "absorbed into"
+    ],
+    "question": "What happens when a solid becomes incorporated into a liquid to form a solution?"
+  },
+  {
+    "term": "Soluble",
+    "definition": "A substance that can be dissolved when mixed with a liquid.",
+    "mnemonic": "I sold you a bull (soluble) and a can of beans (can be).",
+    "image": "/images/user/base/chemistry/remember-soluble-in-chemistry-vocabulary.90b00f6.jpg",
+    "keywords": [
+      "sol",
+      "bull",
+      "can",
+      "be"
+    ],
+    "question": "What does it mean if a substance is soluble?"
+  },
+  {
+    "term": "Solution",
+    "definition": "When a solute is dissolved in a solvent; a liquid mixture where the solute is uniformly distributed within the solvent",
+    "mnemonic": "She thought the solution (solution) to life was to keep drinking a liquid mixture of cocktails.",
+    "image": "/images/user/base/chemistry/remember-solution-in-chemistry-vocabulary.d56c3fe.jpg",
+    "keywords": [
+      "solution",
+      "liquid mixture"
+    ],
+    "question": "What is a solution?"
+  }
+]

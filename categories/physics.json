@@ -1,0 +1,917 @@
+[
+  {
+    "term": "Speed",
+    "definition": "Speed is a measure of how fast something is moving and is calculated as distance divided by time.",
+    "mnemonic": "Speed cameras get dirty (distance) over time.",
+    "image": "/images/user/base/Physics/Physics Formula/speed-formula-mnemonic-02--physics-formulas.abe445d.jpg",
+    "keywords": [
+      "Speed"
+    ],
+    "question": "What is speed?"
+  },
+  {
+    "term": "Acceleration",
+    "definition": "A change in velocity. It depends on how quickly its velocity/speed changes. Units are usually metres per second per second (m/s/s) or metres per second squared (m/s²).",
+    "mnemonic": "Accelerator pedal to the floor changes speed to stay on time.",
+    "image": "/images/user/base/Physics/Physics Formula/acceleration-memory-aid-06-physics-karting.a865948.jpg",
+    "keywords": [
+      "Accelerator",
+      "changes speed",
+      "on time"
+    ],
+    "question": "What is acceleration?"
+  },
+  {
+    "term": "Force",
+    "definition": "Force must be applied to an object to alter its speed or change its direction of movement. It is calculated using the formula Force = mass x acceleration. Force is measured in Newtons (N).",
+    "mnemonic": "Force the mammoth (mass) away (acceleration) but she just lifted me up by the nose (Newton).",
+    "image": "https://example.com/images/user/base/Physics/Physics%20Formula/force-memory-aid-04physics-formulas-.44d1db5.jpg",
+    "keywords": [
+      "Force",
+      "ma",
+      "a",
+      "n"
+    ],
+    "question": "What is force and how is it calculated?"
+  },
+  {
+    "term": "Pressure",
+    "definition": "Pressure is a continual force applied on or against an object's surface by something in contact with it.",
+    "mnemonic": "The pressure washer forced water over a wide area.",
+    "image": "/images/user/base/Physics/Physics Formula/pressure-mnemonic-14-physics-formulas.4eb32df.jpg",
+    "keywords": [
+      "pressure",
+      "force",
+      "over",
+      "area"
+    ],
+    "question": "What is pressure?"
+  },
+  {
+    "term": "Pascal",
+    "definition": "The standard unit of pressure in the International System of Units (SI), equal to one newton per square meter.",
+    "mnemonic": "The personal assistant (Pa) sprayed her Pa (Pa) with the pressure washer because he accidentally got in the way.",
+    "image": "/images/user/base/Physics/Physics Formula/pressure-measurement-mnemonic-15-physics-formulas.bc37050.jpg",
+    "keywords": [
+      "p",
+      "a",
+      "Pa",
+      "pressure"
+    ],
+    "question": "What is the standard unit of pressure in the International System of Units (SI) named after Blaise Pascal?"
+  },
+  {
+    "term": "Work done",
+    "definition": "Work done is a measure of what is required to move an object over a distance. It is equal to the energy transferred to the object in order to move it.",
+    "mnemonic": "Work makes me MAD (mass x acceleration x distance)",
+    "image": "/images/user/base/Physics/Physics Formula/work-done-mnemonic-18-physics-formulas.dd1174f.jpg",
+    "keywords": [
+      "Work",
+      "MAD"
+    ],
+    "question": "What is work done?"
+  },
+  {
+    "term": "Gravitational Potential Energy",
+    "definition": "The energy possessed by an object due to its position in a gravitational field, calculated as mass x gravitational field strength x height moved. GP=mgh",
+    "mnemonic": "Gold plate even my grand house.",
+    "image": "/images/user/base/Physics/Physics%20Formula/gravitational-potential-energy-mnemonic-20-physics-formulas.f1b2fb7.jpg",
+    "keywords": [
+      "gold",
+      "plate",
+      "even",
+      "grand",
+      "house"
+    ],
+    "question": "What is gravitational potential energy?"
+  },
+  {
+    "term": "Gravitational Potential Energy in Joules",
+    "definition": "Gravitational potential energy is measured in Joules (J).",
+    "mnemonic": "Everything was gold plated but my jewels.",
+    "image": "/images/user/base/Physics/Physics%20Formula/gpe-measured-in-joules-21-physics-formulas.2053aa2.jpg",
+    "keywords": [
+      "jewels"
+    ],
+    "question": "What is the unit for measuring gravitational potential energy?"
+  },
+  {
+    "term": "Wave speed",
+    "definition": "The speed (velocity) at which a wave is travelling. ",
+    "mnemonic": "<span style=\"color: #ff0000;\">Speed</span>ing along she <span style=\"color: #ff0000;\">frequently (frequency) wave</span>d at <span style=\"color: #ff0000;\">length</span>.",
+    "image": "/images/user/base/Physics/Physics Formula/wave-speed-mnemonic-26-physics-formulas.8d8ec4b.jpg",
+    "keywords": [
+      "Speed",
+      "frequently",
+      "length"
+    ],
+    "question": "What is wave speed?"
+  },
+  {
+    "term": "Electrical charge",
+    "definition": "Electrical current within a circuit is the flow of electrical charge over time. The formula for calculating electrical charge is Q = It, where Q is charge, I is current, and t is time.",
+    "mnemonic": "A bull charges into the IT department.",
+    "image": "/images/user/base/Physics/Physics Formula/electrical-charge-mnemonic-31-physics1-formulas.c630ddf.jpg",
+    "keywords": [
+      "charges",
+      "IT"
+    ],
+    "question": "What is the formula for calculating electrical charge in a circuit?"
+  },
+  {
+    "term": "Coulombs",
+    "definition": "Coulombs is the unit of electrical charge.",
+    "mnemonic": "The bull charges into columns (Coulombs) of computers.",
+    "image": "/images/user/base/Physics/Physics Formula/electrical-charge-coulombs-32-physics-formulas.1aecfc9.jpg",
+    "keywords": [
+      "columns"
+    ],
+    "question": "What is the unit of electrical charge?"
+  },
+  {
+    "term": "Voltage",
+    "definition": "Voltage is the electrical pressure within a circuit that causes current to flow. It is measured in volts, and 1 volt = 1 joule per coulomb. Voltage = IR",
+    "mnemonic": "Vault (volt) into an Indian (I – current) Restaurant (R – Resistance).",
+    "image": "/images/user/base/Physics/Physics Formula/ohms-law-mnemonic-34-physics-formulas.462b8f1.jpg",
+    "keywords": [
+      "Vault",
+      "Indian",
+      "Restaurant"
+    ],
+    "question": "What is voltage in an electrical circuit?"
+  },
+  {
+    "term": "Electrical power",
+    "definition": "The rate at which electrical energy is transferred in a circuit, or the rate at which energy is consumed by an item in a circuit. E=VI",
+    "mnemonic": "Electrical power turned me into the village idiot.",
+    "image": "/images/user/base/Physics/Physics Formula/electrical-power-mnemonic-37-physics-formulas.b54d609.jpg",
+    "keywords": [
+      "v",
+      "i"
+    ],
+    "question": "What does electrical power refer to in a circuit?"
+  },
+  {
+    "term": "Power",
+    "definition": "Power is the measure of how much work is done (the distance an object is moved multiplied by the force required to do so) in a given time.",
+    "mnemonic": "The Power lifter worked the weights to the top but it took over 3 minutes. Alternatively, the Power lifter worked out in the gym over time to build his physique.",
+    "image": "/images/user/base/Physics/Physics Formula/power-memory-aid-41-physics-formulas.e24a076.jpg",
+    "keywords": [
+      "Power lifter",
+      "worked",
+      "over",
+      "over time"
+    ],
+    "question": "What is power in terms of work and time?"
+  },
+  {
+    "term": "Electrical energy",
+    "definition": "Energy needed for work in an electrical circuit, calculated as Electrical energy = voltage x current x time.",
+    "mnemonic": "No energy? You need vitamins! (VIt)",
+    "image": "/images/user/base/Physics/Physics Formula/electrical-energy-mnemonic-44-vitamin-pill1.e266fa2.jpg",
+    "keywords": [
+      "energy",
+      "vitamins",
+      "VIt"
+    ],
+    "question": "What is electrical energy?"
+  },
+  {
+    "term": "Kinetic energy",
+    "definition": "Kinetic energy is the energy possessed by a moving object.",
+    "mnemonic": "<span style=\"color: #ff0000;\">Kin</span> had good <span style=\"color: #ff0000;\">etiquette</span> (kinetic energy) by always leaving <span style=\"color: #ff0000;\">half</span> the <span style=\"color: #ff0000;\">m</span>ash and<span style=\"color: #ff0000;\"> v</span>egetables for a <span style=\"color: #ff0000;\">square</span> man.",
+    "image": "/images/user/base/Physics/Physics Formula/kinetic-energy-mnemonic-49-physics-formulas.650440f.jpg",
+    "keywords": [
+      "Kin",
+      "etiquette",
+      "half",
+      "m",
+      "v",
+      "square"
+    ],
+    "question": "What is kinetic energy?"
+  },
+  {
+    "term": "Weight",
+    "definition": "Weight is the result of gravity on an object's mass and is calculated as mass multiplied by acceleration due to gravity.",
+    "mnemonic": "Weight of a massive gun (weight = mg) held by a newt (units in Newtons).",
+    "image": "/images/user/base/Physics/remember-weight-newtons-in-physics-2.7d482df.jpg",
+    "keywords": [
+      "Weight",
+      "massive gun",
+      "newt"
+    ],
+    "question": "What is weight in terms of physics?"
+  },
+  {
+    "term": "Weight",
+    "definition": "Weight is a force measured by the pull of gravity on an object and is measured in Newtons.",
+    "mnemonic": "The newt weighed a ton (weight is in Newtons).",
+    "image": "/images/user/base/Physics/remember-weight-newtons-in-physics.5835bdb.jpg",
+    "keywords": [
+      "newt",
+      "ton"
+    ],
+    "question": "What is weight?"
+  },
+  {
+    "term": "Mass",
+    "definition": "Mass is the amount of matter in an object. Mass is measured in kilograms (KG).",
+    "mnemonic": "At mass, the Killer Granny (mass in KG) took the sermon.",
+    "image": "/images/user/base/Physics/remember-weight-mass-in-physics.baa3a41.jpg",
+    "keywords": [
+      "mass",
+      "Killer Granny",
+      "KG"
+    ],
+    "question": "What is mass?"
+  },
+  {
+    "term": "Density",
+    "definition": "Density is a measure of how tightly packed the molecules of a solid, liquid, or gas are. It is calculated as mass divided by volume.",
+    "mnemonic": "The dense city (density) was so dense they built motorways over any vegetation.",
+    "image": "/images/user/base/Physics/Physics Formula/density-mnemonic-47-physics-formulas.f3dbb74.jpg",
+    "keywords": [
+      "dense city",
+      "m",
+      "over",
+      "v"
+    ],
+    "question": "What is density?"
+  },
+  {
+    "term": "Density",
+    "definition": "Density is defined as mass divided by volume.",
+    "mnemonic": "Another way to remember the formula for density is to recall that it's 'dense to love'. The m forms the top of the heart, and the V forms the bottom of the heart.",
+    "image": "/images/user/base/Physics/density-2-in-physics.babed26.jpg",
+    "keywords": [
+      "dense",
+      "love"
+    ],
+    "question": "What is the formula for density?"
+  },
+  {
+    "term": "Combined Gas Law",
+    "definition": "The Combined Gas Law is an equation that combines Boyle's, Charles', and Gay-Lussac's laws, represented as (P1V1)/T1 = (P2V2)/T2.",
+    "mnemonic": "Potato and Vegetable on top of Table",
+    "image": "/images/user/base/Physics/Gas laws/potato and vegetable lady..jpg",
+    "keywords": [
+      "Potato",
+      "Vegetable",
+      "Table"
+    ],
+    "question": "What is the Combined Gas Law?"
+  },
+  {
+    "term": "Gas Law Constants",
+    "definition": "Boyles, Charles, and Gay Lussac's laws each relate to the formula (P1 * V1) / T1 = (P2 * V2) / T2, with each having a different constant.",
+    "mnemonic": "Boy, That Charles Picks Gay Videos!",
+    "image": "/images/user/base/Physics/Gas laws/charles and his videos.jpg",
+    "keywords": [
+      "Boyle",
+      "Temperature",
+      "Charles",
+      "Pressure",
+      "Gay",
+      "Volume"
+    ],
+    "question": "What are the Gas Law Constants?"
+  },
+  {
+    "term": "Boyle's law",
+    "definition": "temperature remains constant",
+    "mnemonic": "Once you start boiling a liquid the temperature remains constant.",
+    "image": "/images/user/base/Physics/Gas laws/boyles law - beaker liquid to vapour 2 .jpg",
+    "keywords": [
+      "boil",
+      "temperature",
+      "constant"
+    ],
+    "question": "What condition does Boyle's law require to remain constant?"
+  },
+  {
+    "term": "Charles' law",
+    "definition": "Pressure remains constant",
+    "mnemonic": "Prince Charles is under pressure all the time but must remain constantly in control.",
+    "image": "/images/user/base/Physics/Gas laws/charles law physics.jpg",
+    "keywords": [
+      "Charles",
+      "pressure",
+      "constant"
+    ],
+    "question": "What remains constant in Charles' law?"
+  },
+  {
+    "term": "Series and Parallel Circuit",
+    "definition": "A concept in physics where a big tank of water is used as an analogy for a battery, with a pipe representing the wiring and a reduction in the pipe's size representing resistance.",
+    "mnemonic": "Think of a big tank of water as the battery, and coming off the tank, a pipe with a slight reduction in size in one section (resistance) running with water (current).",
+    "image": "/images/user/base/Physics/Electricity/remember-series-parallel-circuits-in-physics-6.bf419fa.jpg",
+    "keywords": [],
+    "question": "What is the concept in physics that uses a big tank of water to illustrate the function of batteries and resistance in circuits?"
+  },
+  {
+    "term": "Brown wire",
+    "definition": "The brown wire in a plug is live.",
+    "mnemonic": "Brown is live and you'll be burnt brown if you touch it.",
+    "image": "/images/user/base/Physics/Electricity/wiring a plug/live wire.jpg",
+    "keywords": [
+      "burnt",
+      "brown"
+    ],
+    "question": "What is the purpose of the brown wire in a plug?"
+  },
+  {
+    "term": "Blue wire",
+    "definition": "The blue wire in a plug is neutral.",
+    "mnemonic": "Blue is the colour of water and the pH of water is neutral.",
+    "image": "/images/user/base/Physics/Electricity/wiring a plug/water drop.jpg",
+    "keywords": [
+      "blue",
+      "neutral"
+    ],
+    "question": "What function does the blue wire serve in a plug?"
+  },
+  {
+    "term": "Green wire",
+    "definition": "The green wire in a plug is earth.",
+    "mnemonic": "Green grass grows on the earth.",
+    "image": "/images/user/base/Physics/Electricity/wiring a plug/green gass grows on earth.jpg",
+    "keywords": [
+      "green",
+      "earth"
+    ],
+    "question": "What is the function of the green wire in a plug?"
+  },
+  {
+    "term": "Old UK Wiring Colours",
+    "definition": "Green for Earth, Black for Neutral, Red for Live.",
+    "mnemonic": "Touch red and you will be dead. Touch brown and you will also go down.",
+    "image": "/images/user/base/Physics/Electricity/wiring a plug/old wiring.jpg",
+    "keywords": [
+      "red",
+      "dead",
+      "brown",
+      "down"
+    ],
+    "question": "What were the old UK wiring colours?"
+  },
+  {
+    "term": "Electrical Current",
+    "definition": "Current is symbolized by the letter 'I' and is measured in Amps. One Amp is defined as 6.24×10^18 electrons per second passing through a point in a circuit.",
+    "mnemonic": "Currently you're under investigation by the C.I.A.",
+    "image": "/images/user/base/Physics/Electricity/CIA.jpg",
+    "keywords": [
+      "Current",
+      "C.I.A."
+    ],
+    "question": "What is electrical current?"
+  },
+  {
+    "term": "resistance",
+    "definition": "Resistance is a measure of how much a component reduces the electric current flow in a circuit. It is often visualized as a restriction in a water pipe.",
+    "mnemonic": "Oh my (Ohm) this is heavy but I know I am causing a resistance",
+    "image": "/images/user/base/Physics/Electricity/to-remember-resistance-is-measured-in-ohms-8-(3).ae4be34.jpg",
+    "keywords": [
+      "Oh my",
+      "Ohm"
+    ],
+    "question": "What is resistance in an electrical circuit?"
+  },
+  {
+    "term": "Voltage",
+    "definition": "Voltage is the potential difference required to push electrons through a circuit. It can be thought of as the 'height' necessary to drive electron flow.",
+    "mnemonic": "Voltage is like the height that you have to vault to in order that you can crash down to push an electron through.",
+    "image": "/images/user/base/Physics/Electricity/voltage-7.9375350.jpg",
+    "keywords": [
+      "vault",
+      "volt",
+      "height"
+    ],
+    "question": "What is voltage?"
+  },
+  {
+    "term": "Ohm's Law",
+    "definition": "V = I * R, where V is voltage, I is current, and R is resistance.",
+    "mnemonic": "Resistance say Oh my (Ohm's) he is heavy.",
+    "image": "/images/user/base/Physics/Electricity/Ohms law/ohms-law.c1c09ec.jpg",
+    "keywords": [
+      "Ohm's",
+      "Oh my"
+    ],
+    "question": "What is Ohm's Law?"
+  },
+  {
+    "term": "Current",
+    "definition": "The speed of the electrons through the cable.",
+    "mnemonic": "Currently I'm not travelling very fast.",
+    "image": null,
+    "keywords": null,
+    "question": "What does the term \"current\" refer to in electrical circuits?"
+  },
+  {
+    "term": "Voltage",
+    "definition": "Measured in volts.",
+    "mnemonic": "Voltage comes from volting from a height.",
+    "image": null,
+    "keywords": null,
+    "question": "What is voltage measured in?"
+  },
+  {
+    "term": "Ohm's Law",
+    "definition": "Ohm's Law states that the current through a conductor between two points is directly proportional to the voltage across the two points. The formula is V = IR, where V is voltage, I is current, and R is resistance.",
+    "mnemonic": "Ohm got so tired that she decided to have a rest by Vaulting into an Indian Restaurant.",
+    "image": "/images/user/base/Physics/Electricity/Ohms law/ohms-law-physics-formulas-34.462b8f1.jpg",
+    "keywords": [
+      "Vaulting",
+      "Indian",
+      "Restaurant"
+    ],
+    "question": "What does Ohm's Law state, and what is its formula?"
+  },
+  {
+    "term": "Ohm's Law",
+    "definition": "The relationship between voltage (V), current (I), and resistance (R) expressed as V = I x R.",
+    "mnemonic": "Vault into an Indian Restaurant",
+    "image": "/images/user/base/Physics/Electricity/Ohms law/ohms-law-alternative-method-3.d1eb577.jpg",
+    "keywords": [
+      "V",
+      "I",
+      "R"
+    ],
+    "question": "What is Ohm's Law?"
+  },
+  {
+    "term": "Galvanometer",
+    "definition": "A device that measures both the direction of the current and its magnitude in the circuit.",
+    "mnemonic": "I was galvanised into action. I wanted to meet her (galvanometer), I knew the direction, but I couldn't get past the current.",
+    "image": "/images/user/base/Physics/Electricity/galvenometer---cant-get-past-the-current.ddea515.jpg",
+    "keywords": [
+      "galvan",
+      "meet her",
+      "direction",
+      "current"
+    ],
+    "question": "What is a galvanometer?"
+  },
+  {
+    "term": "Ammeter",
+    "definition": "A measuring instrument used to measure the magnitude of the current in a circuit. Electric currents are measured in amperes.",
+    "mnemonic": "An ammeter measures amperes of current in a circuit.",
+    "image": "/images/user/base/Physics/Electricity/Flemings right and left hand rule/ammeter-1.641d12c.jpg",
+    "keywords": [
+      "ammeter",
+      "amperes"
+    ],
+    "question": "What does an ammeter measure in a circuit?"
+  },
+  {
+    "term": "Ferromagnetic Metals",
+    "definition": "Metals that are highly susceptible to magnetism, such as iron, steel, cobalt, and nickel.",
+    "mnemonic": "Imagine a knight wearing steel armour has nicked all the irons. The colt he was riding bolted.",
+    "image": "/images/user/base/Physics/both-poles-of-a-magnet-in-mammoth-science.bc8b691.jpg",
+    "keywords": [
+      "steel",
+      "nick",
+      "iron",
+      "co",
+      "bolt"
+    ],
+    "question": "What are ferromagnetic metals?"
+  },
+  {
+    "term": "Manufacturing permanent magnets",
+    "definition": "Permanent magnets are made from 'hard' ferromagnetic materials such as iron, nickel, cobalt and steel (which contains iron).",
+    "mnemonic": "Permanent magnets are like 'HARD' workers; once they start working, they stay magnetized.",
+    "image": "/images/user/base/Physics/magnets/manufacturing-permanent-magnets.585e7b4.jpg",
+    "keywords": [
+      "HARD"
+    ],
+    "question": "How are permanent magnets manufactured?"
+  },
+  {
+    "term": "Magnetic field lines",
+    "definition": "Magnetic fields have the convention that they travel from north to south on a magnet.",
+    "mnemonic": "Santa in RED LEAVES the NORTH POLE. LINES LEAVE THE MAGNET AT RED AND NORTH.",
+    "image": "/images/user/base/Physics/magnets/north-pole-santa---magnets-v2.097e489.jpg",
+    "keywords": [
+      "RED LEAVES",
+      "NORTH POLE"
+    ],
+    "question": "What is the convention for the direction of magnetic field lines on a magnet?"
+  },
+  {
+    "term": "Right-hand grip rule",
+    "definition": "In electromagnetism, the right-hand grip rule is used to determine the direction of the magnetic field around a current-carrying wire. If you point your right thumb in the direction of current flow, the curl of your fingers shows the direction of the magnetic field.",
+    "mnemonic": "GRIP IS RIGHT HAND ON A WIRE. All the R's go together.",
+    "image": "/images/user/base/Physics/magnets/wires and magnetic fields/grip-is-right-hand-1.689da35.jpg",
+    "keywords": [
+      "GR",
+      "RIGHT",
+      "R"
+    ],
+    "question": "What does the right-hand grip rule help you determine in electromagnetism?"
+  },
+  {
+    "term": "induction",
+    "definition": "The creation of something, used in terms such as 'electrical induction' and 'magnetic induction'.",
+    "mnemonic": "In the duct (induction) they found a new creation.",
+    "image": "/images/user/base/Physics/Electricity/incuction---creation.9a83e98.jpg",
+    "keywords": [
+      "In the duct",
+      "creation"
+    ],
+    "question": "What does induction refer to?"
+  },
+  {
+    "term": "Ammeter",
+    "definition": "A measuring instrument used to measure the magnitude of the current in a circuit.",
+    "mnemonic": "Electric currents are measured in <span style='color:red;'>amperes</span>, hence the name <span style='color:red;'>ammeter</span>.",
+    "image": "/images/user/base/Physics/Electricity/Flemings right and left hand rule/ammeter-1.641d12c.jpg",
+    "keywords": [
+      "amperes"
+    ],
+    "question": "What is an ammeter used for?"
+  },
+  {
+    "term": "Galvanometer",
+    "definition": "A galvanometer measures both the direction of the current and its magnitude in the circuit. A positive reading shows current travelling in one direction, and a negative reading shows it travelling in the other.",
+    "mnemonic": "I was galvanised into action. I wanted to meet her (galvanometer), I knew the direction, but I couldn't get past the current.",
+    "image": "/images/user/base/Physics/Electricity/galvenometer---cant-get-past-the-current.ddea515.jpg",
+    "keywords": [
+      "galvan",
+      "meet her",
+      "direction",
+      "current"
+    ],
+    "question": "What does a galvanometer measure in a circuit?"
+  },
+  {
+    "term": "Fleming's Left Hand Rule",
+    "definition": "A rule used to predict the direction of force in an electromagnetic field when both the direction of current and magnetic field are known.",
+    "mnemonic": "First finger (Field) points in the direction of the magnetic field, second finger (Current) points in the direction of the current, and thumb (Motion) shows the direction of the force on the rod.",
+    "image": "/images/user/base/Physics/Electricity/Flemings right and left hand rule/flemings-right-and-left-hand-rule-9.8da9f2c.jpg",
+    "keywords": [
+      "First finger",
+      "Field",
+      "Second finger",
+      "Current",
+      "Thumb",
+      "Motion"
+    ],
+    "question": "What is Fleming's Left Hand Rule?"
+  },
+  {
+    "term": "Lenz's law",
+    "definition": "A magnet inducing a current in a wire experiences a force which opposes any movement.",
+    "mnemonic": "Lenz's law = OPPOSE CHANGE. You have to wear lenses (Lenz's) but she opposed the change.",
+    "image": "/images/user/base/Physics/Lenzs law/lenz's-law.1d1af15.jpg",
+    "keywords": [
+      "lenses",
+      "opposed the change"
+    ],
+    "question": "What does Lenz's law state in terms of a magnet inducing a current in a wire?"
+  },
+  {
+    "term": "Commutator",
+    "definition": "A device used to reverse the flow of an electric current.",
+    "mnemonic": "Commuters hated her (commutator) because everywhere she went in her electric car she went in reverse.",
+    "image": "/images/user/base/Physics/Electricity/an electric coil between a magnet/an-electrical-coil-between-a-magnet-7b.38ab112.jpg",
+    "keywords": [
+      "Commut",
+      "hate",
+      "electric",
+      "reverse"
+    ],
+    "question": "What is a commutator?"
+  },
+  {
+    "term": "Armature",
+    "definition": "An armature is a rotating coil or coils of a dynamo or electric motor.",
+    "mnemonic": "Her arm sure (armature) felt heavy as the snake rotated coils of itself around her arm.",
+    "image": "/images/user/base/Physics/Electromagnetism/armeture-102-armeture.c8d3c18.jpg",
+    "keywords": [
+      "arm sure",
+      "rotated coils"
+    ],
+    "question": "What is an armature in the context of a dynamo or electric motor?"
+  },
+  {
+    "term": "Generator",
+    "definition": "A device which turns motive power (mechanical energy) into electricity, either alternating current (A.C.) or direct current (D.C.).",
+    "mnemonic": "GEnErators produce ElEctricity. Unlike Motors produce Movement or Motors produce Mechanical power.",
+    "image": null,
+    "keywords": [
+      "GEnErators",
+      "ElEctricity",
+      "Motors",
+      "Movement",
+      "Mechanical"
+    ],
+    "question": "What is a generator?"
+  },
+  {
+    "term": "Dynamo",
+    "definition": "Creating Direct Current (DC)",
+    "mnemonic": "Dine a moment (Dynamo) with the Disney Characters (DC).",
+    "image": "/images/user/base/Physics/Electromagnetism/dynamo.587756f.jpg",
+    "keywords": [
+      "Dine a moment",
+      "Disney Characters",
+      "Dynamo",
+      "DC"
+    ],
+    "question": "What is the purpose of a dynamo?"
+  },
+  {
+    "term": "Refraction",
+    "definition": "When light or other waves pass from one medium to another at an oblique angle, the light slows down and changes direction.",
+    "mnemonic": "He made reference to wanting more action (refraction) and so there was a change in direction from all of them.",
+    "image": "/images/user/base/Physics/Refraction/refraction-shouty-man---page-1-.b5acfb8.jpg",
+    "keywords": [
+      "reference",
+      "action",
+      "change in direction"
+    ],
+    "question": "What is refraction?"
+  },
+  {
+    "term": "Refraction",
+    "definition": "When light travels from air to water or glass, it slows down and changes direction towards the normal line.",
+    "mnemonic": "Think of the ray of light as a tractor moving from a fast road onto a slow muddy, grassy field. The first wheel hits the muddy grass and slows down. The other side is still travelling well on the road. This makes the tractor slow down and change direction.",
+    "image": "/images/user/base/Physics/Refraction/air to water or glass/the-first-wheel-hits.397edd9.jpg",
+    "keywords": [
+      "tractor",
+      "muddy grass"
+    ],
+    "question": "What happens during refraction when light travels from air into water or glass?"
+  },
+  {
+    "term": "Refraction",
+    "definition": "The bending of light as it passes across the boundary between materials with different speeds of light.",
+    "mnemonic": "FAST TO SLOW = TOWARDS THE NORMAL, SLOW TO FAST = AWAY FROM THE NORMAL",
+    "image": "/images/user/base/Physics/Refraction/Mnemonic/refraction---fast-sofa.435e94c.jpg",
+    "keywords": [
+      "fast",
+      "slow",
+      "sofa"
+    ],
+    "question": "What is refraction?"
+  },
+  {
+    "term": "Snell's Law",
+    "definition": "Snell's Law relates to the refraction of light as it passes through different mediums, defined by the refractive indices and angles of incidence and refraction.",
+    "mnemonic": "SNAILS RACE = SNELL'S LAW",
+    "image": "/images/user/base/Physics/Refraction/Snells law/snail-race-r---12.76a149d.jpg",
+    "keywords": [
+      "SNAIL",
+      "SNELL"
+    ],
+    "question": "What is Snell's Law?"
+  },
+  {
+    "term": "Refraction",
+    "definition": "Refraction is the change in direction of a wave passing from one medium to another due to its change in speed.",
+    "mnemonic": "REFerence ACTION = REFRACTION",
+    "image": "/images/user/base/Physics/Refraction/refraction-shouty-man---page-1-.b5acfb8.jpg",
+    "keywords": [
+      "REF",
+      "ACTION"
+    ],
+    "question": "What is refraction?"
+  },
+  {
+    "term": "Refractive index",
+    "definition": "The extent to which light is refracted (changes direction) when it enters a medium.",
+    "mnemonic": "HIGH N° n = Much bend (HIGH bend) towards normal line LOW N° n = Little bend (LOW bend) towards the normal line",
+    "image": "/images/user/base/Physics/Refraction/Different refractive index/refraction---refraction-index.fbdb58e-new.aec3cb7.jpg",
+    "keywords": [
+      "N°",
+      "Much bend",
+      "Little bend"
+    ],
+    "question": "What is the refractive index?"
+  },
+  {
+    "term": "Myopia and Hyperopia",
+    "definition": "Two common defects of the eye where myopia refers to short-sightedness and hyperopia refers to long-sightedness.",
+    "mnemonic": "Myopia sounds like 'my O (oh) pia' - focus too close; Hyperopia sounds like 'hyper-pia' - focus too far.",
+    "image": "/images/user/base/Physics/Myopia and hyperopia short and long sight/myopia-and-hyperopia-pronounciation.0d80466.jpg",
+    "keywords": [
+      "my O pia",
+      "hyper-pia"
+    ],
+    "question": "What are myopia and hyperopia?"
+  },
+  {
+    "term": "Myopia",
+    "definition": "A condition where close objects are seen clearly, but distant ones are blurry.",
+    "mnemonic": "Sight short (is great), Focus short, Word short (myopia). My old piano (Myopia)",
+    "image": "/images/user/base/Physics/Myopia and hyperopia short and long sight/how to remember/how-to-remember-myopia-and-hyperopia-eye-22.9a0b693.jpg",
+    "keywords": [
+      "My old piano"
+    ],
+    "question": "What is myopia?"
+  },
+  {
+    "term": "Hyperopia",
+    "definition": "A condition where distant objects are seen more clearly than close ones.",
+    "mnemonic": "Sight long (is great), Focus long, Word long (hyperopia). Hyper-active = Overly long excitement = Hyperopia",
+    "image": "/images/user/base/Physics/Myopia and hyperopia short and long sight/how to remember/how-to-remember-myopia-and-hyperopia-eye-22.9a0b693.jpg",
+    "keywords": [
+      "Hyperactive"
+    ],
+    "question": "What is hyperopia?"
+  },
+  {
+    "term": "Newton's 1st Law",
+    "definition": "A thing will not change its state of motion or rest unless an external force acts on it. Known as the law of inertia.",
+    "mnemonic": "Newton kicks a cow and because it hurt her (inertia), she walked a few metres.",
+    "image": "/images/user/base/Physics/Newtons laws of motion/How to remember Newton's laws of motion/newtons-1st-law.10186be.jpg",
+    "keywords": "it hurt her",
+    "question": "What is Newton's 1st Law?"
+  },
+  {
+    "term": "Newton's 2nd Law",
+    "definition": "A force applied is equal to mass times acceleration (F=ma).",
+    "mnemonic": "Newton kicks the cow again and the cow screamed MAAAAA.",
+    "image": "/images/user/base/Physics/Newtons laws of motion/How to remember Newton's laws of motion/newtons-2nd-law.25b3d7d.jpg",
+    "keywords": "MAAAAA",
+    "question": "What does Newton's 2nd Law state?"
+  },
+  {
+    "term": "Newton's 3rd Law",
+    "definition": "For every action, there is an equal and opposite reaction. Forces are found in pairs.",
+    "mnemonic": "Newton kicks the cow for a third time, but this time the cow kicks Newton back with an equal and opposite force.",
+    "image": "/images/user/base/Physics/Newtons laws of motion/How to remember Newton's laws of motion/newtons-3rd-law.8bc7f9a.jpg",
+    "keywords": null,
+    "question": "What is Newton's 3rd Law?"
+  },
+  {
+    "term": "Power",
+    "definition": "Power in the context of electrical circuits, denoted as P, is the product of voltage (V) and current (I).",
+    "mnemonic": "Power = Village Idiot",
+    "image": null,
+    "keywords": [
+      "Village",
+      "Idiot"
+    ],
+    "question": "What is the definition of power in the context of electrical circuits?"
+  },
+  {
+    "term": "Alternating Current",
+    "definition": "An electric current that periodically reverses direction.",
+    "mnemonic": "TeslA = Alternating current",
+    "image": null,
+    "keywords": [
+      "TeslA",
+      "Alternating"
+    ],
+    "question": "What is alternating current?"
+  },
+  {
+    "term": "Direct Current",
+    "definition": "An electric current flowing in one direction only.",
+    "mnemonic": "EDison = Direct current",
+    "image": null,
+    "keywords": [
+      "EDison",
+      "Direct"
+    ],
+    "question": "What is direct current?"
+  },
+  {
+    "term": "Convex lens: principal axis",
+    "definition": "The principal axis is an imaginary line that is perpendicular to the vertical axis and passes through the centre of curvatures.",
+    "mnemonic": "The principal opera singer is the main opera singer.",
+    "image": "/images/user/base/Physics/Lenses/Convex lens principal axis/convex-lens-principal-axis-4-1.65d04d7.jpg",
+    "keywords": [
+      "principal",
+      "main"
+    ],
+    "question": "What is the principal axis of a convex lens?"
+  },
+  {
+    "term": "Convergent",
+    "definition": "Coming close together; when several rays of light come together at a point.",
+    "mnemonic": "The con jumped off the verge and landed on an English gent (convergent) at the meeting point.",
+    "image": "/images/user/base/Physics/Lenses/Convergent rays of light - convex lens/convergent-rays-of-light.f9539c4.jpg",
+    "keywords": [
+      "con",
+      "verge",
+      "gent",
+      "meeting point"
+    ],
+    "question": "What does convergent mean?"
+  },
+  {
+    "term": "Normal line",
+    "definition": "A line perpendicular (at 90°) to the tangent line at the point where a ray touches the surface of a convex lens.",
+    "mnemonic": "Think of a bow held by a Norman warrior, where the bow is the curve and the arrow is the normal line.",
+    "image": "/images/user/base/Physics/Lenses/Normal line convex lens/normal-line---mirrors-physics.0ed4457.jpg",
+    "keywords": [
+      "Norman",
+      "bow",
+      "arrow"
+    ],
+    "question": "What is a normal line in the context of a convex lens?"
+  },
+  {
+    "term": "Principal focal point",
+    "definition": "The principal focal point of a lens is the point where parallel rays of light converge after passing through the lens. A convex lens has two principal focal points.",
+    "mnemonic": "The principal focus (convergence) point is where parallel rays of light converge.",
+    "image": "/images/user/base/Physics/Lenses/Principal focal point (two of them)/principal-focal-point-(two-of-them)-convex-lens-35.5278959.jpg",
+    "keywords": [
+      "focal",
+      "focus",
+      "convergence"
+    ],
+    "question": "What is the principal focal point of a lens?"
+  },
+  {
+    "term": "Lens equation",
+    "definition": "The equation used to find the principal focal length (F) of a convex lens: 1/F = 1/do + 1/di, where do is the object distance and di is the image distance.",
+    "mnemonic": "IF I DO I DIE",
+    "image": "/images/user/base/Physics/Lenses/Practical ways to find the principal focus length lens equation/practical-ways-to-find-the-principal-focus-length-lens-equation-19-2_v2.a6bc31d.jpg",
+    "keywords": [
+      "IF",
+      "DO",
+      "DI"
+    ],
+    "question": "What is the lens equation used for finding the principal focal length of a convex lens?"
+  },
+  {
+    "term": "Concave lens",
+    "definition": "A lens that possesses at least one surface that curves inwards.",
+    "mnemonic": "Cave people lived in caves which were hollowed out of rocks. A concave surface curves inwards like the mouth of a cave.",
+    "image": "/images/user/base/Physics/Lenses/Concave Lens/concave-lens-1-1-.04ad7e9.jpg",
+    "keywords": [
+      "Cave"
+    ],
+    "question": "What is a concave lens?"
+  },
+  {
+    "term": "Divergent",
+    "definition": "Moving away in different directions.",
+    "mnemonic": "We can divert urgently (divergent) in different directions.",
+    "image": "/images/user/base/Physics/Lenses/Concave/Divergent rays of light/divergent-rays-of-light-5-1.26077e5.jpg",
+    "keywords": [
+      "divert urgently",
+      "different directions"
+    ],
+    "question": "What does divergent mean?"
+  },
+  {
+    "term": "Refraction concave lens",
+    "definition": "For a concave lens, when light travels from a fast medium (e.g. air) to a slow medium (e.g. glass), the light bends towards the normal. When traveling from a slow to a fast medium, the light bends away from the normal.",
+    "mnemonic": "Use the term 'FAST SOFA' to recall that, when going from a fast medium to a slow medium, the light bends towards the normal. Conversely, when passing from a slow medium to a fast medium, the light bends away from the normal.",
+    "image": "/images/user/base/Physics/Lenses/Concave/Refraction concave lens/refraction-concave-lens-7-1jpg.0474743.jpg",
+    "keywords": [
+      "FAST SOFA"
+    ],
+    "question": "How does refraction occur in a concave lens?"
+  },
+  {
+    "term": "Convex mirrors",
+    "definition": "A convex surface curves outwards.",
+    "mnemonic": "Look at the fourth letter of convex and you can see it is the start of a convex surface.",
+    "image": "/images/user/base/Physics/Mirrors/Convex mirrors mnemonic/convex-mirrors-mnemonic-1-1.cd1711e.jpg",
+    "keywords": [
+      "V"
+    ],
+    "question": "What is a convex mirror?"
+  },
+  {
+    "term": "Vertex",
+    "definition": "The point on the mirror's surface where the principal axis meets the mirror.",
+    "mnemonic": "Vertex = Vertical and 'X' = marks the spot",
+    "image": "/images/user/base/Physics/Mirrors/Convex mirrors and vertex/convex-mirrors-and-vertex-3-1_v3.aa0f804.jpg",
+    "keywords": [
+      "Vertex",
+      "Vertical",
+      "X"
+    ],
+    "question": "What is the vertex in mirror geometry?"
+  },
+  {
+    "term": "Spherometer",
+    "definition": "A device used to measure the curvature of a sphere.",
+    "mnemonic": "A spherometer is a device which does exactly as it says: a sphere (sphere) it measures (ometer).",
+    "image": "/images/user/base/Physics/Mirrors/Spherometer/spherometer-16-1-v2.9ee2ac9.jpg",
+    "keywords": [
+      "sphere",
+      "ometer"
+    ],
+    "question": "What is a spherometer?"
+  },
+  {
+    "term": "Laterally inverted",
+    "definition": "A phenomenon where the image in a mirror appears flipped sideways, and if you lift your right hand, it looks like your left hand is lifted.",
+    "mnemonic": "You can remember what laterally means by thinking of a human. The lats on a human are on the sides of your back. Laterally – means sideways.",
+    "image": "/images/user/base/Physics/Mirrors/Laterally inverted/laterally-inverted-17-1.7ea2d0d.jpg",
+    "keywords": [
+      "lats",
+      "sides"
+    ],
+    "question": "What is meant by \"laterally inverted\"?"
+  }
+]
