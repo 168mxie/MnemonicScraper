@@ -119,17 +119,111 @@ def process_csv_file(csv_filename):
     for subject, data in subjects_data.items():
         print(f"  - {subject}: {len(data)} items")
 
+def csv_to_json_array(csv_filename, output_filename=None):
+    """
+    Convert CSV file to a single JSON file containing an array of all JSON objects.
+    
+    Args:
+        csv_filename (str): Path to the input CSV file
+        output_filename (str): Path to the output JSON file (optional)
+    """
+    if output_filename is None:
+        # Create output filename based on input filename
+        base_name = os.path.splitext(csv_filename)[0]
+        output_filename = f"{base_name}_converted.json"
+    
+    all_items = []
+    
+    try:
+        with open(csv_filename, 'r', encoding='utf-8') as csvfile:
+            reader = csv.DictReader(csvfile)
+            
+            for row in reader:
+                url = row.get('url', '').strip()
+                concept_json = row.get('concept_and_mnemonic', '').strip()
+                
+                if not url or not concept_json:
+                    print(f"Skipping row with missing data: {row}")
+                    continue
+                
+                try:
+                    # Clean the JSON data - remove markdown code block markers
+                    cleaned_json = concept_json.strip()
+                    
+                    # Remove ```json and ``` markers if present
+                    if cleaned_json.startswith('```json'):
+                        cleaned_json = cleaned_json[7:]  # Remove ```json
+                    elif cleaned_json.startswith('```'):
+                        cleaned_json = cleaned_json[3:]   # Remove ```
+                    
+                    if cleaned_json.endswith('```'):
+                        cleaned_json = cleaned_json[:-3]  # Remove trailing ```
+                    
+                    cleaned_json = cleaned_json.strip()
+                    
+                    # Parse the cleaned JSON data
+                    json_data = json.loads(cleaned_json)
+                    
+                    # Handle both single objects and arrays
+                    if isinstance(json_data, list):
+                        # Add all items in the list
+                        all_items.extend(json_data)
+                    else:
+                        # Single object, add it to the list
+                        all_items.append(json_data)
+                        
+                except json.JSONDecodeError as e:
+                    print(f"Error parsing JSON for URL {url}: {e}")
+                    continue
+    
+    except FileNotFoundError:
+        print(f"Error: Could not find CSV file '{csv_filename}'")
+        return
+    except Exception as e:
+        print(f"Error reading CSV file: {e}")
+        return
+    
+    # Write the JSON array to file
+    try:
+        with open(output_filename, 'w', encoding='utf-8') as jsonfile:
+            json.dump(all_items, jsonfile, indent=2, ensure_ascii=False)
+        
+        print(f"Successfully converted CSV to JSON!")
+        print(f"Created {output_filename} with {len(all_items)} total items")
+        
+    except Exception as e:
+        print(f"Error writing JSON file {output_filename}: {e}")
+
 def main():
     """
     Main function to run the CSV processor.
     Update the filename below to match your CSV file.
     """
-    csv_filename = 'cleaned_questions.csv'  # Change this to your actual CSV filename
+    csv_filename = 'elements_questions.csv'  # Change this to your actual CSV filename
     
-    print(f"Processing CSV file: {csv_filename}")
-    print("="*50)
+    print("Choose an option:")
+    print("1. Convert CSV to categorized JSON files")
+    print("2. Convert CSV to single JSON array")
+    print("3. Do both")
     
-    process_csv_file(csv_filename)
+    choice = input("Enter your choice (1, 2, or 3): ").strip()
+    
+    if choice == '1':
+        print(f"Processing CSV file: {csv_filename}")
+        print("="*50)
+        process_csv_file(csv_filename)
+    elif choice == '2':
+        print(f"Converting CSV to JSON array: {csv_filename}")
+        print("="*50)
+        csv_to_json_array(csv_filename)
+    elif choice == '3':
+        print(f"Processing CSV file: {csv_filename}")
+        print("="*50)
+        process_csv_file(csv_filename)
+        print("\n" + "="*50)
+        csv_to_json_array(csv_filename)
+    else:
+        print("Invalid choice. Please run again and select 1, 2, or 3.")
 
 if __name__ == "__main__":
     main()

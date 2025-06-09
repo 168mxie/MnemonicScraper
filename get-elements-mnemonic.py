@@ -39,9 +39,17 @@ class SeleniumContentScraper:
             - The main term being taught 
             - The definition or defining features of the term
             - The mnemonic used to remember it, which is usually a full sentence with the term and/or definitions in red.
+            - An image to aid in the memory of the mnemonic IF APPLICABLE
+            - Key words that rhyme or sound similar to the term which can be used to remember it. These are usually in red. Note that sometimes part of the keyword is highlighted in red, make sure that the keyword is always a full English word
 
-            Respond in this JSON format:
-            {{ "term": "...", "definition": "...", "mnemonic": "..." }}""",
+            If there is no mnemonic, keep the elements of the array empty or null. 
+
+            Respond with a JSON array, where each item is an object with:
+                - "term": The term being remembered
+                - "definition": If applicable, a definition of the term
+                - "mnemonic": the mnemonic used to remember the term and definition if applicable
+                - "image": Link to image source used to remember mnemonic if applicable
+                - "keywords": key words that sound similar to the term or definition that are used in the mnemonic if applicable""",
         
             input=main_content_text,
         )

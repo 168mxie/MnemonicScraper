@@ -37,14 +37,10 @@ Definition: "{definition}"
             response = self.client.responses.create(
                 model="gpt-4o",
                 instructions=f"""
-                Given a term and its definition, generate an appropriate question where the definition would be the answer. The term should be present in the question. Imagine the question being the front of a flashcard, with the definition being on the back, where the mnemonic is used to remember the answer to the question.
+                Given an element and its symbol, generate an appropriate question where the definition would be the answer. The term should be present in the question. Imagine the question being the front of a flashcard, with the definition being on the back, where the mnemonic is used to remember the answer to the question.
 
                 Examples:
-                - Term: "France", Definition: "Paris" → Question: "What is the capital of France?"
-                - Term: "Photosynthesis", Definition: "Process by which plants convert sunlight into energy" → Question: "What is photosynthesis?"
-                - Term: "Alberto Giacometti", Definition: "Swiss artist known for creating abstract, tall, slender sculptures" → Question: "Who was Alberto Giacometti?"
-
-                Generate only the question, nothing else. Make it natural and appropriate for a flashcard.
+                - "What is the chemical symbol for Argon?"
                 """,
                 input=input_data,
             )
@@ -216,8 +212,8 @@ def main():
     processor = FlashcardProcessor(client)
     
     # Process the CSV file
-    input_file = "cleaned.csv"  # Your input CSV file
-    output_file = "cleaned_questions.csv"  # Output file
+    input_file = "mammoth_memory_elements.csv"  # Your input CSV file
+    output_file = "elements_questions.csv"  # Output file
     
     processor.process_csv_file(input_file, output_file)
     

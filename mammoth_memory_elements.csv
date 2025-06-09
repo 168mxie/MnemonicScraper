@@ -1,268 +1,866 @@
 url,concept_and_mnemonic
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Tin"",
-  ""definition"": ""Tin is a chemical element with the symbol Sn."",
-  ""mnemonic"": ""Tin is represented by a tin of Snails (Sn).""
-}
+[
+    {
+        ""term"": ""Tin"",
+        ""definition"": ""Tin is a chemical element with the symbol Sn, located in the basic metals group of the periodic table."",
+        ""mnemonic"": ""Tin is represented by a tin of Snails (Sn)"",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.61 Tin memory aid.jpg"",
+        ""keywords"": [""Snails""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Iodine"",
-  ""definition"": ""Iodine is an element on the periodic table and is part of the halogens group."",
-  ""mnemonic"": ""Iodine is illustrated by an eye dining with another eye (I).""
-}
+[
+    {
+        ""term"": ""Iodine"",
+        ""definition"": ""Iodine is a chemical element represented by the symbol 'I' and found in the halogens group of the periodic table."",
+        ""mnemonic"": ""Iodine is illustrated by an eye dining with another eye (I)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.63 Iodine memory aid.jpg"",
+        ""keywords"": [""eye"", ""dining""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Platinum"",
-  ""definition"": ""Platinum is a chemical element shown as Pt on the periodic table, part of the transition metals group."",
-  ""mnemonic"": ""Platinum is a platypus wearing a wig that has been Plaited (Pt).""
-}
+[
+    {
+        ""term"": ""Platinum"",
+        ""definition"": null,
+        ""mnemonic"": ""Platinum is a platypus wearing a wig that has been Plaited (Pt)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.65 Platinum memory aid.jpg"",
+        ""keywords"": [""Platypus"", ""Plaited""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Gold"",
-  ""definition"": ""Gold is shown as Au on the periodic table in the transition metals group."",
-  ""mnemonic"": ""Gold is a goldfish taking a stroll in the Autumn (Au).""
-}
+[
+    {
+        ""term"": ""Gold"",
+        ""definition"": ""Gold is represented by the symbol Au in the periodic table and is a transition metal."",
+        ""mnemonic"": ""Gold is a goldfish taking a stroll in the Autumn (Au)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.67 Gold memory aid.jpg"",
+        ""keywords"": [""Autumn""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Mercury"",
-  ""definition"": ""Mercury is shown as Hg on the periodic table in the transition metals group."",
-  ""mnemonic"": ""Mercury is illustrated by a thermometer in the middle of a bear Hug (Hg).""
-}
+[
+    {
+        ""term"": ""Mercury"",
+        ""definition"": ""A transition metal element with the symbol Hg."",
+        ""mnemonic"": ""Mercury is illustrated by a thermometer in the middle of a bear Hug (Hg)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.69 Mercury memory aid.jpg"",
+        ""keywords"": [""Hug""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-    ""term"": ""Lead"",
-    ""definition"": ""Lead is represented by the symbol Pb on the periodic table."",
-    ""mnemonic"": ""Lead is a pencil in a jar of Peanut butter (Pb).""
-}
+[
+    {
+        ""term"": ""Lead"",
+        ""definition"": null,
+        ""mnemonic"": ""Lead is a pencil in a jar of Peanut butter (Pb)."",
+        ""image"": ""https://example.com/images/user/base/Chemistry/4.%20Periodic%20Table/2.4.71%20Lead%20memory%20aid.jpg"",
+        ""keywords"": [""Peanut"", ""butter""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Radon"",
-  ""definition"": ""Radon is a noble gas represented by the symbol Rn."",
-  ""mnemonic"": ""Radon is illustrated by a radio on a Run (Rn).""
-}
+[
+  {
+    ""term"": ""Radon"",
+    ""definition"": ""Radon is a chemical element represented by the symbol 'Rn' on the periodic table."",
+    ""mnemonic"": ""Radon is illustrated by a radio on a Run (Rn)."",
+    ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.73 Radon memory aid.jpg"",
+    ""keywords"": [""Run""]
+  }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{ 
-    ""term"": ""Uranium"", 
-    ""definition"": ""Uranium is a transition metal represented on the periodic table with the symbol 'U'. It has an atomic number of 92, indicating it has this many electrons."", 
-    ""mnemonic"": ""Uranium is represented by UFOs from Uranus (U)."" 
-}
+[
+    {
+        ""term"": ""Uranium"",
+        ""definition"": ""Uranium is a chemical element represented by the symbol 'U' on the periodic table."",
+        ""mnemonic"": ""Uranium is represented by UFOs from Uranus (U)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.75 Uranium memory aid.jpg"",
+        ""keywords"": [""UFOs"", ""Uranus""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Hydrogen"",
-  ""definition"": ""Hydrogen is represented by the symbol H; it is the lightest and most abundant element in the universe."",
-  ""mnemonic"": ""Hydrogen is represented by a High dragon (H).""
-}
+[
+    {
+        ""term"": ""Hydrogen"",
+        ""definition"": ""Represented by H on the periodic table, it is the lightest and most abundant element in the universe."",
+        ""mnemonic"": ""Hydrogen is represented by a High dragon (H)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.1 Hydrogen mnemonic.jpg"",
+        ""keywords"": [
+            ""High"",
+            ""dragon""
+        ]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-    ""term"": ""Helium"",
-    ""definition"": ""Helium is the first noble gas and has the lowest boiling point of all the elements."",
-    ""mnemonic"": ""Helium is illustrated by someone inhaling helium from a balloon and laughing: ‘He he he!’ (He).""
-}
+[
+    {
+        ""term"": ""Helium"",
+        ""definition"": ""Helium is the first noble gas and has the lowest boiling point of all the elements."",
+        ""mnemonic"": ""Helium is illustrated by someone inhaling helium from a balloon and laughing: ‘He he he!’ (He)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.3 Helium memory aid.jpg"",
+        ""keywords"": [""he"", ""he""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Lithium"",
-  ""definition"": ""Lithium is shown as Li on the periodic table and is the lightest known solid element."",
-  ""mnemonic"": ""Lithium is a lethal mum with her baby wearing lipstick (Li).""
-}
+[
+    {
+        ""term"": ""Lithium"",
+        ""definition"": ""The lightest known solid element"",
+        ""mnemonic"": ""Lithium is a lethal mum with her baby wearing Lipstick (Li)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.5 Lithium memory aid.jpg"",
+        ""keywords"": [""lethal"", ""mum"", ""lipstick""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Beryllium"",
-  ""definition"": ""Beryllium is represented by Be on the periodic table and is a very rare element in the universe."",
-  ""mnemonic"": ""Beryllium is represented by a bear ill in Bed (Be).""
-}
+[
+    {
+        ""term"": ""Beryllium"",
+        ""definition"": ""Beryllium is represented by the symbol Be on the periodic table and is a very rare element in the universe."",
+        ""mnemonic"": ""Beryllium is represented by a bear ill in Bed (Be)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.7 Beryllium mnemonic.jpg"",
+        ""keywords"": [""bear"", ""Bed""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Boron"",
-  ""definition"": ""Boron is a semimetal, a low abundance material in the universe, represented by the symbol 'B'."",
-  ""mnemonic"": ""Boron is a boar on a Ball (B).""
-}
+[
+    {
+        ""term"": ""Boron"",
+        ""definition"": ""Boron is a low abundance material in the universe and a semimetal element represented by the symbol 'B' on the periodic table."",
+        ""mnemonic"": ""Boron is a boar on a Ball (B)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.9 Boron mnemonic.jpg"",
+        ""keywords"": [""boar"", ""Ball""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Carbon"",
-  ""definition"": ""Carbon is a chemical element displayed as C on the periodic table, it is in the non-metal group (14) period 2 and is the 4th most abundant element in universe."",
-  ""mnemonic"": ""Carbon is illustrated by a car burning in the sea (C).""
-}
+[
+    {
+        ""term"": ""Carbon"",
+        ""definition"": ""Carbon is a chemical element displayed as C on the periodic table; it is in the non-metal group (14) period 2 and is the 4th most abundant element in the universe."",
+        ""mnemonic"": ""Carbon is illustrated by a car burning in the sea (C)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.11 Carbon memory aid.jpg"",
+        ""keywords"": [""car"", ""burn"", ""sea""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Nitrogen"",
-  ""definition"": ""Nitrogen is a non-metal that can exist in gas, liquid, or solid forms."",
-  ""mnemonic"": ""Nitrogen is the Trojan horse at Night (N).""
-}
+[
+    {
+        ""term"": ""Nitrogen"",
+        ""definition"": ""A non-metal element that can exist in gas, liquid, or solid forms."",
+        ""mnemonic"": ""Nitrogen is the Trojan horse at Night (N)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.13 Nitrogen memory prompt.jpg"",
+        ""keywords"": [
+            ""Night""
+        ]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Oxygen"",
-  ""definition"": ""Oxygen is shown in the periodic table as O, found in the non-metals group, and it is the 3rd most abundant element in the universe. It is also the most important element keeping you alive."",
-  ""mnemonic"": ""Oxygen is an oxygen mask worn by an Ox (O).""
-}
+[
+    {
+        ""term"": ""Oxygen"",
+        ""definition"": ""A non-metal element, third most abundant in the universe, and it's essential for human life."",
+        ""mnemonic"": ""Oxygen is an oxygen mask worn by an Ox (O)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.15 Oxygen memory prompt.jpg"",
+        ""keywords"": [
+            ""oxygen"",
+            ""Ox""
+        ]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{ 
-  ""term"": ""Fluorine"", 
-  ""definition"": ""Fluorine is a very reactive and toxic element found in the halogen group of the periodic table."", 
-  ""mnemonic"": ""Fluorine is wine flowing across a Floor (F).""
-}
+[
+    {
+        ""term"": ""Fluorine"",
+        ""definition"": ""Fluorine is a very reactive and toxic element found in the halogen group of the periodic table."",
+        ""mnemonic"": ""Fluorine is wine flowing across a Floor (F)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.17 Fluorine mnemonic.jpg"",
+        ""keywords"": [""flowing"", ""Floor""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Neon"",
-  ""definition"": ""Neon is a noble gas, very abundant in the universe, and when exposed to an electrical field it emits light. It has 2 full atomic shells, the inner with 2 electrons and the outer with 8 electrons, therefore it will not react."",
-  ""mnemonic"": ""Neon is illustrated by a neon arrow pointing to a kNee (Ne).""
-}
+[
+    {
+        ""term"": ""Neon"",
+        ""definition"": ""A noble gas that is very abundant in the universe and emits light when exposed to an electrical field."",
+        ""mnemonic"": ""Neon is illustrated by a neon arrow pointing to a knee (Ne)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.19 Neon memory aid.jpg"",
+        ""keywords"": [
+            ""neon"",
+            ""knee""
+        ]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Sodium"",
-  ""definition"": ""Sodium is a very reactive metal found in the alkali metal group and is shown as Na in the periodic table."",
-  ""mnemonic"": ""Sodium is a soda bottle surrounded by gNats (Na).""
-}
+[
+    {
+        ""term"": ""Sodium"",
+        ""definition"": ""Sodium is a very reactive metal found in the alkali metal group of the periodic table."",
+        ""mnemonic"": ""Sodium is a soda bottle surrounded by gnats (Na)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.21 Sodium memory aid.jpg"",
+        ""keywords"": [
+            ""soda"",
+            ""gnats""
+        ]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Magnesium"",
-  ""definition"": ""Magnesium is represented by Mg in the periodic table in the alkaline earth group."",
-  ""mnemonic"": ""Magnesium is represented by Maggots in a bun (Mg).""
-}
+[
+    {
+        ""term"": ""Magnesium"",
+        ""definition"": null,
+        ""mnemonic"": ""Magnesium is represented by Maggots in a bun (Mg)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.23 Magnesium memory aid.jpg"",
+        ""keywords"": [""Maggots""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Aluminium"",
-  ""definition"": ""Aluminium is a basic metal element represented by the symbol Al on the periodic table."",
-  ""mnemonic"": ""Aluminium is a can being crushed by an Alligator (Al).""
-}
+[
+    {
+        ""term"": ""Aluminium"",
+        ""definition"": ""Aluminium is represented by Al on the periodic table."",
+        ""mnemonic"": ""Aluminium is a can being crushed by an Alligator (Al)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.25 Aluminium memory aid.jpg"",
+        ""keywords"": [""Alligator""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Silicon"",
-  ""definition"": ""Silicon is represented by the symbol Si and is a non-metal."",
-  ""mnemonic"": ""Silicon is a Silly convict (Si).""
-}
+[
+    {
+        ""term"": ""Silicon"",
+        ""definition"": null,
+        ""mnemonic"": ""Silicon is a Silly convict (Si)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.27 Silicon memory aid.jpg"",
+        ""keywords"": [""Silly"", ""convict""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Phosphorus"",
-  ""definition"": ""Phosphorus is a fossil having a Pee (P)."",
-  ""mnemonic"": ""Phosphorus is a fossil having a Pee (P).""
-}
+[
+    {
+        ""term"": ""Phosphorus"",
+        ""definition"": ""Phosphorus is an element on the periodic table, shown as P in the non-metals group."",
+        ""mnemonic"": ""Phosphorus is a fossil having a Pee (P)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.29 Phosphorus memory aid.jpg"",
+        ""keywords"": [""fossil"", ""Pee""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Sulphur"",
-  ""definition"": ""Sulphur is a non-metal element represented by the symbol 'S'."",
-  ""mnemonic"": ""Sulphur is represented by a Sultan wearing a fur coat with a Snake (S).""
-}
+[
+    {
+        ""term"": ""Sulphur"",
+        ""definition"": ""Sulphur is represented by the symbol 'S' on the periodic table and belongs to the non-metals group."",
+        ""mnemonic"": ""Sulphur is represented by a Sultan wearing a fur coat with a Snake (S)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.31 Sulphur memory aid.jpg"",
+        ""keywords"": [""Sultan"", ""Snake""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Chlorine"",
-  ""definition"": ""Chlorine is a chemical element in the halogens group, illustrated by a swimming pool and a giant Claw (Cl)."",
-  ""mnemonic"": ""Chlorine is illustrated by a swimming pool and a giant Claw (Cl).""
-}
+[
+    {
+        ""term"": ""Chlorine"",
+        ""definition"": null,
+        ""mnemonic"": ""Chlorine is illustrated by a swimming pool and a giant Claw (<span style=\""color: #ff0000;\"">Cl</span>)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.33 Chlorine memory aid.jpg"",
+        ""keywords"": [""Claw""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Argon"",
-  ""definition"": ""Argon is a noble gas, characterized by having full electron shells and not reacting under normal circumstances."",
-  ""mnemonic"": ""Argon is a pirate exclaiming that his coins are ‘Ar rrr gone!’ (Ar).""
-}
+[
+    {
+        ""term"": ""Argon"",
+        ""definition"": ""Argon is a noble gas that is non-reactive."",
+        ""mnemonic"": ""Argon is a pirate exclaiming that his coins are ‘Ar rrr gone!’ (Ar)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.35 Argon memory aid.jpg"",
+        ""keywords"": [""Arr""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Potassium"",
-  ""definition"": ""Potassium is an alkali metal with the symbol K, shown on the periodic table."",
-  ""mnemonic"": ""Potassium is the potato King (K).""
-}
+[
+    {
+        ""term"": ""Potassium"",
+        ""definition"": ""A chemical element represented by the symbol K, belonging to the alkali metals group in the periodic table."",
+        ""mnemonic"": ""Potassium is the potato King (K)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.37 Potassium memory aid.jpg"",
+        ""keywords"": [
+            ""King""
+        ]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Calcium"",
-  ""definition"": ""Calcium is a chemical element represented by the symbol Ca and belongs to the alkaline earth metals group. It has 4 electron shells with the inner, second and third shells fully filled, and the outer shell containing 2 electrons."",
-  ""mnemonic"": ""Calcium is represented by a skeletal Cat drinking milk (Ca).""
-}
+[
+    {
+        ""term"": ""Calcium"",
+        ""definition"": ""Calcium is an element represented by the symbol 'Ca'."",
+        ""mnemonic"": ""Calcium is represented by a skeletal Cat drinking milk (Ca)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.39 Calcium memory aid.jpg"",
+        ""keywords"": [
+            ""Cat""
+        ]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Titanium"",
-  ""definition"": ""Titanium is a transition metal element, symbolized as Ti, with an atomic number of 22."",
-  ""mnemonic"": ""Titanium is the sinking Titanic covered in Ties (Ti).""
-}
+[
+    {
+        ""term"": ""Titanium"",
+        ""definition"": null,
+        ""mnemonic"": ""Titanium is the sinking Titanic covered in Ties (Ti)."",
+        ""image"": ""https://website.com/images/user/base/Chemistry/4. Periodic Table/2.4.41 Titanium memory aid.jpg"",
+        ""keywords"": [""Titanic"", ""Ties""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Chromium"",
-  ""definition"": ""Chromium is a transition metal represented by the symbol Cr."",
-  ""mnemonic"": ""Chromium is represented by a chrome car emblem in the shape of a Crow (Cr).""
-}
+[
+    {
+        ""term"": ""Chromium"",
+        ""definition"": ""Chromium is a transition metal represented by the symbol Cr."",
+        ""mnemonic"": ""Chromium is represented by a chrome car emblem in the shape of a Crow (Cr)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.43 Chromium memory aid.jpg"",
+        ""keywords"": [""chrome"", ""Crow""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Manganese"",
-  ""definition"": ""Manganese is a transition metal represented by the symbol Mn."",
-  ""mnemonic"": ""Manganese is illustrated by a Manga Man who has hurt his Manga knees (Mn).""
-}
+[
+    {
+        ""term"": ""Manganese"",
+        ""definition"": null,
+        ""mnemonic"": ""Manganese is illustrated by a Manga Man who has hurt his Manga knees (Mn)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.45 Manganese memory aid.jpg"",
+        ""keywords"": [""Manga"", ""Man""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Iron"",
-  ""definition"": ""Iron is represented as Fe on the periodic table and is a transition metal."",
-  ""mnemonic"": ""Iron is someone ironing with their Feet (Fe).""
-}
+[
+    {
+        ""term"": ""Iron"",
+        ""definition"": null,
+        ""mnemonic"": ""Iron is someone ironing with their Feet (Fe)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.47 Iron memory aid.jpg"",
+        ""keywords"": [
+            ""Feet""
+        ]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Cobalt"",
-  ""definition"": ""Cobalt is a transition metal represented by the symbol 'Co'."",
-  ""mnemonic"": ""Cobalt is represented by a bolt joining together two Cobras (Co).""
-}
+[
+    {
+        ""term"": ""Cobalt"",
+        ""definition"": ""Cobalt is represented on the periodic table with the symbol Co and belongs to the transition metals group."",
+        ""mnemonic"": ""Cobalt is represented by a bolt joining together two Cobras (Co)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.49 Colbalt memory aid.jpg"",
+        ""keywords"": [""bolt"", ""cobra""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Nickel"",
-  ""definition"": ""Nickel is a chemical element with symbol Ni and atomic number 28, found in the transition metals group."",
-  ""mnemonic"": ""Nickel is someone holding a pair of really big kNickers (Ni).""
-}
+[
+    {
+        ""term"": ""Nickel"",
+        ""definition"": ""Nickel is a chemical element symbolized by Ni on the periodic table and is part of the transition metals group."",
+        ""mnemonic"": ""Nickel is someone holding a pair of really big knickers (Ni)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.51 Nickel memory aid.jpg"",
+        ""keywords"": [
+            ""knickers""
+        ]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Copper"",
-  ""definition"": ""Copper is a transition metal with the symbol Cu and an atomic number of 29."",
-  ""mnemonic"": ""Copper is a copper saying 'See you (Cu) in court!'""
-}
+[
+    {
+        ""term"": ""Copper"",
+        ""definition"": ""Copper is a transition metal with the symbol Cu."",
+        ""mnemonic"": ""Copper is a copper saying 'See you (Cu) in court!'"",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.53 Copper memory aid.jpg"",
+        ""keywords"": [""See"", ""you""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Zinc"",
-  ""definition"": ""Zinc is a transition metal represented by the symbol Zn."",
-  ""mnemonic"": ""Zinc is illustrated by a sinking boat containing a Zulu and a little nun (Zn).""
-}
+[
+    {
+        ""term"": ""Zinc"",
+        ""definition"": ""A chemical element with the symbol Zn, found in the transition metals group."",
+        ""mnemonic"": ""Zinc is illustrated by a sinking boat containing a Zulu and a little nun (Zn)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.55 Zinc memory aid.jpg"",
+        ""keywords"": [""Z"", ""nun""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-  ""term"": ""Bromine"",
-  ""definition"": ""Bromine is represented by Br on the periodic table in the halogens group and has an atomic number of 35."",
-  ""mnemonic"": ""Bromine is represented by a mean Brother (Br).""
-}
+[
+    {
+        ""term"": ""Bromine"",
+        ""definition"": ""Bromine is a chemical element represented by the symbol Br."",
+        ""mnemonic"": ""Bromine is represented by a mean Brother (Br)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.57 Bromine memory aid.jpg"",
+        ""keywords"": [""Brother""]
+    }
+]
 ```"
 https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
-{
-    ""term"": ""Silver"",
-    ""definition"": ""Silver is represented by two silver-backed gorillas being aggressive (Ag) or just think of it as A Gorilla."",
-    ""mnemonic"": ""Silver is represented by two silver-backed gorillas being Ag-gressive (Ag) or just think of it as A Gorilla.""
-}
+[
+    {
+        ""term"": ""Silver"",
+        ""definition"": ""Silver is a chemical element represented by the symbol 'Ag' on the periodic table."",
+        ""mnemonic"": ""Silver is represented by two silver-backed gorillas being Aggressive (Ag) or just think of it as A Gorilla."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.59 Silver memory aid.jpg"",
+        ""keywords"": [""Aggressive"", ""Gorilla""]
+    }
+]
 ```"
-
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Tin"",
+        ""definition"": null,
+        ""mnemonic"": ""Tin is represented by a tin of Snails (Sn)"",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.61 Tin memory aid.jpg"",
+        ""keywords"": [""Snails""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Iodine"",
+        ""definition"": ""Iodine is a halogen element represented by the symbol 'I' on the periodic table."",
+        ""mnemonic"": ""Iodine is illustrated by an eye dining with another eye (I)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.63 Iodine memory aid.jpg"",
+        ""keywords"": [""eye"", ""dining""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Platinum"",
+        ""definition"": ""A transition metal represented by the symbol 'Pt' on the periodic table."",
+        ""mnemonic"": ""Platinum is a platypus wearing a wig that has been Plaited (Pt)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.65 Platinum memory aid.jpg"",
+        ""keywords"": [""platypus"", ""plaited""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Gold"",
+        ""definition"": ""Gold is shown as Au on the periodic table; it is a transition metal."",
+        ""mnemonic"": ""Gold is a goldfish taking a stroll in the Autumn (Au)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.67 Gold memory aid.jpg"",
+        ""keywords"": [""Autumn""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Mercury"",
+        ""definition"": ""Mercury is illustrated by a thermometer in the middle of a bear Hug (Hg)."",
+        ""mnemonic"": null,
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.69 Mercury memory aid.jpg"",
+        ""keywords"": [""Hug""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Lead"",
+        ""definition"": null,
+        ""mnemonic"": ""Lead is a pencil in a jar of Peanut butter (Pb)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.71 Lead memory aid.jpg"",
+        ""keywords"": [""Peanut"", ""butter""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Radon"",
+        ""definition"": ""A noble gas element with the symbol Rn and atomic number 86."",
+        ""mnemonic"": ""Radon is illustrated by a radio on a Run (Rn)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.73 Radon memory aid.jpg"",
+        ""keywords"": [""Run""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Uranium"",
+        ""definition"": null,
+        ""mnemonic"": ""Uranium is represented by UFOs from Uranus (U)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.75 Uranium memory aid.jpg"",
+        ""keywords"": [""Uranus""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Hydrogen"",
+        ""definition"": ""Hydrogen is the lightest and most abundant element in the universe."",
+        ""mnemonic"": ""Hydrogen is represented by a High dragon (H)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.1 Hydrogen mnemonic.jpg"",
+        ""keywords"": [
+            ""High""
+        ]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Helium"",
+        ""definition"": ""Helium is the first noble gas and has the lowest boiling point of all the elements."",
+        ""mnemonic"": ""Helium is illustrated by someone inhaling helium from a balloon and laughing: ‘He he he!’ (He)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.3 Helium memory aid.jpg"",
+        ""keywords"": [
+            ""he""
+        ]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Lithium"",
+        ""definition"": ""Lithium is the lightest known solid element."",
+        ""mnemonic"": ""Lithium is a lethal mum with her baby wearing lipstick (Li)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.5 Lithium memory aid.jpg"",
+        ""keywords"": [""lethal"", ""lipstick""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Beryllium"",
+        ""definition"": ""Beryllium is a chemical element with the symbol Be and is a very rare element in the universe."",
+        ""mnemonic"": ""Beryllium is represented by a bear ill in Bed (Be)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.7 Beryllium mnemonic.jpg"",
+        ""keywords"": [""bear"", ""Be"", ""Bed""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Boron"",
+        ""definition"": ""Boron is a semimetal element with low abundance in the universe."",
+        ""mnemonic"": ""Boron is a boar on a Ball (B)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.9 Boron mnemonic.jpg"",
+        ""keywords"": [""boar"", ""ball""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Carbon"",
+        ""definition"": ""Carbon is a chemical element displayed as C on the periodic table. It is in the non-metal group (14), period 2, and is the 4th most abundant element in the universe."",
+        ""mnemonic"": ""Carbon is illustrated by a car burning in the sea (C)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.11 Carbon memory aid.jpg"",
+        ""keywords"": [""car"", ""burn"", ""sea""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Nitrogen"",
+        ""definition"": ""A non-metal element that can exist in gas, liquid, or solid forms."",
+        ""mnemonic"": ""Nitrogen is the Trojan horse at Night (N)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.13 Nitrogen memory prompt.jpg"",
+        ""keywords"": [
+            ""Night""
+        ]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Oxygen"",
+        ""definition"": ""A non-metal element, symbol O, atomic number 8, that is essential for life."",
+        ""mnemonic"": ""Oxygen is an oxygen mask worn by an Ox (O)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.15 Oxygen memory prompt.jpg"",
+        ""keywords"": [""oxygen"", ""ox""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Fluorine"",
+        ""definition"": ""Fluorine is a very reactive and toxic element found in the halogen group."",
+        ""mnemonic"": ""Fluorine is wine flowing across a Floor (F)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.17 Fluorine mnemonic.jpg"",
+        ""keywords"": [""flowing"", ""floor""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Neon"",
+        ""definition"": ""Neon is a noble gas, very abundant in the universe, and emits light when exposed to an electrical field."",
+        ""mnemonic"": ""Neon is illustrated by a neon arrow pointing to a knee (Ne)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.19 Neon memory aid.jpg"",
+        ""keywords"": [""neon"", ""knee""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Sodium"",
+        ""definition"": ""Sodium is an element represented by the symbol 'Na' on the periodic table. It is found in the alkali metal group and is a very reactive metal."",
+        ""mnemonic"": ""Sodium is a soda bottle surrounded by gnats (Na)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.21 Sodium memory aid.jpg"",
+        ""keywords"": [""soda"", ""gnats""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Magnesium"",
+        ""definition"": ""An alkaline earth metal with the symbol Mg."",
+        ""mnemonic"": ""Magnesium is represented by Maggots in a bun (Mg)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.23 Magnesium memory aid.jpg"",
+        ""keywords"": [""Maggots""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Aluminium"",
+        ""definition"": ""A basic metal shown as Al on the periodic table."",
+        ""mnemonic"": ""Aluminium is a can being crushed by an Alligator (Al)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.25 Aluminium memory aid.jpg"",
+        ""keywords"": [""Alligator""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Silicon"",
+        ""definition"": null,
+        ""mnemonic"": ""Silicon is a Silly convict (Si)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.27 Silicon memory aid.jpg"",
+        ""keywords"": [""Silly"", ""convict""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Phosphorus"",
+        ""definition"": null,
+        ""mnemonic"": ""Phosphorus is a fossil having a Pee (P)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.29 Phosphorus memory aid.jpg"",
+        ""keywords"": [""fossil"", ""Pee""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Sulphur"",
+        ""definition"": ""Sulphur is a non-metal represented by the symbol 'S' in the periodic table."",
+        ""mnemonic"": ""Sulphur is represented by a Sultan wearing a fur coat with a Snake (S)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.31 Sulphur memory aid.jpg"",
+        ""keywords"": [""Sultan"", ""Snake""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Chlorine"",
+        ""definition"": ""Chlorine is an element in the halogens group."",
+        ""mnemonic"": ""Chlorine is illustrated by a swimming pool and a giant Claw (Cl)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.33 Chlorine memory aid.jpg"",
+        ""keywords"": [""Claw""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Argon"",
+        ""definition"": ""Argon is a noble gas that will not react due to having full electron shells."",
+        ""mnemonic"": ""Argon is a pirate exclaiming that his coins are ‘Arrrrr gone!’ (Ar)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.35 Argon memory aid.jpg"",
+        ""keywords"": [""Arrrr"", ""gone""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Potassium"",
+        ""definition"": ""Potassium is represented by the symbol 'K' in the periodic table and is an alkali metal."",
+        ""mnemonic"": ""Potassium is the potato King (K)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.37 Potassium memory aid.jpg"",
+        ""keywords"": [
+            ""King""
+        ]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Calcium"",
+        ""definition"": ""Calcium is a chemical element with the symbol Ca and is part of the alkali earth metals group."",
+        ""mnemonic"": ""Calcium is represented by a skeletal Cat drinking milk (Ca)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.39 Calcium memory aid.jpg"",
+        ""keywords"": [""Cat""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Titanium"",
+        ""definition"": null,
+        ""mnemonic"": ""Titanium is the sinking Titanic covered in Ties (Ti)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.41 Titanium memory aid.jpg"",
+        ""keywords"": [
+            ""Titanic"",
+            ""Ties""
+        ]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Chromium"",
+        ""definition"": ""A chemical element represented by the symbol Cr and atomic number 24."",
+        ""mnemonic"": ""Chromium is represented by a chrome car emblem in the shape of a Crow (Cr)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.43 Chromium memory aid.jpg"",
+        ""keywords"": [""chrome"", ""Crow""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Manganese"",
+        ""definition"": null,
+        ""mnemonic"": ""Manganese is illustrated by a Manga Man who has hurt his Manga knees (Mn)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.45 Manganese memory aid.jpg"",
+        ""keywords"": [
+            ""Manga"",
+            ""Man"",
+            ""knees""
+        ]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Iron"",
+        ""definition"": ""Chemical element with the symbol Fe and atomic number 26."",
+        ""mnemonic"": ""Iron is someone ironing with their Feet (Fe)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.47 Iron memory aid.jpg"",
+        ""keywords"": [""Feet""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Cobalt"",
+        ""definition"": ""Cobalt is a transition metal represented by the symbol Co on the periodic table. It has an atomic number of 27."",
+        ""mnemonic"": ""Cobalt is represented by a bolt joining together two Cobras (Co)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.49 Colbalt memory aid.jpg"",
+        ""keywords"": [""cobras""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Nickel"",
+        ""definition"": null,
+        ""mnemonic"": ""Nickel is someone holding a pair of really big kNickers (Ni)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.51 Nickel memory aid.jpg"",
+        ""keywords"": [
+            ""kickers"",
+            ""knickers""
+        ]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Copper"",
+        ""definition"": ""Copper is a transition metal in the periodic table, represented by the symbol Cu."",
+        ""mnemonic"": ""Copper is a copper saying \""See you (Cu) in court!\"""",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.53 Copper memory aid.jpg"",
+        ""keywords"": [""See"", ""you""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Zinc"",
+        ""definition"": ""A transition metal represented by the symbol Zn on the periodic table."",
+        ""mnemonic"": ""Zinc is illustrated by a sinking boat containing a Zulu and a little nun (Zn)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.55 Zinc memory aid.jpg"",
+        ""keywords"": [""Zulu"", ""nun""]
+    }
+]
+```"
+https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html,"```json
+[
+    {
+        ""term"": ""Bromine"",
+        ""definition"": ""Bromine is represented by the symbol Br on the periodic table and belongs to the halogens group."",
+        ""mnemonic"": ""Bromine is represented by a mean Brother (Br)."",
+        ""image"": ""/images/user/base/Chemistry/4. Periodic Table/2.4.57 Bromine memory aid.jpg"",
+        ""keywords"": [""Brother""]
+    }
+]
+```"

@@ -1,0 +1,387 @@
+[
+  {
+    "term": "Tin",
+    "definition": "Tin is a chemical element with the symbol Sn, located in the basic metals group of the periodic table.",
+    "mnemonic": "Tin is represented by a tin of Snails (Sn)",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.61 Tin memory aid.jpg",
+    "keywords": [
+      "Snails"
+    ],
+    "question": "What is the chemical symbol for Tin in the periodic table?"
+  },
+  {
+    "term": "Iodine",
+    "definition": "Iodine is a chemical element represented by the symbol 'I' and found in the halogens group of the periodic table.",
+    "mnemonic": "Iodine is illustrated by an eye dining with another eye (I).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.63 Iodine memory aid.jpg",
+    "keywords": [
+      "eye",
+      "dining"
+    ],
+    "question": "What is the chemical symbol for Iodine?"
+  },
+  {
+    "term": "Platinum",
+    "definition": "Platinum is represented by the symbol Pt on the periodic",
+    "mnemonic": "Platinum is a platypus wearing a wig that has been Plaited (Pt).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.65 Platinum memory aid.jpg",
+    "keywords": [
+      "Platypus",
+      "Plaited"
+    ],
+    "question": "What is the chemical symbol for Platinum?"
+  },
+  {
+    "term": "Gold",
+    "definition": "Gold is represented by the symbol Au in the periodic table and is a transition metal.",
+    "mnemonic": "Gold is a goldfish taking a stroll in the Autumn (Au).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.67 Gold memory aid.jpg",
+    "keywords": [
+      "Autumn"
+    ],
+    "question": "What is the chemical symbol for Gold?"
+  },
+  {
+    "term": "Mercury",
+    "definition": "A transition metal element with the symbol Hg.",
+    "mnemonic": "Mercury is illustrated by a thermometer in the middle of a bear Hug (Hg).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.69 Mercury memory aid.jpg",
+    "keywords": [
+      "Hug"
+    ],
+    "question": "What is the chemical symbol for Mercury?"
+  },
+  {
+    "term": "Lead",
+    "definition": "Lead is represented by the symbol Pb on the periodic table",
+    "mnemonic": "Lead is a pencil in a jar of Peanut butter (Pb).",
+    "image": "https://example.com/images/user/base/Chemistry/4.%20Periodic%20Table/2.4.71%20Lead%20memory%20aid.jpg",
+    "keywords": [
+      "Peanut",
+      "butter"
+    ],
+    "question": "What is the chemical symbol for Lead?"
+  },
+  {
+    "term": "Radon",
+    "definition": "Radon is a chemical symbol represented by the symbol 'Rn' on the periodic table.",
+    "mnemonic": "Radon is illustrated by a radio on a Run (Rn).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.73 Radon memory aid.jpg",
+    "keywords": [
+      "Run"
+    ],
+    "question": "What is the chemical symbol for Radon?"
+  },
+  {
+    "term": "Uranium",
+    "definition": "Uranium is a chemical element represented by the symbol 'U' on the periodic table.",
+    "mnemonic": "Uranium is represented by UFOs from Uranus (U).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.75 Uranium memory aid.jpg",
+    "keywords": [
+      "UFOs",
+      "Uranus"
+    ],
+    "question": "What is the chemical symbol for Uranium?"
+  },
+  {
+    "term": "Hydrogen",
+    "definition": "Represented by H on the periodic table, it is the lightest and most abundant element in the universe.",
+    "mnemonic": "Hydrogen is represented by a High dragon (H).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.1 Hydrogen mnemonic.jpg",
+    "keywords": [
+      "High",
+      "dragon"
+    ],
+    "question": "What is the chemical symbol for Hydrogen?"
+  },
+  {
+    "term": "Helium",
+    "definition": "Helium is the first noble gas and has the lowest boiling point of all the elements.",
+    "mnemonic": "Helium is illustrated by someone inhaling helium from a balloon and laughing: ‘He he he!’ (He).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.3 Helium memory aid.jpg",
+    "keywords": [
+      "he",
+      "he"
+    ],
+    "question": "What is the chemical symbol for Helium?"
+  },
+  {
+    "term": "Lithium",
+    "definition": "Lithium is represented by the symbol Li on the periodic table",
+    "mnemonic": "Lithium is a lethal mum with her baby wearing Lipstick (Li).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.5 Lithium memory aid.jpg",
+    "keywords": [
+      "lethal",
+      "mum",
+      "lipstick"
+    ],
+    "question": "What is the chemical symbol for Lithium?"
+  },
+  {
+    "term": "Beryllium",
+    "definition": "Beryllium is represented by the symbol Be on the periodic table and is a very rare element in the universe.",
+    "mnemonic": "Beryllium is represented by a bear ill in Bed (Be).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.7 Beryllium mnemonic.jpg",
+    "keywords": [
+      "bear",
+      "Bed"
+    ],
+    "question": "What is the chemical symbol for Beryllium?"
+  },
+  {
+    "term": "Boron",
+    "definition": "Boron is a low abundance material in the universe and a semimetal element represented by the symbol 'B' on the periodic table.",
+    "mnemonic": "Boron is a boar on a Ball (B).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.9 Boron mnemonic.jpg",
+    "keywords": [
+      "boar",
+      "Ball"
+    ],
+    "question": "What is a semimetal element with low abundance in the universe, represented by the symbol 'B' on the periodic table?"
+  },
+  {
+    "term": "Carbon",
+    "definition": "Carbon is a chemical element displayed as C on the periodic table; it is in the non-metal group (14) period 2 and is the 4th most abundant element in the universe.",
+    "mnemonic": "Carbon is illustrated by a car burning in the sea (C).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.11 Carbon memory aid.jpg",
+    "keywords": [
+      "car",
+      "burn",
+      "sea"
+    ],
+    "question": "What is the chemical element represented by the symbol C, known for being in group 14, period 2, and the 4th most abundant element in the universe?"
+  },
+  {
+    "term": "Nitrogen",
+    "definition": "A non-metal element that can exist in gas, liquid, or solid forms.",
+    "mnemonic": "Nitrogen is the Trojan horse at Night (N).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.13 Nitrogen memory prompt.jpg",
+    "keywords": [
+      "Night"
+    ],
+    "question": "What is the chemical symbol for Nitrogen?"
+  },
+  {
+    "term": "Oxygen",
+    "definition": "Oxygen is represented by the symbol O on the periodic table.",
+    "mnemonic": "Oxygen is an oxygen mask worn by an Ox (O).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.15 Oxygen memory prompt.jpg",
+    "keywords": [
+      "oxygen",
+      "Ox"
+    ],
+    "question": "What is the chemical symbol for Oxygen?"
+  },
+  {
+    "term": "Neon",
+    "definition": "A noble gas that is very abundant in the universe and emits light when exposed to an electrical field.",
+    "mnemonic": "Neon is illustrated by a neon arrow pointing to a knee (Ne).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.19 Neon memory aid.jpg",
+    "keywords": [
+      "neon",
+      "knee"
+    ],
+    "question": "What is the chemical symbol for Neon?"
+  },
+  {
+    "term": "Sodium",
+    "definition": "Sodium is represented by the symbol Na on the periodic table.",
+    "mnemonic": "Sodium is a soda bottle surrounded by gnats (Na).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.21 Sodium memory aid.jpg",
+    "keywords": [
+      "soda",
+      "gnats"
+    ],
+    "question": "What is the chemical element represented by the symbol \"Na\" and known for being a very reactive metal in the alkali metal group of the periodic table?"
+  },
+  {
+    "term": "Magnesium",
+    "definition": "Magnesium is represented by the symbol Mg on the periodic table",
+    "mnemonic": "Magnesium is represented by Maggots in a bun (Mg).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.23 Magnesium memory aid.jpg",
+    "keywords": [
+      "Maggots"
+    ],
+    "question": "What is the chemical symbol for Magnesium?"
+  },
+  {
+    "term": "Aluminium",
+    "definition": "Aluminium is represented by Al on the periodic table.",
+    "mnemonic": "Aluminium is a can being crushed by an Alligator (Al).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.25 Aluminium memory aid.jpg",
+    "keywords": [
+      "Alligator"
+    ],
+    "question": "What is the chemical symbol for Aluminium?"
+  },
+  {
+    "term": "Silicon",
+    "definition": "Silicon is represented by the chemical symbol Si on the periodic table",
+    "mnemonic": "Silicon is a Silly convict (Si).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.27 Silicon memory aid.jpg",
+    "keywords": [
+      "Silly",
+      "convict"
+    ],
+    "question": "What is the chemical symbol for Silicon?"
+  },
+  {
+    "term": "Phosphorus",
+    "definition": "Phosphorus is an element on the periodic table, shown as P in the non-metals group.",
+    "mnemonic": "Phosphorus is a fossil having a Pee (P).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.29 Phosphorus memory aid.jpg",
+    "keywords": [
+      "fossil",
+      "Pee"
+    ],
+    "question": "What is the chemical symbol for Phosphorus?"
+  },
+  {
+    "term": "Sulphur",
+    "definition": "Sulphur is represented by the symbol 'S' on the periodic table and belongs to the non-metals group.",
+    "mnemonic": "Sulphur is represented by a Sultan wearing a fur coat with a Snake (S).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.31 Sulphur memory aid.jpg",
+    "keywords": [
+      "Sultan",
+      "Snake"
+    ],
+    "question": "What is the chemical symbol for Sulphur?"
+  },
+  {
+    "term": "Argon",
+    "definition": "Argon is a noble gas that is non-reactive, represented by chemical symbol Ar.",
+    "mnemonic": "Argon is a pirate exclaiming that his coins are ‘Ar rrr gone!’ (Ar).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.35 Argon memory aid.jpg",
+    "keywords": [
+      "Arr"
+    ],
+    "question": "What is the chemical symbol for Argon?"
+  },
+  {
+    "term": "Potassium",
+    "definition": "A chemical element represented by the symbol K, belonging to the alkali metals group in the periodic table.",
+    "mnemonic": "Potassium is the potato King (K).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.37 Potassium memory aid.jpg",
+    "keywords": [
+      "King"
+    ],
+    "question": "What is the chemical symbol for Potassium?"
+  },
+  {
+    "term": "Calcium",
+    "definition": "Calcium is an element represented by the symbol 'Ca'.",
+    "mnemonic": "Calcium is represented by a skeletal Cat drinking milk (Ca).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.39 Calcium memory aid.jpg",
+    "keywords": [
+      "Cat"
+    ],
+    "question": "What is the symbol for the element Calcium?"
+  },
+  {
+    "term": "Titanium",
+    "definition": null,
+    "mnemonic": "Titanium is the sinking Titanic covered in Ties (Ti).",
+    "image": "https://website.com/images/user/base/Chemistry/4. Periodic Table/2.4.41 Titanium memory aid.jpg",
+    "keywords": [
+      "Titanic",
+      "Ties"
+    ],
+    "question": "What is the chemical symbol for Titanium?"
+  },
+  {
+    "term": "Chromium",
+    "definition": "Chromium is a transition metal represented by the symbol Cr.",
+    "mnemonic": "Chromium is represented by a chrome car emblem in the shape of a Crow (Cr).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.43 Chromium memory aid.jpg",
+    "keywords": [
+      "chrome",
+      "Crow"
+    ],
+    "question": "What is the chemical symbol for Chromium?"
+  },
+  {
+    "term": "Manganese",
+    "definition": "Manganese is represented by the chemical symbol Mn on the periodic table.",
+    "mnemonic": "Manganese is illustrated by a Manga Man who has hurt his Manga knees (Mn).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.45 Manganese memory aid.jpg",
+    "keywords": [
+      "Manga",
+      "Man"
+    ],
+    "question": "What is the chemical symbol for Manganese?"
+  },
+  {
+    "term": "Iron",
+    "definition": "Iron is represented by the chemcial symbol Fe on the periodic table",
+    "mnemonic": "Iron is someone ironing with their Feet (Fe).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.47 Iron memory aid.jpg",
+    "keywords": [
+      "Feet"
+    ],
+    "question": "What is the chemical symbol for Iron?"
+  },
+  {
+    "term": "Cobalt",
+    "definition": "Cobalt is represented on the periodic table with the symbol Co and belongs to the transition metals group.",
+    "mnemonic": "Cobalt is represented by a bolt joining together two Cobras (Co).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.49 Colbalt memory aid.jpg",
+    "keywords": [
+      "bolt",
+      "cobra"
+    ],
+    "question": "What is the chemical symbol for Cobalt?"
+  },
+  {
+    "term": "Nickel",
+    "definition": "Nickel is a chemical element symbolized by Ni on the periodic table and is part of the transition metals group.",
+    "mnemonic": "Nickel is someone holding a pair of really big knickers (Ni).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.51 Nickel memory aid.jpg",
+    "keywords": [
+      "knickers"
+    ],
+    "question": "What is symbolized by Ni on the periodic table and is part of the transition metals group?"
+  },
+  {
+    "term": "Copper",
+    "definition": "Copper is a transition metal with the symbol Cu.",
+    "mnemonic": "Copper is a copper saying 'See you (Cu) in court!'",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.53 Copper memory aid.jpg",
+    "keywords": [
+      "See",
+      "you"
+    ],
+    "question": "What is the symbol for the transition metal Copper?"
+  },
+  {
+    "term": "Zinc",
+    "definition": "A chemical element with the symbol Zn, found in the transition metals group.",
+    "mnemonic": "Zinc is illustrated by a sinking boat containing a Zulu and a little nun (Zn).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.55 Zinc memory aid.jpg",
+    "keywords": [
+      "Z",
+      "nun"
+    ],
+    "question": "What is the chemical element with the symbol Zn, often associated with a sinking boat containing a Zulu and a little nun?"
+  },
+  {
+    "term": "Bromine",
+    "definition": "Bromine is a chemical element represented by the symbol Br.",
+    "mnemonic": "Bromine is represented by a mean Brother (Br).",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.57 Bromine memory aid.jpg",
+    "keywords": [
+      "Brother"
+    ],
+    "question": "What is the chemical symbol for Bromine?"
+  },
+  {
+    "term": "Silver",
+    "definition": "Silver is a chemical element represented by the symbol 'Ag' on the periodic table.",
+    "mnemonic": "Silver is represented by two silver-backed gorillas being Aggressive (Ag) or just think of it as A Gorilla.",
+    "image": "/images/user/base/Chemistry/4. Periodic Table/2.4.59 Silver memory aid.jpg",
+    "keywords": [
+      "Aggressive",
+      "Gorilla"
+    ],
+    "question": "What is the chemical symbol for Silver?"
+  }
+]
